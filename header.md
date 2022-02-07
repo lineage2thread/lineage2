@@ -1,8 +1,6 @@
 <center>![](xoxoji.png)</center>
 
-### <center>Добро пожаловать в мир Lineage II.</center>
-
-<p style="text-align:center">Center this text</p>
+<center>Добро пожаловать в мир Lineage II.</center>
 
 ---
 

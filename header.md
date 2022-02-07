@@ -22,4 +22,8 @@
 
 Есть идеи по улучшению содержания шапки или этого мануала? Пиши ответом на ОП-пост.
 
-<p class="center">Center this text!</p>
+<style>
+.center {
+ text-align: center
+}
+</style>

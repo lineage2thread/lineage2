@@ -1,4 +1,4 @@
-![](anonymity.jpg)
+![](anonymity.png)
 
 # Добро пожаловать в мир Lineage II.
 

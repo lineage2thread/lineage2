@@ -1,3 +1,7 @@
+![](pics/perekat.jpg)
+
+---
+
 {Тема}:
 
 ```
@@ -21,7 +25,3 @@ lineage2
 
 |[*На главную*](header.md)|
 |:---:|
-
----
-
-![](pics/perekat.jpg)

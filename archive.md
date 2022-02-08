@@ -1,4 +1,3 @@
-| Syntax      | Description | Test Text     |
-| :---        |    :----:   |          ---: |
-| Header      | Title       | Here's this   |
-| Paragraph   | Text        | And more      |
+| Дата создания     | Ссылка на тред | Комментарий     |
+| :---              |    :----:      | :---            |
+| а         | б          | в     |

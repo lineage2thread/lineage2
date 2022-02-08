@@ -1,1 +1,1 @@
-
+![](pics/cooperation.jpg)

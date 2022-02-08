@@ -1,4 +1,4 @@
-![](xoxoji.png)
+![](pics/xoxoji.png)
 
 # Добро пожаловать в мир Lineage II.
 

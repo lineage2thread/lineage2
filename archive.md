@@ -2,10 +2,5 @@
 | :---              |    :----:      | :---            |
 | а         | б          | в     |
 
-
-    <html>
-      <head>
-
-      </head>
-    </html>
+<a href="hi'> <a href=hi'>
     

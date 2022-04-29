@@ -11,5 +11,5 @@ https://www.youtube.com/channel/UCiqz6iO9AxYhve02f0Qz1og
 https://archive.org/details/artbook-Lineage_II_-_The_Chaotic_Chronicle_Visual_Fan_B-1
 https://archive.org/details/artbook-Lineage_II_-_The_Chaotic_Chronicle_Visual_Fan_B
 
-|[*На главную*](header.md)|
+|[↩️](header.md)|
 |:---:|

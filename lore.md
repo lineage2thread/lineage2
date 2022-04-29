@@ -10,5 +10,5 @@ https://www.youtube.com/channel/UC9rSywCSxS4IQsrpbo6qfPA
 
 http://www.lineage2media.com/Downloads/Lineage%20Ii%20-%20Prima%20Game%20Guide%202004.pdf
 
-|[*На главную*](header.md)|
+|[↩️](header.md)|
 |:---:|

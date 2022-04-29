@@ -1,6 +1,6 @@
 ![](pics/cooperation.png)
 
-##### Официальный Lineage на русском~~, если вы тут играете, то мне вас жаль~~: https://ru.4game.com/ru/lineage2legacy/ 
+##### Официальный Lineage на русском, ~~если вы тут играете, то мне вас жаль~~: https://ru.4game.com/ru/lineage2legacy/ 
 
 ##### L2M: https://lineage2m.plaync.com/ru/
 

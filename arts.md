@@ -3,7 +3,9 @@
 
 [Ещё одна галерея, но работает только из-под VPN и картинки с плашечками этого сайта; иногда лучше, чем ничего](http://www.lineage2media.com/)
 
-[](https://www.youtube.com/c/FocusDeath)
+[Видео по лору игры с разжёвыванием всех микромоментов и отсылками к манхве и Линия Возраста 1](https://www.youtube.com/c/FocusDeath)
+
+[НАЧАЛЬНОЕ Официальное Игровое Руководство](http://www.lineage2media.com/Downloads/Lineage%20Ii%20-%20Prima%20Game%20Guide%202004.pdf)
 
 Родословная ][, визуальная фанатская книга, [ч.1](https://archive.org/details/artbook-Lineage_II_-_The_Chaotic_Chronicle_Visual_Fan_B-1) и [ч.2](https://archive.org/details/artbook-Lineage_II_-_The_Chaotic_Chronicle_Visual_Fan_B)
 
@@ -17,7 +19,6 @@
 [Багдад и набег на Wonderage, 2012](https://www.youtube.com/channel/UCiqz6iO9AxYhve02f0Qz1og)
 
 [Ambiene, набег за кауказ, 2013](https://www.youtube.com/channel/UCPViCt91Zjy9SAe8ext9C_g)
-
 
 |[↩️](header.md)|
 |:---:|

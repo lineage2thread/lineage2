@@ -5,7 +5,7 @@
 
 [Видео по лору игры с разжёвыванием всех микромоментов и отсылками к манхве и Линия Возраста 1](https://www.youtube.com/c/FocusDeath)
 
-![НАЧАЛЬНОЕ Официальное Игровое Руководство](pdf/Lineage Ii - Prima Game Guide 2004.pdf)
+[НАЧАЛЬНОЕ Официальное Игровое Руководство](https://github.com/lineage2thread/lineage2/blob/main/pdf/Lineage%20Ii%20-%20Prima%20Game%20Guide%202004.pdf)
 
 Родословная ][, визуальная фанатская книга, [ч.1](https://archive.org/details/artbook-Lineage_II_-_The_Chaotic_Chronicle_Visual_Fan_B-1) и [ч.2](https://archive.org/details/artbook-Lineage_II_-_The_Chaotic_Chronicle_Visual_Fan_B)
 

@@ -5,7 +5,7 @@
 
 [Родословная II, визуальная фанатская книга, ч.1](https://archive.org/details/artbook-Lineage_II_-_The_Chaotic_Chronicle_Visual_Fan_B-1)
 
-[Родословная /]/[, визуальная фанатская книга, ч.2](https://archive.org/details/artbook-Lineage_II_-_The_Chaotic_Chronicle_Visual_Fan_B)
+[Родословная ]/[, визуальная фанатская книга, ч.2](https://archive.org/details/artbook-Lineage_II_-_The_Chaotic_Chronicle_Visual_Fan_B)
 
 ### Творчество ~~душевнобольных~~ анонов:
 [OTEC и Kukantain на серверах lineage2classic.ru, 2016](https://www.youtube.com/c/KukanTVLolshto)

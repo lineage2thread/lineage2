@@ -30,4 +30,4 @@ lineage2
 ![](pics/perekat.jpg)
 
 |[↩️](header.md)|[📆](archive.md)|[🔄](fback.md)|[⚡](https://2ch.hk/vg/)|
-|:---:|:---:|:---:|
+|:---:|:---:|:---:|:---:|

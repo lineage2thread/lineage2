@@ -6,5 +6,5 @@ https://en.wikipedia.org/wiki/Project_TL
 
 https://forums.lineage2.com/topic/6018-the-past-the-lore-of-the-game-and-love-for-l2-erased/?do=findComment&comment=48182
 
-|[↩️](header.md)|
-|:---:|
+|[↩️](header.md)|[🔮](arts.md)|
+|:---:|:---:|

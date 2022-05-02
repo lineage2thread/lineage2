@@ -1,5 +1,9 @@
 ![](pics/cooperation.png)
 
+##### Список конф:
+
+> [Смывные конфоклы](https://discord.gg/bknKZ4z2eC)
+
 ##### Официальный Lineage на русском, ~~если вы тут играете, то мне вас жаль~~: https://ru.4game.com/ru/lineage2legacy/ 
 
 ##### L2M: https://lineage2m.plaync.com/ru/

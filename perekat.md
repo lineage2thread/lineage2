@@ -1,6 +1,3 @@
-![](pics/perekat.jpg)
-
----
 
 {Тема}:
 
@@ -24,6 +21,8 @@ lineage2
 
 Остальная шапка тут: https://github.com/lineage2thread/lineage2/blob/main/header.md
 ```
+
+![](pics/perekat.jpg)
 
 ------
 

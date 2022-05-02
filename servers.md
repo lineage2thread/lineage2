@@ -13,35 +13,17 @@
 
 ### Зарубежные сайты-агрегаторы:
 > [Жока](https://l2topzone.com/) и [Бока](https://l2.hopzone.net/login) от мира Родословная 2, вместе покрывают 90% рекламы серверов на западном полушарии земного шара
+>
+> [L2jbrazil](https://top.l2jbrasil.com/) lixo vaza brasileros, топ Бразилии, хороший поисковик по парашам Южной Америки
 > 
 > Менее значительные парашесборники: [тык](https://l2network.eu/lineage2/list/), [тык](https://l2servers.com/), [тык](https://l2jtop.com/lineage-2-servers/), [тык](https://topservers200.com/lineage2), [тык](https://l2top.co/)
 >
 > Лоу тир парашесборники: [тык](https://l2votes.com/index.php), [тык](https://www.arena-top100.com/lineage2-private-servers/), [тык](https://l2.topgameserver.net/lineage), [тык](https://www.top100arena.com/index.php/category/lineage2), [тык](https://serverstoplist.com/lineage2), [тык](http://www.gamingtop100.net/lineage2/), [тык](https://topg.org/lineage2-private-servers/)
 
 ### Импортозаместительные сайты-агрегаторы:
-> [Пупа]() и [Лупа]() от местных умельцев, стригущих зелень за плашечку с рюшечками, приносит дохода даже больше, чем админам калтериоса их васянопомойка
+> [Пупа](https://en.l2oops.com/) и [Лупа](https://l2op.com/) от местных умельцев, стригущих зелень за плашечку с рюшечками, приносит дохода даже больше, чем админам калтериоса их васянопомойка
 >
-> Залупа
-https://en.l2oops.com/adv
-https://l2op.com/add_server_lineage2/
-https://l2top.ru/index.php?act=addServ
-https://l2hop.com/add-server
-https://l2gs.ru/login.html
-https://en.la2on.com/addnews.html
-https://new-lineage.ru/add
-https://l2-pick.ru/add/
-https://l2-top.ru/add/
-https://l2anons.info/addserver
-https://la2.one/ <- press Добавить сервер on the right
-https://l2noo.ru/add-world
-https://mmotop.ru/en/users/sign_in
-https://la2top.net/advertising.html
-https://l2argument.ru/add-server.html
-https://l2stars.com/add_server
-https://mmoanons-top.ru/add-server/
-https://l2new.ru/add/
-https://servera-l2.ru/add/
-https://l2vs.ru/add/
+> Залупа: [тык](https://l2hop.com/), [тык](https://en.la2on.com/), [тык](https://l2top.ru/), [тык](https://new-lineage.ru/), [тык](https://l2-pick.ru/), [тык](https://l2-top.ru/), [тык](https://l2anons.info/), [тык](https://la2.one/), [тык](https://l2noo.ru/), [тык](https://la2.mmotop.ru/), [тык](https://l2mad.net/), [тык](https://l2argument.ru/), [тык](https://l2stars.com/), [тык](https://la2-anons.com/), [тык](https://l2new.ru/), [тык](https://servera-l2.ru/), [тык](https://l2vs.ru/)
 
 |[↩️](header.md)|[♨️](cooperation.md)|
 |:---:|:---:|

@@ -1,49 +1,27 @@
+#### Поиск серверов представлен разнообразными парашесборниками *(параша на местном сленге — сервер)*. При выборе той или иной площадки необходимо учитывать, что большая часть из парашесборников являются успешными финансовыми проектами.
 
+---
 
-International server aggregators:
-https://l2topzone.com/addingchoice
+### Калмунити-базед форумы со специальными разделами для серверов:
+> [MxC - древнее место всяких админов васянок, где последние пыхтя и сопя как на шиномонтаже над разбитыми жигулями перебирают древние сборки Родословной 2 по замшелым чертежам; впрочем, одно из лучших мест для поиска свежачка](https://maxcheaters.com/forum/270-lineage-ii-private-servers/)
+>
+> [PMFun - один из древнейших фанатских форумов по Линигу со своими базами данных, непонятно откуда спизженных; довольно часто дублирует MxC по рекламе серверов, однако на последнем преобладает буйное обсуждение различных серверов над первым: драмы, интриги, расследования, spoilez и т.д.](https://forum.pmfun.com/viewforum.php?f=14&sid=92183726c4ec2bfbdb416308016b4f6e)
+>
+> [GoHa - все то же самое, что и первые два, только для русскоязычного коммьюнити; чуть ли не самый древний фанатский форум по Линигу в СНГ](https://forums.goha.ru/forumdisplay_82_0_217)
+>
+> [r/lineage - довольно популярная площадка по Линигу во всяких Европах и Северных Америках, интриги и расследования бывают и там](https://www.reddit.com/r/Lineage2/)
 
-https://www.top100arena.com/content/advertise/
-https://l2servers.com/ads/
-https://l2.hopzone.net/login
-https://www.xtremetop100.com/add.php
-https://l2top.co/add-server
-https://l2jtop.com/add-new-server/
-https://l2network.eu/register/
-https://l2.topgameserver.net/lineage/login
-https://topservers200.com/lineage2/login
-https://topg.org/lineage2-private-servers/add
-https://playl2.net/login
-https://hotservers.org/login
-http://www.gamingtop100.net/register
-https://l2votes.com/account.php?action=addServer
-https://serverstoplist.com/register
-https://www.arena-top100.com/join/
+### Зарубежные сайты-агрегаторы:
+> [Жока](https://l2topzone.com/) и [Бока](https://l2.hopzone.net/login) от мира Родословная 2, вместе покрывают 90% рекламы серверов на западном полушарии земного шара
+> 
+> Менее значительные парашесборники: [тык](https://l2network.eu/lineage2/list/), [тык](https://l2servers.com/), [тык](https://l2jtop.com/lineage-2-servers/), [тык](https://topservers200.com/lineage2), [тык](https://l2top.co/)
+>
+> Лоу тир парашесборники: [тык](https://l2votes.com/index.php), [тык](https://www.arena-top100.com/lineage2-private-servers/), [тык](https://l2.topgameserver.net/lineage), [тык](https://www.top100arena.com/index.php/category/lineage2), [тык](https://serverstoplist.com/lineage2), [тык](http://www.gamingtop100.net/lineage2/), [тык](https://topg.org/lineage2-private-servers/)
 
-
-International l2 related forums:
-https://l2topzone.com/forum/l2-adzone/10/
-https://www.l2jbrasil.com/forum/478-reviews-de-servidores/
-https://forum.pmfun.com/viewforum.php?f=14&sid=92183726c4ec2bfbdb416308016b4f6e
-https://maxcheaters.com/forum/270-lineage-ii-private-servers/
-
- 
-
-L2 social website groups:
-https://www.reddit.com/r/Lineage2/
-https://www.facebook.com/groups/Lineage2epico/
-https://steamcommunity.com/app/373700/discussions/
-https://vk.com/lineage2community
-And google discord l2 community to spam there
-
-
-Russian l2 related forums:
-https://forums.goha.ru/forumdisplay_82_0_217 <- point your attention to this website, making a topic there can be profitable in online
-
-https://forums.playground.ru/lineage_2/
-
-
-Russian server aggregators:
+### Импортозаместительные сайты-агрегаторы:
+> [Пупа]() и [Лупа]() от местных умельцев, стригущих зелень за плашечку с рюшечками, приносит дохода даже больше, чем админам калтериоса их васянопомойка
+>
+> Залупа
 https://en.l2oops.com/adv
 https://l2op.com/add_server_lineage2/
 https://l2top.ru/index.php?act=addServ

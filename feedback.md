@@ -1,4 +1,4 @@
-[](pics/the anon herald wants you.png)
+![](pics/tahwy.png)
 
 Есть идеи по улучшению содержания шапки или этого мануала?
 

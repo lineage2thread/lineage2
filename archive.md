@@ -2,7 +2,7 @@
 | :---:              |    :----:      | :---:            |
 | 20.03.22 Общий тред #29 | https://2ch.hk/vg/res/42512408.html | Первое упоминание Tirael x1    |
 
-**Archive is under maintenance.
+**`Archive is under maintenance.`**
 
 |[↩️](header.md)|
 |:---:|

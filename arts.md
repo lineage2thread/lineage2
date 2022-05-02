@@ -22,5 +22,5 @@
 > 
 > [Ambiene, набег за кауказ, 2013](https://www.youtube.com/channel/UCPViCt91Zjy9SAe8ext9C_g)
 
-|[↩️](header.md)|
-|:---:|
+|[↩️](header.md)|[🔮](arts.md)|
+|:---:|:---:|

@@ -27,5 +27,5 @@ lineage2
 
 ![](pics/perekat.jpg)
 
-|[↩️](header.md)|
-|:---:|
+|[↩️](header.md)|[📆](archive.md)|[⚡](https://2ch.hk/vg/)|
+|:---:|:---:|:---:|

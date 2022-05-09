@@ -31,6 +31,8 @@
 > [`L2J эмулятор, сделай свою парашу сам`](https://www.l2jserver.com/)
 >
 > [`Калькулятор крафта`](http://l2help.me/en)
+> 
+> [`Различный софт, файлы и прочее`](https://sites.google.com/site/l2clientdev/home)
 
 |[↩️](header.md)|
 |:---:|

@@ -11,7 +11,7 @@
 > 
 > [`НАЧАЛЬНОЕ Официальное Игровое Руководство`](https://github.com/lineage2thread/lineage2/blob/main/pdf/Lineage%20Ii%20-%20Prima%20Game%20Guide%202004.pdf)
 > 
-> `Родословная ][, визуальная фанатская книга, [ч.1](https://archive.org/details/artbook-Lineage_II_-_The_Chaotic_Chronicle_Visual_Fan_B-1) и [ч.2](https://archive.org/details/artbook-Lineage_II_-_The_Chaotic_Chronicle_Visual_Fan_B)`
+> `Родословная ][, визуальная фанатская книга,` [`ч.1`](https://archive.org/details/artbook-Lineage_II_-_The_Chaotic_Chronicle_Visual_Fan_B-1) и [`ч.2`](https://archive.org/details/artbook-Lineage_II_-_The_Chaotic_Chronicle_Visual_Fan_B)
 
 ### Творчество ~~душевнобольных~~ анонов:
 > [`OTEC и Kukantain на серверах lineage2classic.ru, 2016`](https://www.youtube.com/c/KukanTVLolshto)

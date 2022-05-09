@@ -21,7 +21,7 @@
 > `Лоу тир парашесборники:` [тык](https://l2votes.com/index.php), [тык](https://www.arena-top100.com/lineage2-private-servers/), [тык](https://l2.topgameserver.net/lineage), [тык](https://www.top100arena.com/index.php/category/lineage2), [тык](https://serverstoplist.com/lineage2), [тык](http://www.gamingtop100.net/lineage2/), [тык](https://topg.org/lineage2-private-servers/)
 
 ### Импортозаместительные сайты-агрегаторы:
-> [`Пупа`](https://en.l2oops.com/) и [`Лупа`](https://l2op.com/) от местных умельцев, стригущих зелень за плашечку с рюшечками, приносит дохода даже больше, чем админам калтериоса их васянопомойка
+> [`Пупа`](https://en.l2oops.com/)` и `[`Лупа`](https://l2op.com/)` от местных умельцев, стригущих зелень за плашечку с рюшечками, приносит дохода даже больше, чем админам калтериоса их васянопомойка`
 >
 > `Залупа:` [тык](https://l2hop.com/), [тык](https://en.la2on.com/), [тык](https://l2top.ru/), [тык](https://new-lineage.ru/), [тык](https://l2-pick.ru/), [тык](https://l2-top.ru/), [тык](https://l2anons.info/), [тык](https://la2.one/), [тык](https://l2noo.ru/), [тык](https://la2.mmotop.ru/), [тык](https://l2mad.net/), [тык](https://l2argument.ru/), [тык](https://l2stars.com/), [тык](https://la2-anons.com/), [тык](https://l2new.ru/), [тык](https://servera-l2.ru/), [тык](https://l2vs.ru/)
 

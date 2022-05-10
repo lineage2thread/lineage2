@@ -22,7 +22,7 @@ lineage2
 
 ℹ️ Информация, картинки, поиск серверов, архив тредов и прочее: https://github.com/lineage2thread/lineage2/blob/main/header.md
 ♿ Кооперация и свежие обзоры серверов с анонами: https://github.com/lineage2thread/lineage2/blob/main/cooperation.md
-🔄 Копипаста для переката тут: https://github.com/lineage2thread/lineage2/blob/main/perekat.md
+↩️ Копипаста для переката тут: https://github.com/lineage2thread/lineage2/blob/main/perekat.md
 ```
 
 ---

@@ -1,8 +1,38 @@
+### Архив тредов расположен от ближайшей даты треда в прошлое.
+
 | Информация | Дата | Ссылка на тред | Ссылка на архив | Комментарий |
 |:---:|:---:|:---:|:---:|:---:|
-| Общий тред #28 | 02.02.22 | https://2ch.hk/vg/res/42052201.html | | Реборн - сервер-червь треда |
-| Общий тред #29 | 20.03.22 | https://2ch.hk/vg/res/42512408.html | | Первое упоминание Tirael x1 |
-| Общий тред #30 | 10.05.22 | https://2ch.hk/vg/res/42945180.html | | Новая шапка |
+| L2General #30 | 10.05.22 | https://2ch.hk/vg/res/42945180.html | | Новая шапка |
+| L2General #29 | 20.03.22 | https://2ch.hk/vg/res/42512408.html | | Отныне реборночелядь ниже всех по рангу ИТТ (42512442) |
+| L2General #28 | 02.02.22 | https://2ch.hk/vg/res/42052201.html | | |
+| L2General #27 | 13.01.22 | https://2ch.hk/vg/res/41807031.html | | |
+| L2General #26 | 12.12.21 | https://2ch.hk/vg/res/41406642.html | | Новый год ###Mod### (41639599) |
+| L2General #25 | 21.11.21 | https://2ch.hk/vg/res/41117491.html | | |
+| L2General #24 | 06.11.21 | https://2ch.hk/vg/res/40908927.html | | Срыгуччи с Элмора (41078866) |
+| L2General #23 | 30.10.21 | https://2ch.hk/vg/res/40811287.html | | |
+| L2General #22 | 19.10.21 | https://2ch.hk/vg/res/40668711.html | | Возвращение шапки, ̶р̶а̶д̶о̶с̶т̶ь̶ ̶о̶п̶а̶р̶ы̶ш̶е̶й̶ |
+| L2General #21 | 10.10.21 | https://2ch.hk/vg/res/40525368.html | | |
+| L2General #20 | 05.10.21 | https://2ch.hk/vg/res/40457476.html | | |
+| L2General #19 | 30.09.21 | https://2ch.hk/vg/res/40381706.html | | |
+| L2General #18 | 25.09.21 | https://2ch.hk/vg/res/40305698.html | | |
+| L2General #17 | 19.09.21 | https://2ch.hk/vg/res/40229081.html | | |
+| L2General #16 | 16.09.21 | https://2ch.hk/vg/res/40186637.html | http://arhivach.ng/thread/732715/ | NichijouSensei - Дядя Штучность (40186655) |
+| L2General #15 | 13.09.21 | https://2ch.hk/vg/res/40150849.html | | |
+| L2General #14 | 08.09.21 | https://2ch.hk/vg/res/40101630.html | | |
+| L2General #13 | 01.09.21 | https://2ch.hk/vg/res/40006368.html | | |
+| L2General #12 | 22.08.21 | https://2ch.hk/vg/res/39883607.html | | |
+| L2General #11 | 11.08.21 | https://2ch.hk/vg/res/39759261.html | | |
+| L2General #10 | 07.08.21 | https://2ch.hk/vg/res/39709189.html | | |
+| L2General #9 | 07.08.21 | https://2ch.hk/vg/res/39654250.html | | |
+| L2General #8 | 25.07.21 | https://2ch.hk/vg/res/39544296.html | | |
+| L2General #7 | 19.07.21 | https://2ch.hk/vg/res/39465008.html | | |
+| L2General #6 | 07.07.21 | https://2ch.hk/vg/res/39337379.html | | |
+| L2General #5 | 23.06.21 | https://2ch.hk/vg/res/39184569.html | | |
+| L2General #4 | 18.06.21 | http://91.227.17.26/vg/res/39129210.html |  | Снесён мочой из-за последовавшего шитпостинга |
+| L2General #3 | 06.06.21 | https://2ch.hk/vg/res/38956046.html | | Срыгуччи тушота (39118680) |
+| L2General #2 | 20.05.21 | https://2ch.hk/vg/res/38711055.html | | Смена тега на /lineage2/ |
+| L2General #1 | 04.05.21 | https://2ch.hk/vg/res/38488892.html | | Окончательный переезд из /mmo |
+| L2General #0 | 21.04.21 | https://2ch.hk/vg/res/38315443.html | | Первый пробный общий тред в /vg |
 
 **`Archive is under maintenance.`**
 

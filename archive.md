@@ -63,7 +63,7 @@
 | #43 | 28/02/21 | [>>6592553](https://2ch.hk/mmo/res/6592553.html) | | |
 | #42 | 25/02/21 | [>>6591983](https://2ch.hk/mmo/res/6591983.html) | | Третий (и последний) ПК-вкат на Астериос [>>6592427](https://2ch.hk/mmo/res/6591983.html#6592427) |
 | #41 | 23/02/21 | [>>6591437](https://2ch.hk/mmo/res/6591437.html) | | ⚡️ Шок! CM Nikita и его приспешники были пойманы с поличным! [>>6591660](https://2ch.hk/mmo/res/6591437.html#6591660) [>>6591692](https://2ch.hk/mmo/res/6591437.html#6591692) |
-| #40 | 21/02/21 | [>>6590905](https://2ch.hk/mmo/res/6590905.html) |   [Архивач](http://arhivach.ng/thread/682947/)   | |
+| #40 | 21/02/21 | [>>6590905](https://2ch.hk/mmo/res/6590905.html) |   [Архивач](http://arhivach.ng/thread/682947/)   | |
 | #39 | 20/02/21 | [>>6590366](https://2ch.hk/mmo/res/6590366.html) | [Архивач](http://arhivach.ng/thread/682946/) | Забрали КХ на Этине [>>6590693](https://2ch.hk/mmo/res/6590366.html#6590693) |
 | #38 | 18/02/21 | [>>6589838](https://2ch.hk/mmo/res/6589838.html) | [Архивач](http://arhivach.ng/thread/682945/) | |
 | #37 | 16/02/21 | [>>6589291](https://2ch.hk/mmo/res/6589291.html) | [Архивач](http://arhivach.ng/thread/682944/) | |

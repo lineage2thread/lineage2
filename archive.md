@@ -106,17 +106,27 @@
 
 ### Отдельные треды:
 
-| Название | Дата | Ссылка на тред | Архив | Комментарий |
-|:---:|:---:|:---:|:---:|:---:|
-| Lineage II Reborn IL x1.5 | 01/11/20 | [>>6575271](https://2ch.hk/mmo/res/6575271.html) | [Архивач](http://arhivach.ng/thread/631583/) | Последний отдельный тред по Реборну |
-| Та самая ладва, которую ты запомнил в своём 2008 | 03/10/20 | [>>6573358](https://2ch.hk/mmo/res/6573358.html) | [Архивач](http://arhivach.ng/thread/620167/) | |
-| Та самая ладва, которую ты запомнил в своём 2008 | 11/09/20 | [>>6571968](https://2ch.hk/mmo/res/6571968.html) | [Архивач](http://arhivach.ng/thread/617166/) | |
-| L2Reborn - х1.5 Interlude в одно окно | 01/09/20 | [>>6569922](https://2ch.hk/mmo/res/6569922.html) | [Архивач](http://arhivach.ng/thread/617165/) | |
-| L2reborn IL x1 без доната, окон и смс | 27/06/20 | [>>6564262](https://2ch.hk/mmo/res/6564262.html) | [Архивач](http://arhivach.ng/thread/617164/) | |
-| L2Reborn Interlude x1 - Открытие 31.10.2019 (22:00 msk) | 31/10/19 | [>>6550994](https://2ch.hk/mmo/res/6550994.html) | [Архивач](http://arhivach.ng/thread/617163/) | Первый тред по Реборну |
-| l2E-GLOBAL 01.11.19 | 13/10/19 | [>>6550546](https://2ch.hk/mmo/res/6550546.html) | | Последний вкат ананасов на Ебло |
+| Доска | Название | Дата | Ссылка на тред | Архив | Комментарий |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| /mmo | Lineage II Reborn IL x1.5 | 01/11/20 | [>>6575271](https://2ch.hk/mmo/res/6575271.html) | [Архивач](http://arhivach.ng/thread/631583/) | Последний отдельный тред по Реборну |
+| /mmo | Та самая ладва, которую ты запомнил в своём 2008 | 03/10/20 | [>>6573358](https://2ch.hk/mmo/res/6573358.html) | [Архивач](http://arhivach.ng/thread/620167/) | |
+| /mmo | Та самая ладва, которую ты запомнил в своём 2008 | 11/09/20 | [>>6571968](https://2ch.hk/mmo/res/6571968.html) | [Архивач](http://arhivach.ng/thread/617166/) | |
+| /mmo | L2Reborn - х1.5 Interlude в одно окно | 01/09/20 | [>>6569922](https://2ch.hk/mmo/res/6569922.html) | [Архивач](http://arhivach.ng/thread/617165/) | |
+| /mmo | L2reborn IL x1 без доната, окон и смс | 27/06/20 | [>>6564262](https://2ch.hk/mmo/res/6564262.html) | [Архивач](http://arhivach.ng/thread/617164/) | |
+| /mmo | L2Reborn Interlude x1 - Открытие 31.10.2019 (22:00 msk) | 31/10/19 | [>>6550994](https://2ch.hk/mmo/res/6550994.html) | [Архивач](http://arhivach.ng/thread/617163/) | Первый тред по Реборну |
+| /mmo | l2E-GLOBAL 01.11.19 | 13/10/19 | [>>6550546](https://2ch.hk/mmo/res/6550546.html) | | Последний вкат ананасов на Ебло |
+| /mmo | Lineage 2 | 19/09/19 | [>>6550164](https://2ch.hk/mmo/res/6550164.html) | | |
+| /mmo | БЕФЕГЕ | 23/08/19 | [>>6549721](https://2ch.hk/mmo/res/6549721.html) | | |
+| /mmo | Валька-хуялька с привкусом ананаса во рту | 20/08/19 | [>>6549542](https://2ch.hk/mmo/res/6549542.html) | | Ананасы на Вальхалле |
+| /mmo | Lineage 2 C3 x1, №4 | 03/08/19 | [>>6549064](https://2ch.hk/mmo/res/6549064.html) | | Перекатились на реборн |
+| /mmo | L2 (not dead) | 03/07/19 | [>>6548044](https://2ch.hk/mmo/res/6548044.html) | | |
+| /mmo | Lineage 2 Chronicle III Firebird x1 №3 Летний | 20/06/19 | [>>6547575](https://2ch.hk/mmo/res/6547575.html) | | |
+| /mmo | Классический с4 х7 | 19/06/19 | [>>6547559](https://2ch.hk/mmo/res/6547559.html) | | Возвращение Нуема |
+| /mmo | Lineage 2 Chronicle III Firebird x1 | 01/06/19 | [>>6546761](https://2ch.hk/mmo/res/6546761.html) | [Архивач](http://arhivach.ng/thread/460377/) | |
+| /mmo | Единственный С3 сервак, где можно поиграть | 28/04/19 | [>>6545104](https://2ch.hk/mmo/res/6545104.html) | [Архивач](http://arhivach.ng/thread/460376/) | Первый тред по firebird c3x1 |
+| | | | | | |
 
-**`Archive is under maintenance.`**
+**`Archive is under maintenance. Сначала будет допиливаться лист тредов из /mmo, затем из /vg, а затем из других досок и, возможно, борд.`**
 
 |[↩️](header.md)|
 |:---:|

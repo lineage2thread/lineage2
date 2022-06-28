@@ -1,4 +1,4 @@
-![](pics/reborn.jpg)
+![](https://github.com/lineage2thread/lineage2/blob/main/archivebranches/archivepics/reborn.jpg)
 
 | Доска | Название | Дата | Ссылка на тред | Архив | Комментарий |
 |:---:|:---:|:---:|:---:|:---:|:---:|

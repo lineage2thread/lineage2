@@ -104,7 +104,17 @@
 | #2 | 27/02/20 | [>>6554772](https://2ch.hk/mmo/res/6554772.html) | [Архивач](http://arhivach.ng/thread/537522/) | Срэгги? Я не буду с каким-то Срыгги сидеть... [>>6554797](https://2ch.hk/mmo/res/6554772.html#6554797) |
 | #1 | 17/02/20 | [>>6553830](https://2ch.hk/mmo/res/6553830.html) | [Архивач](http://arhivach.ng/thread/537521/) | |
 
-### Отдельные треды (sic! некоторые треды имеют специальную приписку в комментариях для удобcтва):
+### Далее идут несвязанные треды. Для упрощения дальнейшей навигации цепочки тредов также продублированы в отдельных ссылках в алфавитном порядке:
+
+---
+
+##### [BSFG/Pentawars]() | [Firebird](https://github.com/lineage2thread/lineage2/blob/main/archivebranches/firebird.md) | [Pineapples](https://github.com/lineage2thread/lineage2/blob/main/archivebranches/pineapples.md) | [Reborn](https://github.com/lineage2thread/lineage2/blob/main/archivebranches/reborn.md) | [Varnish]() | [YOBA/Autism]() | [Кавказ]() |
+
+---
+
+**`Archive is under maintenance.`**
+
+**`Сначала будет допиливаться лист тредов из /mmo, затем из /vg, а затем из других досок и, возможно, борд.`**
 
 | Доска | Название | Дата | Ссылка на тред | Архив | Комментарий |
 |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -173,7 +183,7 @@
 | /mmo | Новый тред о загибающейся ММО которая никак | 17/04/17 | [>>6523477](https://2ch.hk/mmo/res/6523477.html) | | Перекат с [>>6519936](https://2ch.hk/mmo/res/6519936.html) |
 | /mmo | АРГЕНТИНСКИЙ Л2 КЛАССИК | 14/04/17 | [>>6523339](https://2ch.hk/mmo/res/6523339.html) | | |
 | /mmo | Lineage Classic: Shillen | 10/04/17 | [>>6523228](https://2ch.hk/mmo/res/6523228.html) | | Дубль-тред |
-| /mmo | 	На `http://l2classic.club/` аутирует кто-нибудь? | 01/04/17 | [>>6522766](https://2ch.hk/mmo/res/6522766.html) | | |
+| /mmo | На `http://l2classic.club/` аутирует кто-нибудь? | 01/04/17 | [>>6522766](https://2ch.hk/mmo/res/6522766.html) | | |
 | /mmo | L2 RPG-CLUBх3 СЕРВЕР МЕЧТЫ | 21/03/17 | [>>6522281](https://2ch.hk/mmo/res/6522281.html) | | |
 | /mmo | RPG-GLAB x3 | 20/03/17 | [>>6522224](https://2ch.hk/mmo/res/6522224.html) | | |
 | /mmo | x50 Ла2 какое-то название | 18/03/17 | [>>6522146](https://2ch.hk/mmo/res/6522146.html) | | |
@@ -257,10 +267,6 @@
 | /mmo | Lineageclassic.ru x1 [autism]edition | 29/03/16 | [>>6501066](https://2ch.hk/mmo/res/6501066.html) | | Autism |
 | /mmo | Lineage Classic C4 [x3] Двенадцатый Ламповый Единый | 21/03/16 | [>>6500021](https://2ch.hk/mmo/res/6500021.html) | [Архивач](http://arhivach.ng/thread/158229/) | pnpl c4classic #12 |
 | /mmo |  |  | [>>]() | | |
-
-**`Archive is under maintenance.`**
-
-**`Сначала будет допиливаться лист тредов из /mmo, затем из /vg, а затем из других досок и, возможно, борд.`**
 
 |[↩️](header.md)|
 |:---:|

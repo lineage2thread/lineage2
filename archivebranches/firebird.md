@@ -1,4 +1,4 @@
-![](https://github.com/lineage2thread/lineage2/blob/main/archivebranches/archivepics/lyagushka.jpg
+![](https://github.com/lineage2thread/lineage2/blob/main/archivebranches/archivepics/lyagushka.jpg)
 
 | Доска | Название | Дата | Ссылка на тред | Архив | Комментарий |
 |:---:|:---:|:---:|:---:|:---:|:---:|

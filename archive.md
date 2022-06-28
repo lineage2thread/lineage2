@@ -113,6 +113,8 @@
 | /mmo | Та самая ладва, которую ты запомнил в своём 2008 | 11/09/20 | [>>6571968](https://2ch.hk/mmo/res/6571968.html) | [Архивач](http://arhivach.ng/thread/617166/) | |
 | /mmo | L2Reborn - х1.5 Interlude в одно окно | 01/09/20 | [>>6569922](https://2ch.hk/mmo/res/6569922.html) | [Архивач](http://arhivach.ng/thread/617165/) | |
 | /mmo | L2reborn IL x1 без доната, окон и смс | 27/06/20 | [>>6564262](https://2ch.hk/mmo/res/6564262.html) | [Архивач](http://arhivach.ng/thread/617164/) | |
+| /mmo | Что-то давно не было, да? :3 | 04/06/20 | [>>6562239](https://2ch.hk/mmo/res/6562239.html) | | |
+| /mmo | Lineage 2 C3 x0.1 | 19/03/20 | [>>6556200](https://2ch.hk/mmo/res/6556200.html) | | |
 | /mmo | L2Reborn Interlude x1 - Открытие 31.10.2019 (22:00 msk) | 31/10/19 | [>>6550994](https://2ch.hk/mmo/res/6550994.html) | [Архивач](http://arhivach.ng/thread/617163/) | Первый тред по Реборну |
 | /mmo | l2E-GLOBAL 01.11.19 | 13/10/19 | [>>6550546](https://2ch.hk/mmo/res/6550546.html) | | Последний вкат ананасов на Ебло |
 | /mmo | Lineage 2 | 19/09/19 | [>>6550164](https://2ch.hk/mmo/res/6550164.html) | | Тред поиска сервера |

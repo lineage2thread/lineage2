@@ -108,7 +108,7 @@
 
 ---
 
-##### [BSFG/Pentawars]() | [Firebird](https://github.com/lineage2thread/lineage2/blob/main/archivebranches/firebird.md) | [Pineapples](https://github.com/lineage2thread/lineage2/blob/main/archivebranches/pineapples.md) | [Reborn](https://github.com/lineage2thread/lineage2/blob/main/archivebranches/reborn.md) | [Varnish]() | [YOBA/Autism]() | [Кавказ]() |
+##### [BSFG/Pentawars](https://github.com/lineage2thread/lineage2/blob/main/archivebranches/bsfg.md) | [Firebird](https://github.com/lineage2thread/lineage2/blob/main/archivebranches/firebird.md) | [Pineapples](https://github.com/lineage2thread/lineage2/blob/main/archivebranches/pineapples.md) | [Reborn](https://github.com/lineage2thread/lineage2/blob/main/archivebranches/reborn.md) | [Varnish](https://github.com/lineage2thread/lineage2/blob/main/archivebranches/varnish.md) | [YOBA et al](https://github.com/lineage2thread/lineage2/blob/main/archivebranches/yoba.md) | [Кавказ](https://github.com/lineage2thread/lineage2/blob/main/archivebranches/kavkaz.md) |
 
 ---
 
@@ -118,30 +118,30 @@
 
 | Доска | Название | Дата | Ссылка на тред | Архив | Комментарий |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| /mmo | Lineage II Reborn IL x1.5 | 01/11/20 | [>>6575271](https://2ch.hk/mmo/res/6575271.html) | [Архивач](http://arhivach.ng/thread/631583/) | Последний отдельный тред по Реборну |
-| /mmo | Та самая ладва, которую ты запомнил в своём 2008 | 03/10/20 | [>>6573358](https://2ch.hk/mmo/res/6573358.html) | [Архивач](http://arhivach.ng/thread/620167/) | |
-| /mmo | Та самая ладва, которую ты запомнил в своём 2008 | 11/09/20 | [>>6571968](https://2ch.hk/mmo/res/6571968.html) | [Архивач](http://arhivach.ng/thread/617166/) | |
-| /mmo | L2Reborn - х1.5 Interlude в одно окно | 01/09/20 | [>>6569922](https://2ch.hk/mmo/res/6569922.html) | [Архивач](http://arhivach.ng/thread/617165/) | |
-| /mmo | L2reborn IL x1 без доната, окон и смс | 27/06/20 | [>>6564262](https://2ch.hk/mmo/res/6564262.html) | [Архивач](http://arhivach.ng/thread/617164/) | |
+| /mmo | Lineage II Reborn IL x1.5 | 01/11/20 | [>>6575271](https://2ch.hk/mmo/res/6575271.html) | [Архивач](http://arhivach.ng/thread/631583/) | Реборн #6 (последний) |
+| /mmo | Та самая ладва, которую ты запомнил в своём 2008 | 03/10/20 | [>>6573358](https://2ch.hk/mmo/res/6573358.html) | [Архивач](http://arhivach.ng/thread/620167/) | Реборн #5 |
+| /mmo | Та самая ладва, которую ты запомнил в своём 2008 | 11/09/20 | [>>6571968](https://2ch.hk/mmo/res/6571968.html) | [Архивач](http://arhivach.ng/thread/617166/) | Реборн #4 |
+| /mmo | L2Reborn - х1.5 Interlude в одно окно | 01/09/20 | [>>6569922](https://2ch.hk/mmo/res/6569922.html) | [Архивач](http://arhivach.ng/thread/617165/) | Реборн #3 |
+| /mmo | L2reborn IL x1 без доната, окон и смс | 27/06/20 | [>>6564262](https://2ch.hk/mmo/res/6564262.html) | [Архивач](http://arhivach.ng/thread/617164/) | Реборн #2 |
 | /mmo | Что-то давно не было, да? :3 | 04/06/20 | [>>6562239](https://2ch.hk/mmo/res/6562239.html) | | |
 | /mmo | Lineage 2 C3 x0.1 | 19/03/20 | [>>6556200](https://2ch.hk/mmo/res/6556200.html) | | |
-| /mmo | L2Reborn Interlude x1 - Открытие 31.10.2019 (22:00 msk) | 31/10/19 | [>>6550994](https://2ch.hk/mmo/res/6550994.html) | [Архивач](http://arhivach.ng/thread/617163/) | Первый тред по Реборну |
-| /mmo | l2E-GLOBAL 01.11.19 | 13/10/19 | [>>6550546](https://2ch.hk/mmo/res/6550546.html) | | Последний вкат ананасов на Ебло |
+| /mmo | L2Reborn Interlude x1 - Открытие 31.10.2019 (22:00 msk) | 31/10/19 | [>>6550994](https://2ch.hk/mmo/res/6550994.html) | [Архивач](http://arhivach.ng/thread/617163/) | Реборн #1 |
+| /mmo | l2E-GLOBAL 01.11.19 | 13/10/19 | [>>6550546](https://2ch.hk/mmo/res/6550546.html) | | pnpl eblo (последний) |
 | /mmo | Lineage 2 | 19/09/19 | [>>6550164](https://2ch.hk/mmo/res/6550164.html) | | Тред поиска сервера |
 | /mmo | БЕФЕГЕ | 23/08/19 | [>>6549721](https://2ch.hk/mmo/res/6549721.html) | | |
-| /mmo | Валька-хуялька с привкусом ананаса во рту | 20/08/19 | [>>6549542](https://2ch.hk/mmo/res/6549542.html) | | Ананасы на Вальхалле |
-| /mmo | Lineage 2 C3 x1, №4 | 03/08/19 | [>>6549064](https://2ch.hk/mmo/res/6549064.html) | | Последний тред по Firebird c3x1, перекат на Реборн |
+| /mmo | Валька-хуялька с привкусом ананаса во рту | 20/08/19 | [>>6549542](https://2ch.hk/mmo/res/6549542.html) | | pnpl valhalla |
+| /mmo | Lineage 2 C3 x1, №4 | 03/08/19 | [>>6549064](https://2ch.hk/mmo/res/6549064.html) | | Firebird c3x1 #4 (последний), перекат на Реборн |
 | /mmo | L2 (not dead) | 03/07/19 | [>>6548044](https://2ch.hk/mmo/res/6548044.html) | | Тред поиска сервера |
-| /mmo | Lineage 2 Chronicle III Firebird x1 №3 Летний | 20/06/19 | [>>6547575](https://2ch.hk/mmo/res/6547575.html) | | |
+| /mmo | Lineage 2 Chronicle III Firebird x1 №3 Летний | 20/06/19 | [>>6547575](https://2ch.hk/mmo/res/6547575.html) | | Firebird c3x1 #3 |
 | /mmo | Классический с4 х7 | 19/06/19 | [>>6547559](https://2ch.hk/mmo/res/6547559.html) | | Возвращение Нуема |
-| /mmo | Lineage 2 Chronicle III Firebird x1 | 01/06/19 | [>>6546761](https://2ch.hk/mmo/res/6546761.html) | [Архивач](http://arhivach.ng/thread/460377/) | |
-| /mmo | Единственный С3 сервак, где можно поиграть | 28/04/19 | [>>6545104](https://2ch.hk/mmo/res/6545104.html) | [Архивач](http://arhivach.ng/thread/460376/) | Первый тред по Firebird c3x1 |
+| /mmo | Lineage 2 Chronicle III Firebird x1 | 01/06/19 | [>>6546761](https://2ch.hk/mmo/res/6546761.html) | [Архивач](http://arhivach.ng/thread/460377/) | Firebird c3x1 #2 |
+| /mmo | Единственный С3 сервак, где можно поиграть | 28/04/19 | [>>6545104](https://2ch.hk/mmo/res/6545104.html) | [Архивач](http://arhivach.ng/thread/460376/) | Firebird c3x1 #1 |
 | /mmo | Дневник моей игры на Beyond 2.0 | 22/02/19 | [>>6542163](https://2ch.hk/mmo/res/6542163.html) | [Архивач](http://arhivach.ng/thread/460374/) | JekaSWS и его тред |
 | /mmo | `www.rpg-club.com` | 09/11/18 | [>>6540409](https://2ch.hk/mmo/res/6540409.html) | | |
-| /mmo | GF x7 eblo 26.10 | 25/10/18 | [>>6540122](https://2ch.hk/mmo/res/6540122.html) | | Очередной вкат ананасов на Ебло |
+| /mmo | GF x7 eblo 26.10 | 25/10/18 | [>>6540122](https://2ch.hk/mmo/res/6540122.html) | | pnpl eblo |
 | /mmo | /bsfg/ | 02/09/18 | [>>6538878](https://2ch.hk/mmo/res/6538878.html) | | |
 | /mmo | Lineage 2 Asterios.tm x7 High Five (Для новичков с ссылками и ништяками) | 30/08/18 | [>>6538787](https://2ch.hk/mmo/res/6538787.html) | | |
-| /mmo | Снова живы для наживы! | 13/08/18 | [>>6538489](https://2ch.hk/mmo/res/6538489.html) | | Последний вкат за Кавказ от NooBoBot |
+| /mmo | Снова живы для наживы! | 13/08/18 | [>>6538489](https://2ch.hk/mmo/res/6538489.html) | | Последний НАБЕГ ЗА КАВКАЗ |
 | /mmo | Lineage 2 Gracia Final x1 | 05/08/18 | [>>6538362](https://2ch.hk/mmo/res/6538362.html) | | Сервер от Эвелины |
 | /mmo | Где сейчас живой онлайн в lineage 2? | 04/07/18 | [>>6537808](https://2ch.hk/mmo/res/6537808.html) | | Тред поиска сервера |
 | /mmo | Валхаллаеглобал ИЛ финал | 20/04/18 | [>>6536833](https://2ch.hk/mmo/res/6536833.html) | | |
@@ -193,7 +193,7 @@
 | /mmo | Вкатываюсь луком в л2 averia.ws | 09/03/17 | [>>6521813](https://2ch.hk/mmo/res/6521813.html) | | |
 | /mmo | L2 GFSH ПОИСКА НАПАРНИКА/ОВ ТХРЕАД | 07/03/17 | [>>6521759](https://2ch.hk/mmo/res/6521759.html) | | Тред поиска напарника |
 | /mmo | ЭЛЬФОПРОФ ТРЕД | 05/03/17 | [>>6521725](https://2ch.hk/mmo/res/6521725.html) | | Тред обсуждения игры |
-| /mmo | ИНТЕРЛЮД x5 от вальхаллы в конце марта | 25/02/17 | [>>6521458](https://2ch.hk/mmo/res/6521458.html) | | VaginaPower/JekaSWS; Форс фарма козликов [>>6523012](https://2ch.hk/mmo/res/6521458.html#6523012) |
+| /mmo | ИНТЕРЛЮД x5 от вальхаллы в конце марта | 25/02/17 | [>>6521458](https://2ch.hk/mmo/res/6521458.html) | | VaginaPower/JekaSWS; форс фарма козликов [>>6523012](https://2ch.hk/mmo/res/6521458.html#6523012) |
 | /mmo | Надоело окноёбить в линеечке, хочется поиграть | 23/02/17 | [>>6521405](https://2ch.hk/mmo/res/6521405.html) | | Тред поиска сервера |
 | /mmo | Лукопроблемы | 22/02/17 | [>>6521325](https://2ch.hk/mmo/res/6521325.html) | | Тред обсуждения игры |
 | /mmo | L2 Родословная asterios x55 | 17/02/17 | [>>6521116](https://2ch.hk/mmo/res/6521116.html) | | |
@@ -216,7 +216,7 @@
 | /mmo | Interlude x1200 | 30/09/16 | [>>6515835](https://2ch.hk/mmo//res/6515835.html) | | |
 | /mmo | LineageClassic.ru Gracia Final x3 PTS | 28/09/16 | [>>6515704](https://2ch.hk/mmo/res/6515704.html) | | |
 | /mmo | Rpg-club.ru GF x5 Rpg-club.ru GF x5 | 22/09/16 | [>>6515418](https://2ch.hk/mmo/res/6515418.html) | | |
-| /mmo | E-global x7 Gracia Final #2 | 22/09/16 | [>>6515394](https://2ch.hk/mmo/res/6515394.html) | | YOBA+pnpl |
+| /mmo | E-global x7 Gracia Final #2 | 22/09/16 | [>>6515394](https://2ch.hk/mmo/res/6515394.html) | | YOBA + pnpl |
 | /mmo | Рейт мой роллер для линейки, господа. | 21/09/16 | [>>6515341](https://2ch.hk/mmo/res/6515341.html) | | Рулеточка |
 | /mmo | Городской ламповый Интерлюд | 16/09/16 | [>>6514891](https://2ch.hk/mmo/res/6514891.html) | | |
 | /mmo | НОСТАЛЬГИИ Л2 ТРЕД! | 16/09/16 | [>>6514887](https://2ch.hk/mmo/res/6514887.html) | | Тред обсуждения игры |
@@ -242,14 +242,14 @@
 | /mmo | l2 | 27/07/16 | [>>6509290](https://2ch.hk/mmo/res/6509290.html) | | Тред поиска сервера |
 | /mmo | Classic 1.5 - Talking Island x3 Lineage II | 25/07/16 | [>>6509113](https://2ch.hk/mmo/res/6509113.html) | | |
 | /mmo | LINEAGE 2 HF X50 | 21/07/16 | [>>6508886](https://2ch.hk/mmo/res/6508886.html) | | l2destinyws |
-| /mmo | Lineage II Classic thread | 11/07/16 | [>>6508333](https://2ch.hk/mmo/res/6508333.html) | | Дубль-тред из /vg |
+| /mmo | Lineage II Classic thread | 11/07/16 | [>>6508333](https://2ch.hk/mmo/res/6508333.html) | [Архивач](http://arhivach.ng/thread/251498/) | Дубль-тред из /vg |
 | /mmo | `http://lineagetwo.ru/` | 09/07/16 | [>>6508150](https://2ch.hk/mmo/res/6508150.html) | | |
 | /mmo | Lineage 2 | 04/07/16 | [>>6507443](https://2ch.hk/mmo/res/6507443.html) | | Тред поиска напарника |
 | /mmo | Штабильная долгоиграющая Линейка | 03/07/16 | [>>6507365](https://2ch.hk/mmo/res/6507365.html) | | l2dawn |
 | /mmo | Lineage лоу-рейт. | 28/06/16 | [>>6507123](https://2ch.hk/mmo/res/6507123.html) | | Тред поиска сервера |
 | /mmo | Lineageclassic.ru GF x7 | 26/06/16 | [>>6507016](https://2ch.hk/mmo/res/6507016.html) | | |
 | /mmo | scryde.ru x10 | 24/06/16 | [>>6506902](https://2ch.hk/mmo/res/6506902.html) | | |
-| /mmo | Lineage2 ГФШ х1200 | 20/06/16 | [>>6506669](https://2ch.hk/mmo/res/6506669.html) | | Фейл Кавказ-набега |
+| /mmo | Lineage2 ГФШ х1200 | 20/06/16 | [>>6506669](https://2ch.hk/mmo/res/6506669.html) | | НАБЕГ ЗА КАВКАЗ (fail) |
 | /mmo | Interlude.su №2 | 14/06/16 | [>>6506176](https://2ch.hk/mmo/res/6506176.html) | | Перекат из [>>6505492](https://2ch.hk/mmo/res/6505492.html) |
 | /mmo | Lineage Classic C4 [x3] Трнадцатый Ламповый Единый | 11/06/16 | [>>6505625](https://2ch.hk/mmo/res/6505625.html) | [Архивач](http://arhivach.ng/thread/179756/) | pnpl c4classic #13 (последний) |
 | /mmo | Линейдж х100 с анонами | 11/06/16 | [>>6505492](https://2ch.hk/mmo/res/6505492.html) | | Перекат из [>>6505366](https://2ch.hk/mmo/res/6505366.html) |
@@ -266,6 +266,29 @@
 | /mmo | l2classic.club | 30/03/16 | [>>6501124](https://2ch.hk/mmo/res/6501124.html) | | |
 | /mmo | Lineageclassic.ru x1 [autism]edition | 29/03/16 | [>>6501066](https://2ch.hk/mmo/res/6501066.html) | | Autism |
 | /mmo | Lineage Classic C4 [x3] Двенадцатый Ламповый Единый | 21/03/16 | [>>6500021](https://2ch.hk/mmo/res/6500021.html) | [Архивач](http://arhivach.ng/thread/158229/) | pnpl c4classic #12 |
+| /mmo |  | 18/03/16 | [>>6498587](https://2ch.hk/mmo/res/6498587.html) | | |
+| /mmo | КЛАН ЛИДЕРСТВА ТХРЕАД | 18/03/16 | [>>6498572](https://2ch.hk/mmo/res/6498572.html) | | Тред обсуждения игры |
+| /mmo |  | 16/03/16 | [>>6497766](https://2ch.hk/mmo/res/6497766.html) | | l2newday.com |
+| /mmo | RPG CLUB/SLOWPOKE EDITION | 15/03/16 | [>>6497146](https://2ch.hk/mmo/res/6497146.html) | | |
+| /mmo | L2 NOOB TREAD | 14/03/16 | [>>6497021](https://2ch.hk/mmo/res/6497021.html) | | Тред обсуждения игры |
+| /mmo | Lineage 2 HF rpg-club.com | 14/03/16 | [>>6496597](https://2ch.hk/mmo/res/6496597.html) | | |
+| /mmo | НАБЕГ ЗА КАВКАЗ (V.4.1) | 12/03/16 | [>>6495861](https://2ch.hk/mmo/res/6495861.html) | | НАБЕГ ЗА КАВКАЗ |
+| /mmo | НАБЕГ ЗА КАВКАЗ (V.4) | 07/03/16 | [>>6493694](https://2ch.hk/mmo/res/6493694.html) | | НАБЕГ ЗА КАВКАЗ |
+| /mmo | Открытие ДЕФО х30. Лучший сервер для анона | 04/03/16 | [>>6491286](https://2ch.hk/mmo/res/6491286.html) | | |
+| /mmo | Реквест KAVKAZ Lineage2 2012 | 02/03/16 | [>>6490577](https://2ch.hk/mmo/res/6490577.html) | | НАБЕГ ЗА КАВКАЗ |
+| /mmo |  | 02/03/16 | [>>6490223](https://2ch.hk/mmo/res/6490223.html) | | Тред поиска сервера |
+| /mmo |  | 01/03/16 | [>>6489224](https://2ch.hk/mmo/res/6489224.html) | | |
+| /mmo | Lineage Classic C4 [x3] Одинадцатый Ламповый Единый | 01/03/16 | [>>6489185](https://2ch.hk/mmo/res/6489185.html) | [Архивач](http://arhivach.ng/thread/152510/) | pnpl c4classic #11 |
+| /mmo | Lineage Classic C4 [x3] Десятый Ламповый Единый | 24/02/16 | [>>6485724](https://2ch.hk/mmo/res/6485724.html) | [Архивач](http://arhivach.ng/thread/151037/) | pnpl c4classic #10 |
+| /mmo | L2DAWN.COM | 21/02/16 | [>>](https://2ch.hk/mmo/res/6483655.html) | | |
+| /mmo | LINEAGE 2 HF | 20/02/16 | [>>6482485](https://2ch.hk/mmo/res/6482485.html) | | |
+| /mmo | ОП-хуй - пиздолис который никогда не играл в ЛА2 | 19/02/16 | [>>6482133](https://2ch.hk/mmo/res/6482133.html) | | Тред обсуждения игры |
+| /mmo | Lineage Classic C4 [x3] Девятый Ламповый Единый | 18/02/16 | [>>6481401](https://2ch.hk/mmo/res/6481401.html) | [Архивач](http://arhivach.ng/thread/148893/) | pnpl c4classic #9 |
+| /mmo | Анон, хочется поолимпить в Lineage (GF - HFp5) | 07/02/16 | [>>6474864](https://2ch.hk/mmo/res/6474864.html) | | Тред поиска сервера |
+| /mmo | lineageclassic.ru x1 GF | 03/02/16 | [>>6472377](https://2ch.hk/mmo/res/6472377.html) | | Кукантайн |
+| /mmo | Asterios x7 старт 19 февраля 18.00 | 01/02/16 | [>>6471274](https://2ch.hk/mmo/res/6471274.html) | | |
+| /mmo | dreamgame.ru IL x3 | 26/01/16 | [>>6466677](https://2ch.hk/mmo/res/6466677.html) | | |
+| /mmo | RPG-club.com x7 [уже MLG-тред] #3 | 01/12/15 | [>>6420448](https://2ch.hk/mmo/res/6420448.html) | | |
 | /mmo |  |  | [>>]() | | |
 
 |[↩️](header.md)|

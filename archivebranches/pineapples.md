@@ -13,6 +13,9 @@
 | /mmo | Lineage 2 classic на х3 фришке П.Е.Д.И.К.И edition | 24/08/16 | [>>6510992](https://2ch.hk/mmo/res/6510992.html) | | pnpl La2Hard |
 | /mmo | Lineage Classic C4 [x3] Трнадцатый Ламповый Единый | 11/06/16 | [>>6505625](https://2ch.hk/mmo/res/6505625.html) | [Архивач](http://arhivach.ng/thread/179756/) | pnpl c4classic #13 (последний) |
 | /mmo | Lineage Classic C4 [x3] Двенадцатый Ламповый Единый | 21/03/16 | [>>6500021](https://2ch.hk/mmo/res/6500021.html) | [Архивач](http://arhivach.ng/thread/158229/) | pnpl c4classic #12 |
+| /mmo | Lineage Classic C4 [x3] Одинадцатый Ламповый Единый | 01/03/16 | [>>6489185](https://2ch.hk/mmo/res/6489185.html) | [Архивач](http://arhivach.ng/thread/152510/) | pnpl c4classic #11 |
+| /mmo | Lineage Classic C4 [x3] Десятый Ламповый Единый | 24/02/16 | [>>6485724](https://2ch.hk/mmo/res/6485724.html) | [Архивач](http://arhivach.ng/thread/151037/) | pnpl c4classic #10 |
+| /mmo | Lineage Classic C4 [x3] Девятый Ламповый Единый | 18/02/16 | [>>6481401](https://2ch.hk/mmo/res/6481401.html) | [Архивач](http://arhivach.ng/thread/148893/) | pnpl c4classic #9 |
 
 |[↩️](header.md)|[📆](archive.md)|
 |:---:|:---:|

@@ -7,7 +7,7 @@
 | /mmo | Та самая ладва, которую ты запомнил в своём 2008 | 11/09/20 | [>>6571968](https://2ch.hk/mmo/res/6571968.html) | [Архивач](http://arhivach.ng/thread/617166/) | |
 | /mmo | L2Reborn - х1.5 Interlude в одно окно | 01/09/20 | [>>6569922](https://2ch.hk/mmo/res/6569922.html) | [Архивач](http://arhivach.ng/thread/617165/) | |
 | /mmo | L2reborn IL x1 без доната, окон и смс | 27/06/20 | [>>6564262](https://2ch.hk/mmo/res/6564262.html) | [Архивач](http://arhivach.ng/thread/617164/) | |
-| /mmo | L2Reborn Interlude x1 - Открытие 31.10.2019 (22:00 msk) | 31/10/19 | [>>6550994](https://2ch.hk/mmo/res/6550994.html) | [Архивач](http://arhivach.ng/thread/617163/) | Первый тред по Реборну |
+| /mmo | L2Reborn Interlude x1 - Открытие 31.10.2019 (22:00 msk) | 31/10/19 | [>>6550994](https://2ch.hk/mmo/res/6550994.html) | [Архивач](http://arhivach.ng/thread/617163/) | |
 
 |[↩️](header.md)|[📆](archive.md)|
 |:---:|:---:|

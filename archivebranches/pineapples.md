@@ -16,6 +16,10 @@
 | /mmo | Lineage Classic C4 [x3] Одинадцатый Ламповый Единый | 01/03/16 | [>>6489185](https://2ch.hk/mmo/res/6489185.html) | [Архивач](http://arhivach.ng/thread/152510/) | pnpl c4classic #11 |
 | /mmo | Lineage Classic C4 [x3] Десятый Ламповый Единый | 24/02/16 | [>>6485724](https://2ch.hk/mmo/res/6485724.html) | [Архивач](http://arhivach.ng/thread/151037/) | pnpl c4classic #10 |
 | /mmo | Lineage Classic C4 [x3] Девятый Ламповый Единый | 18/02/16 | [>>6481401](https://2ch.hk/mmo/res/6481401.html) | [Архивач](http://arhivach.ng/thread/148893/) | pnpl c4classic #9 |
+| /mmo | Lineage Classic C4 [x3] Восьмой Ламповый Единый | 11/02/16 | [>>6476674](https://2ch.hk/mmo/res/6476674.html) | [Архивач](http://arhivach.ng/thread/146956/) | pnpl c4classic #8 |
+| /mmo | Lineage Classic C4 [x3] Седьмой Ламповый Единый | 05/02/16 | [>>6473519](https://2ch.hk/mmo/res/6473519.html) | [Архивач](http://arhivach.ng/thread/145128/) | pnpl c4classic #7 |
+| /mmo | Lineage Classic C4 [x3] Шестой Ламповый Единый | 28/01/16 | [>>6468283](https://2ch.hk/mmo/res/6468283.html) | [Архивач](http://arhivach.ng/thread/145127/) | pnpl c4classic #6 |
+| /mmo | Lineage Classic C4 [x3] Пятый Ламповый Единый | 14/01/16 | [>>6460129](https://2ch.hk/mmo/res/6460129.html) | [Архивач](http://arhivach.ng/thread/142963/) | pnpl c4classic #5 |
 
 |[↩️](header.md)|[📆](archive.md)|
 |:---:|:---:|

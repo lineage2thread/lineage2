@@ -284,10 +284,14 @@
 | /mmo | LINEAGE 2 HF | 20/02/16 | [>>6482485](https://2ch.hk/mmo/res/6482485.html) | | |
 | /mmo | ОП-хуй - пиздолис который никогда не играл в ЛА2 | 19/02/16 | [>>6482133](https://2ch.hk/mmo/res/6482133.html) | | Тред обсуждения игры |
 | /mmo | Lineage Classic C4 [x3] Девятый Ламповый Единый | 18/02/16 | [>>6481401](https://2ch.hk/mmo/res/6481401.html) | [Архивач](http://arhivach.ng/thread/148893/) | pnpl c4classic #9 |
+| /mmo | Lineage Classic C4 [x3] Восьмой Ламповый Единый | 11/02/16 | [>>6476674](https://2ch.hk/mmo/res/6476674.html) | [Архивач](http://arhivach.ng/thread/146956/) | pnpl c4classic #8 |
 | /mmo | Анон, хочется поолимпить в Lineage (GF - HFp5) | 07/02/16 | [>>6474864](https://2ch.hk/mmo/res/6474864.html) | | Тред поиска сервера |
+| /mmo | Lineage Classic C4 [x3] Седьмой Ламповый Единый | 05/02/16 | [>>6473519](https://2ch.hk/mmo/res/6473519.html) | [Архивач](http://arhivach.ng/thread/145128/) | pnpl c4classic #7 |
 | /mmo | lineageclassic.ru x1 GF | 03/02/16 | [>>6472377](https://2ch.hk/mmo/res/6472377.html) | | Кукантайн |
 | /mmo | Asterios x7 старт 19 февраля 18.00 | 01/02/16 | [>>6471274](https://2ch.hk/mmo/res/6471274.html) | | |
+| /mmo | Lineage Classic C4 [x3] Шестой Ламповый Единый | 28/01/16 | [>>6468283](https://2ch.hk/mmo/res/6468283.html) | [Архивач](http://arhivach.ng/thread/145127/) | pnpl c4classic #6 |
 | /mmo | dreamgame.ru IL x3 | 26/01/16 | [>>6466677](https://2ch.hk/mmo/res/6466677.html) | | |
+| /mmo | Lineage Classic C4 [x3] Пятый Ламповый Единый | 14/01/16 | [>>6460129](https://2ch.hk/mmo/res/6460129.html) | [Архивач](http://arhivach.ng/thread/142963/) | pnpl c4classic #5 |
 | /mmo | RPG-club.com x7 [уже MLG-тред] #3 | 01/12/15 | [>>6420448](https://2ch.hk/mmo/res/6420448.html) | | |
 | /mmo |  |  | [>>]() | | |
 

@@ -280,7 +280,7 @@
 | /mmo |  | 01/03/16 | [>>6489224](https://2ch.hk/mmo/res/6489224.html) | | |
 | /mmo | Lineage Classic C4 [x3] Одинадцатый Ламповый Единый | 01/03/16 | [>>6489185](https://2ch.hk/mmo/res/6489185.html) | [Архивач](http://arhivach.ng/thread/152510/) | pnpl c4classic #11 |
 | /mmo | Lineage Classic C4 [x3] Десятый Ламповый Единый | 24/02/16 | [>>6485724](https://2ch.hk/mmo/res/6485724.html) | [Архивач](http://arhivach.ng/thread/151037/) | pnpl c4classic #10 |
-| /mmo | L2DAWN.COM | 21/02/16 | [>>](https://2ch.hk/mmo/res/6483655.html) | | |
+| /mmo | L2DAWN.COM | 21/02/16 | [>>6483655](https://2ch.hk/mmo/res/6483655.html) | | |
 | /mmo | LINEAGE 2 HF | 20/02/16 | [>>6482485](https://2ch.hk/mmo/res/6482485.html) | | |
 | /mmo | ОП-хуй - пиздолис который никогда не играл в ЛА2 | 19/02/16 | [>>6482133](https://2ch.hk/mmo/res/6482133.html) | | Тред обсуждения игры |
 | /mmo | Lineage Classic C4 [x3] Девятый Ламповый Единый | 18/02/16 | [>>6481401](https://2ch.hk/mmo/res/6481401.html) | [Архивач](http://arhivach.ng/thread/148893/) | pnpl c4classic #9 |

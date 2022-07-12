@@ -18,7 +18,7 @@
 ### Творчество ~~душевнобольных~~ анонов:
 > [`OTEC и Kukantain на серверах lineage2classic.ru, 2016`](https://www.youtube.com/c/KukanTVLolshto)
 > 
-> [`Nyan, l2reborn.org x1, клан ~~Darkside~~ Alt255, 2021`](https://www.youtube.com/channel/UCI3RDriWvTMASGDDaCvunvg)
+> [`Nyan, l2reborn.org x1, клан Alt255, 2021`](https://www.youtube.com/channel/UCI3RDriWvTMASGDDaCvunvg)
 > 
 > [`258, анонимный нобег на Руну времён Багдада, 2011`](https://www.youtube.com/watch?v=4aVcdAGHqHQ)
 > 

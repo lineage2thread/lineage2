@@ -20,6 +20,10 @@
 | /mmo | Lineage Classic C4 [x3] Седьмой Ламповый Единый | 05/02/16 | [>>6473519](https://2ch.hk/mmo/res/6473519.html) | [Архивач](http://arhivach.ng/thread/145128/) | pnpl c4classic #7 |
 | /mmo | Lineage Classic C4 [x3] Шестой Ламповый Единый | 28/01/16 | [>>6468283](https://2ch.hk/mmo/res/6468283.html) | [Архивач](http://arhivach.ng/thread/145127/) | pnpl c4classic #6 |
 | /mmo | Lineage Classic C4 [x3] Пятый Ламповый Единый | 14/01/16 | [>>6460129](https://2ch.hk/mmo/res/6460129.html) | [Архивач](http://arhivach.ng/thread/142963/) | pnpl c4classic #5 |
+| /mmo | c4classic.ru часть третья | 10/12/15 | [>>6431221](https://web.archive.org/web/20160203123921/https://2ch.hk/mmo/res/6431221.html) | | pnpl c4classic #4 |
+| /mmo | c4classic.ru часть третья | 14/11/15 | [>>6403371](https://web.archive.org/web/20160102233659mp_/https://2ch.hk/mmo/res/6403371.html) | | pnpl c4classic #3 |
+| /mmo | c4classic.ru | 26/10/15 | [>>6394468](https://web.archive.org/web/20151101155755/https://2ch.hk/mmo/res/6394468.html) | | pnpl c4classic #2 |
+| /mmo | Lineage II `www.c4classic.ru` | 11/10/15 | [>>6312552](https://web.archive.org/web/20151101155759/https://2ch.hk/mmo/res/6312552.html) | | pnpl c4classic #1 |
 
 |[↩️](header.md)|[📆](archive.md)|
 |:---:|:---:|

@@ -105,7 +105,7 @@
 | #2 | 27/02/20 | [>>6554772](https://2ch.hk/mmo/res/6554772.html) | [Архивач](http://arhivach.ng/thread/537522/) | Первый ПК-вкат на Астериос [>>6554901](https://2ch.hk/mmo/res/6554772.html#6554901) и Срэгги? Я не буду с каким-то Срыгги сидеть... [>>6554797](https://2ch.hk/mmo/res/6554772.html#6554797) |
 | #1 | 17/02/20 | [>>6553830](https://2ch.hk/mmo/res/6553830.html) | [Архивач](http://arhivach.ng/thread/537521/) | |
 
-### Далее идут несвязанные треды. Часть тредов может быть доступна только через archive.org (для /mmo - с 07/01/16). Для упрощения дальнейшей навигации цепочки тредов также продублированы в отдельных ссылках в алфавитном порядке:
+### Далее идут несвязанные треды. Часть тредов может быть доступна только через archive.org или мобильную версию (для /mmo - с 07/01/16). Для упрощения дальнейшей навигации цепочки тредов также продублированы в отдельных ссылках в алфавитном порядке:
 
 ---
 
@@ -304,13 +304,40 @@
 | /mmo | Lineage 2 Classic. Добро пожаловать. Снова.(ОФ) | 27/11/15 | [>>6416599](https://web.archive.org/web/20151203004903/https://2ch.hk/mmo/res/6416599.html) | | Официалка l2 classic |
 | /mmo | rpg-club x7 | 26/11/15 | [>>6414974](https://web.archive.org/web/20151203132445/https://2ch.hk/mmo/res/6414974.html) | | Дубль |
 | /mmo | RPG-club.com x7 [ИГИЛ тред] #2 | 26/11/15 | [>>6414971](https://web.archive.org/web/20151203005026/https://2ch.hk/mmo/res/6414971.html) | | |
+| /mmo | l2 rpg-club x7 | 21/11/15 | [>>6408688](https://web.archive.org/web/20151203132516/https://2ch.hk/mmo/res/6408688.html) | | |
 | /mmo | Lineage 2 Classic. Добро пожаловать. Снова. | 16/11/15 | [>>6405165](https://web.archive.org/web/20151203004906/https://2ch.hk/mmo/res/6405165.html) | | Официалка l2 classic |
+| /mmo | х7 FantasyLife Лучший мир Interlude x7 | 15/11/15 | [>>6404525](https://web.archive.org/web/20151203132610/https://2ch.hk/mmo/res/6404525.html) | | |
 | /mmo | RPG-club.com x7 | 10/11/15 | [>>6400191](https://web.archive.org/web/20151203005012mp_/https://2ch.hk/mmo/res/6400191.html) | | |
 | /mmo | Lineage 2 Classic. Добро пожаловать. Снова. | 01/11/15 | [>>6396284](https://web.archive.org/web/20151101232456/https://2ch.hk/mmo/res/6396284.html) | | Официалка l2 classic; Патомушта здесь УЛЬТРА КЛАССЕКАХАДКОР, ЁБАНА! |
 | /mmo | la.kiev.ua - ИЛ х10 тред. | 23/10/15 | [>>6392953](https://web.archive.org/web/20160103193924/https://2ch.hk/mmo/res/6392953.html) | | |
 | /mmo | Lineage 2 Classic. Добро пожаловать. Снова. | 16/10/15 | [>>6348570](https://web.archive.org/web/20151101155810/https://2ch.hk/mmo/res/6348570.html) | [m2ch](https://m2ch.ga/mmo/res/6348570.html) | Официалка l2 classic |
+| /mmo | Lineage II. lineageclassic.ru x3 | 10/10/15 | [>>6306343](https://web.archive.org/web/20151203132325/https://2ch.hk/mmo/res/6306343.html) | [m2ch](https://m2ch.ga/mmo/res/6306343.html) | |
 | /mmo | Lineage 2 Classic. Добро пожаловать. Снова. | 08/10/15 | [>>6301358](https://m2ch.ga/mmo/res/6301358.html) | | Официалка l2 classic |
+| /mmo | Осеннего lineage2 сервера тред | 03/09/15 | [>>6124484](https://web.archive.org/web/20151003231536/https://2ch.hk/mmo/res/6124484.html) | m2ch](https://m2ch.ga/mmo/res/6124484.html) | |
 | /mmo |  |  | [>>]() | | |
-
+| /mmo |  |  | [>>]() | | |
+| /mmo |  |  | [>>]() | | |
+| /mmo |  |  | [>>]() | | |
+| /mmo |  |  | [>>]() | | |
+| /mmo |  |  | [>>]() | | |
+| /mmo |  |  | [>>]() | | |
+| /mmo |  |  | [>>]() | | |
+| /mmo |  |  | [>>]() | | |
+| /mmo |  |  | [>>]() | | |
+| /mmo |  |  | [>>]() | | |
+| /mmo |  |  | [>>]() | | |
+| /mmo |  |  | [>>]() | | |
+| /mmo |  |  | [>>]() | | |
+| /mmo |  |  | [>>]() | | |
+| /mmo |  |  | [>>]() | | |
+| /mmo |  |  | [>>]() | | |
+| /mmo |  |  | [>>]() | | |
+| /mmo |  |  | [>>]() | | |
+| /mmo |  |  | [>>]() | | |
+| /mmo |  |  | [>>]() | | |
+| /mmo |  |  | [>>]() | | |
+| /mmo |  |  | [>>]() | | |
+| /mmo |  |  | [>>]() | | |
+v
 |[↩️](header.md)|
 |:---:|

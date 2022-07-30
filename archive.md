@@ -313,7 +313,7 @@
 | /mmo | Lineage 2 Classic. Добро пожаловать. Снова. | 16/10/15 | [>>6348570](https://web.archive.org/web/20151101155810/https://2ch.hk/mmo/res/6348570.html) | [m2ch](https://m2ch.ga/mmo/res/6348570.html) | Официалка l2 classic |
 | /mmo | Lineage II. lineageclassic.ru x3 | 10/10/15 | [>>6306343](https://web.archive.org/web/20151203132325/https://2ch.hk/mmo/res/6306343.html) | [m2ch](https://m2ch.ga/mmo/res/6306343.html) | |
 | /mmo | Lineage 2 Classic. Добро пожаловать. Снова. | 08/10/15 | [>>6301358](https://m2ch.ga/mmo/res/6301358.html) | | Официалка l2 classic |
-| /mmo | Осеннего lineage2 сервера тред | 03/09/15 | [>>6124484](https://web.archive.org/web/20151003231536/https://2ch.hk/mmo/res/6124484.html) | m2ch](https://m2ch.ga/mmo/res/6124484.html) | |
+| /mmo | Осеннего lineage2 сервера тред | 03/09/15 | [>>6124484](https://web.archive.org/web/20151003231536/https://2ch.hk/mmo/res/6124484.html) | [m2ch](https://m2ch.ga/mmo/res/6124484.html) | |
 | /mmo |  |  | [>>]() | | |
 | /mmo |  |  | [>>]() | | |
 | /mmo |  |  | [>>]() | | |
@@ -338,6 +338,6 @@
 | /mmo |  |  | [>>]() | | |
 | /mmo |  |  | [>>]() | | |
 | /mmo |  |  | [>>]() | | |
-v
+
 |[↩️](header.md)|
 |:---:|

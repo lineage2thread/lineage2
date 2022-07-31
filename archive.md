@@ -342,10 +342,48 @@
 | /mmo | l2.playdefo.ru | 29/06/15 | [>>5706543](https://m2ch.ga/mmo/res/5706543.html) | | mept&cococo |
 | /mmo | Interlude x7 lineageclassic.ru #4 | 17/06/15 | [>>5642419](https://m2ch.ga/mmo/res/5642419.html) | | Дубль |
 | /mmo | Lineage 2 Interlude x7 / Тренд #4 | 14/06/15 | [>>5631447](https://m2ch.ga/mmo/res/5631447.html) | | Куканы и BRANDAO с ggwp |
+| /mmo | LINEAGE CLASSIC | 03/06/15 | [>>5575324](https://m2ch.ga/mmo/res/5575324.html) | | Официалка l2 classic |
 | /mmo | Interlude x7 lineageclassic.ru #3 | 03/06/15 | [>>5574640](https://m2ch.ga/mmo/res/5574640.html) | | Куканы и BRANDAO с ggwp |
 | /mmo | Interlude x7 lineageclassic.ru #2 | 28/05/15 | [>>5546979](https://m2ch.ga/mmo/res/5546979.html) | | Куканы и BRANDAO с ggwp |
 | /mmo | Lineage II Server No buffer | 26/05/15 | [>>5530644](https://m2ch.ga/mmo/res/5530644.html) | | Тред поиска сервера |
 | /mmo | Lineageclassic.ru Interlude x7 thread | 25/05/15 | [>>5524776](https://m2ch.ga/mmo/res/5524776.html) | | Куканы и BRANDAO с ggwp |
+| /mmo | lineageclassic.ru C4 x3 thread | 08/05/15 | [>>5421684](https://m2ch.ga/mmo/res/5421684.html) | | Кукантайн и все-все-все...; перекатились в [>>5524776](https://m2ch.ga/mmo/res/5524776.html) |
+| /mmo | LINEAGE CLASSIC | 30/04/15 | [>>5371510](https://m2ch.ga/mmo/res/5371510.html) | | Официалка l2 classic |
+| /mmo | Lineage 2 Classic EUROPE | 25/04/15 | [>>5341434](https://m2ch.ga/mmo/res/5341434.html) | | |
+| /mmo | lineageclassic.ru C4 x3 thread | 11/04/15 | [>>5257952](https://m2ch.ga/mmo/res/5257952.html) | | Кукантайн и все-все-все... |
+| /mmo | LINEAGE CLASSIC | 10/04/15 | [>>5249085](https://m2ch.ga/mmo/res/5249085.html) | | Официалка l2 classic |
+| /mmo | Lineage 2 | 29/03/15 | [>>5158328](https://m2ch.ga/mmo/res/5158328.html) | | L2Ru.ws Epilogue (ява) x50 |
+| /mmo | LINEAGE CLASSIC | 26/03/15 | [>>5139640](https://m2ch.ga/mmo/res/5139640.html) | | Официалка l2 classic |
+| /mmo | lineageclassic.ru C4 x3 THREAD | 26/03/15 | [>>5137432](https://m2ch.ga/mmo/res/5137432.html) | | Кукантайн и все-все-все... |
+| /mmo | Lineageclassic C4 x3 THREAD # 18 или 19 | 26/03/15 | [>>5137532](https://m2ch.ga/mmo/res/5137532.html) | | Кукантайн и все-все-все... |
+| /mmo | lineageclassic x3 C4 THREAD | 15/03/15 | [>>5062703](https://m2ch.ga/mmo/res/5062703.html) | | Кукантайн и все-все-все... |
+| /mmo | LINEAGE CLASSIC | 14/03/15 | [>>5058403](https://m2ch.ga/mmo/res/5058403.html) | | Официалка l2 classic |
+| /mmo | Rpg-club x3 | 06/03/15 | [>>5005735](https://m2ch.ga/mmo/res/5005735.html) | | Перекат из [>>4885148](https://m2ch.ga/mmo/res/4885148.html) |
+| /mmo | lineageclassic x3 C4 THREAD # 17 | 04/03/15 | [>>4991276](https://m2ch.ga/mmo/res/4991276.html) | | Кукантайн и все-все-все... |
+| /mmo | LINEAGE CLASSIC | 03/03/15 | [>>4987391](https://m2ch.ga/mmo/res/4987391.html) | | Официалка l2 classic |
+| /mmo | LINEAGE CLASSIC | 19/02/15 | [>>4899074](https://m2ch.ga/mmo/res/4899074.html) | | Официалка l2 classic |
+| /mmo | [b]LINEAGECLASSIC x3 THREAD[/b] | 18/02/15 | [>>4895221](https://m2ch.ga/mmo/res/4895221.html) | | Кукантайн и все-все-все... + src000 |
+| /mmo | Rpgclub x3. Motherland. Lineage 2 High Five Part5. | 17/02/15 | [>>4885148](https://m2ch.ga/mmo/res/4885148.html) | | Перекат из [>>4800630](https://m2ch.ga/mmo/res/4800630.html) |
+| /mmo | Возвращение легенды | 13/02/15 | [>>4863150](https://m2ch.ga/mmo/res/4863150.html) | | Астериос |
+| /mmo | L2 ява Interlude сервер с рейтами x20 | 12/02/15 | [>>4857145](https://m2ch.ga/mmo/res/4857145.html) | | Перекат из [>>4803768](https://m2ch.ga/mmo/res/4803768.html) |
+| /mmo | LINEAGE CLASSIC | 10/02/15 | [>>4844599](https://m2ch.ga/mmo/res/4844599.html) | | Официалка l2 classic |
+| /mmo | LINEAGE CLASSIC | 04/02/15 | [>>4811756](https://m2ch.ga/mmo/res/4811756.html) | | Официалка l2 classic |
+| /mmo | L2 INTERLUDE X20 THEMEGA.RU | 03/02/15 | [>>4803768](https://m2ch.ga/mmo/res/4803768.html) | | Перекат из [>>4745992](https://m2ch.ga/mmo/res/4745992.html) |
+| /mmo | Rpgclub x3. Motherland. Lineage 2. | 02/02/15 | [>>4800630](https://m2ch.ga/mmo/res/4800630.html) | | Перекат из [>>4634597](https://m2ch.ga/mmo/res/4634597.html) |
+| /mmo | Lineage 2 ГФШ | 29/01/15 | [>>4782655](https://m2ch.ga/mmo/res/4782655.html) | | Тред поиска сервера |
+| /mmo | LINEAGE CLASSIC | 29/01/15 | [>>4781682](https://m2ch.ga/mmo/res/4781682.html) | | Официалка l2 classic |
+| /mmo | LINEAGE CLASSIC | 24/01/15 | [>>4752309](https://m2ch.ga/mmo/res/4752309.html) | | Официалка l2 classic |
+| /mmo | LINEAGE NANNA X75 | 23/01/15 | [>>4748702](https://m2ch.ga/mmo/res/4748702.html) | | |
+| /mmo | LINEAGE INTERLUDE x20 THE MEGA ASIA ПОПРОБУЙ ЕЩЕ ЗАХОЧЕШЬ | 23/01/15 | [>>4745992](https://m2ch.ga/mmo/res/4745992.html) | | Перекат из [>>4643565](https://m2ch.ga/mmo/res/4643565.html) |
+| /mmo | Lineageclassic X3 Добро пожаловать снова. | 18/01/15 | [>>4719415](https://m2ch.ga/mmo/res/4719415.html) | | Акопян -> Кукантайн |
+| /mmo | LINEAGE CLASSIC | 18/01/15 | [>>4723959](https://m2ch.ga/mmo/res/4723959.html) | | Официалка l2 classic |
+| /mmo | LINEAGE CLASSIC | 15/01/15 | [>>4709348](https://m2ch.ga/mmo/res/4709348.html) | | Официалка l2 classic |
+| /mmo | LINEAGE CLASSIC | 12/01/15 | [>>4690181](https://m2ch.ga/mmo/res/4690181.html) | | Официалка l2 classic |
+| /mmo | **Lineage 2 Classic** | 06/01/15 | [>>4656100](https://m2ch.ga/mmo/res/4656100.html) | | Официалка l2 classic |
+| /mmo | LINEAGE INTERLUDE x20 THE MEGA | 03/01/15 | [>>4643565](https://m2ch.ga/mmo/res/4643565.html) | | |
+| /mmo | Rpg-club x3 | 01/01/15 | [>>4634597](https://m2ch.ga/mmo/res/4634597.html) | | Перекат из [>>4584761](https://m2ch.ga/mmo/res/4584761.html) |
+| /mmo | Кооперация с аноном | 29/12/14 | [>>4622597](https://m2ch.ga/mmo/res/4622597.html) | | Официалка l2 classic |
+| /mmo | Rpg-club x3 | 21/12/14 | [>>4584761](https://m2ch.ga/mmo/res/4584761.html) | | |
 | /mmo |  |  | [>>]() | | |
 
 |[↩️](header.md)|

@@ -296,47 +296,56 @@
 | /mmo | Зарезервирую тредик одного себя. | 07/01/16 | [>>6456366](https://web.archive.org/web/20160203033149/https://2ch.hk/mmo/res/6456366.html) | | Дневничок src000/yobaboba |
 | /mmo | c4classic.ru часть третья | 10/12/15 | [>>6431221](https://web.archive.org/web/20160203123921/https://2ch.hk/mmo/res/6431221.html) | | pnpl c4classic #4 |
 | /mmo | RPG-club.com x7 [уже MLG-тред] #3 | 01/12/15 | [>>6420448](https://2ch.hk/mmo/res/6420448.html) | | |
-| /mmo | Lineage2classic.com x3 (нет) | 21/11/15 | [>>6409091](https://web.archive.org/web/20160203124040/https://2ch.hk/mmo/res/6409091.html) | | |
-| /mmo | Lineage 2 Classic EU Предзаказ | 18/11/15 | [>>6406780](https://web.archive.org/web/20160102233848/https://2ch.hk/mmo/res/6406780.html) | | Дубль из /vg |
-| /mmo | c4classic.ru часть третья | 14/11/15 | [>>6403371](https://web.archive.org/web/20160102233659mp_/https://2ch.hk/mmo/res/6403371.html) | | pnpl c4classic #3 |
-| /mmo | c4classic.ru | 26/10/15 | [>>6394468](https://web.archive.org/web/20151101155755/https://2ch.hk/mmo/res/6394468.html) | | pnpl c4classic #2 |
-| /mmo | Lineage II `www.c4classic.ru` | 11/10/15 | [>>6312552](https://web.archive.org/web/20151101155759/https://2ch.hk/mmo/res/6312552.html) | | pnpl c4classic #1 |
 | /mmo | Lineage 2 Classic. Добро пожаловать. Снова.(ОФ) | 27/11/15 | [>>6416599](https://web.archive.org/web/20151203004903/https://2ch.hk/mmo/res/6416599.html) | | Официалка l2 classic |
 | /mmo | rpg-club x7 | 26/11/15 | [>>6414974](https://web.archive.org/web/20151203132445/https://2ch.hk/mmo/res/6414974.html) | | Дубль |
 | /mmo | RPG-club.com x7 [ИГИЛ тред] #2 | 26/11/15 | [>>6414971](https://web.archive.org/web/20151203005026/https://2ch.hk/mmo/res/6414971.html) | | |
+| /mmo | Lineage2classic.com x3 (нет) | 21/11/15 | [>>6409091](https://web.archive.org/web/20160203124040/https://2ch.hk/mmo/res/6409091.html) | | |
 | /mmo | l2 rpg-club x7 | 21/11/15 | [>>6408688](https://web.archive.org/web/20151203132516/https://2ch.hk/mmo/res/6408688.html) | | |
+| /mmo | Lineage 2 Classic EU Предзаказ | 18/11/15 | [>>6406780](https://web.archive.org/web/20160102233848/https://2ch.hk/mmo/res/6406780.html) | | Дубль из /vg |
 | /mmo | Lineage 2 Classic. Добро пожаловать. Снова. | 16/11/15 | [>>6405165](https://web.archive.org/web/20151203004906/https://2ch.hk/mmo/res/6405165.html) | | Официалка l2 classic |
 | /mmo | х7 FantasyLife Лучший мир Interlude x7 | 15/11/15 | [>>6404525](https://web.archive.org/web/20151203132610/https://2ch.hk/mmo/res/6404525.html) | | |
+| /mmo | c4classic.ru часть третья | 14/11/15 | [>>6403371](https://web.archive.org/web/20160102233659mp_/https://2ch.hk/mmo/res/6403371.html) | | pnpl c4classic #3 |
 | /mmo | RPG-club.com x7 | 10/11/15 | [>>6400191](https://web.archive.org/web/20151203005012mp_/https://2ch.hk/mmo/res/6400191.html) | | |
 | /mmo | Lineage 2 Classic. Добро пожаловать. Снова. | 01/11/15 | [>>6396284](https://web.archive.org/web/20151101232456/https://2ch.hk/mmo/res/6396284.html) | | Официалка l2 classic; Патомушта здесь УЛЬТРА КЛАССЕКАХАДКОР, ЁБАНА! |
-| /mmo | la.kiev.ua - ИЛ х10 тред. | 23/10/15 | [>>6392953](https://web.archive.org/web/20160103193924/https://2ch.hk/mmo/res/6392953.html) | | |
+| /mmo | c4classic.ru | 26/10/15 | [>>6394468](https://web.archive.org/web/20151101155755/https://2ch.hk/mmo/res/6394468.html) | | pnpl c4classic #2 |
+| /mmo | la.kiev.ua - ИЛ х10 тред. | 23/10/15 | [>>6392953](https://web.archive.org/web/20160103193924/https://2ch.hk/mmo/res/6392953.html) | | Перекат из [>>6261185](https://m2ch.ga/mmo/res/6261185.html) |
 | /mmo | Lineage 2 Classic. Добро пожаловать. Снова. | 16/10/15 | [>>6348570](https://web.archive.org/web/20151101155810/https://2ch.hk/mmo/res/6348570.html) | [m2ch](https://m2ch.ga/mmo/res/6348570.html) | Официалка l2 classic |
+| /mmo | Lineage II `www.c4classic.ru` | 11/10/15 | [>>6312552](https://web.archive.org/web/20151101155759/https://2ch.hk/mmo/res/6312552.html) | | pnpl c4classic #1 |
 | /mmo | Lineage II. lineageclassic.ru x3 | 10/10/15 | [>>6306343](https://web.archive.org/web/20151203132325/https://2ch.hk/mmo/res/6306343.html) | [m2ch](https://m2ch.ga/mmo/res/6306343.html) | |
 | /mmo | Lineage 2 Classic. Добро пожаловать. Снова. | 08/10/15 | [>>6301358](https://m2ch.ga/mmo/res/6301358.html) | | Официалка l2 classic |
+| /mmo | Привет котаны. Видел ла2 треды, но не хочу мешать тамошним анонам | 04/10/15 | [>>6276820](https://m2ch.ga/mmo/res/6276820.html) | | |
+| /mmo | Asterios и попытка заработать на ваших горбах | 01/10/15 | [>>6264104](https://m2ch.ga/mmo/res/6264104.html) | | |
+| /mmo | la.kiev.ua тред. ИЛ х10 | 01/10/15 | [>>6261185](https://m2ch.ga/mmo/res/6261185.html) | | |
+| /mmo | Lineage 2 Classic. Добро пожаловать. Снова. | 30/09/15 | [>>6256524](https://m2ch.ga/mmo/res/6256524.html) | | Официалка l2 classic |
+| /mmo | Пока школотинушка экономит на обедах и грызёт гранит науки мы понагибаем. | 26/09/15 | [>>6235404](https://m2ch.ga/mmo/res/6235404.html) | | |
+| /mmo | Lineage 2 Classic. Добро пожаловать. Снова. | 22/09/15 | [>>6210304](https://web.archive.org/web/20151003133050/https://2ch.hk/mmo/res/6210304.html) | [m2ch](https://m2ch.ga/mmo/res/6210304.html) | Официалка l2 classic |
+| /mmo | Переката на Lineage.ru GF тред. | 20/09/15 | [>>6199010](https://web.archive.org/web/20151003231833/https://2ch.hk/mmo/res/6199010.html) | [m2ch](https://m2ch.ga/mmo/res/6199010.html) | |
+| /mmo | Lineage 2 Classic. Добро пожаловать. Снова. | 14/09/15 | [>>6164405](https://m2ch.ga/mmo/res/6164405.html) | | Официалка l2 classic |
 | /mmo | Осеннего lineage2 сервера тред | 03/09/15 | [>>6124484](https://web.archive.org/web/20151003231536/https://2ch.hk/mmo/res/6124484.html) | [m2ch](https://m2ch.ga/mmo/res/6124484.html) | |
-| /mmo |  |  | [>>]() | | |
-| /mmo |  |  | [>>]() | | |
-| /mmo |  |  | [>>]() | | |
-| /mmo |  |  | [>>]() | | |
-| /mmo |  |  | [>>]() | | |
-| /mmo |  |  | [>>]() | | |
-| /mmo |  |  | [>>]() | | |
-| /mmo |  |  | [>>]() | | |
-| /mmo |  |  | [>>]() | | |
-| /mmo |  |  | [>>]() | | |
-| /mmo |  |  | [>>]() | | |
-| /mmo |  |  | [>>]() | | |
-| /mmo |  |  | [>>]() | | |
-| /mmo |  |  | [>>]() | | |
-| /mmo |  |  | [>>]() | | |
-| /mmo |  |  | [>>]() | | |
-| /mmo |  |  | [>>]() | | |
-| /mmo |  |  | [>>]() | | |
-| /mmo |  |  | [>>]() | | |
-| /mmo |  |  | [>>]() | | |
-| /mmo |  |  | [>>]() | | |
-| /mmo |  |  | [>>]() | | |
-| /mmo |  |  | [>>]() | | |
+| /mmo | Lineage II infinite odyssey | 01/09/15 | [>>6115694](https://m2ch.ga/mmo/res/6115694.html) | | |
+| /mmo | Linеage Clаssic. Oфициaльный сeрвeр. | 31/08/15 | [>>6107279](https://m2ch.ga/mmo/res/6107279.html) | | Официалка l2 classic |
+| /mmo | Пока утята играют в свои фришечки и крабят в классике урезанный лоу контент настоящей л2 | 31/08/15 | [>>6105066](https://m2ch.ga/mmo/res/6105066.html) | | |
+| /mmo | Бэфэгэ Возмездие #2, нежить как только так сразу | 28/08/15 | [>>6088164](https://m2ch.ga/mmo/res/6088164.html) | | |
+| /mmo | LINEAGE CLASSIC (официальный сервер, официальный тред) | 26/08/15 | [>>6075683](https://m2ch.ga/mmo/res/6075683.html) | | Официалка l2 classic |
+| /mmo | LINEAGE CLASSIC | 19/08/15 | [>>6030442](https://m2ch.ga/mmo/res/6030442.html) | | Официалка l2 classic |
+| /mmo | l2.playdefo.com HF x30 | 17/08/15 | [>>6016710](https://m2ch.ga/mmo/res/6016710.html) | | mept&cococo |
+| /mmo | Бэфэгэ Возмездие, полдня до старта | 14/08/15 | [>>5993583](https://m2ch.ga/mmo/res/5993583.html) | | |
+| /mmo | Lineage II Classic | 14/08/15 | [>>5992743](https://m2ch.ga/mmo/res/5992743.html) | | Официалка l2 classic |
+| /mmo | Battles for Glory 2! | 11/08/15 | [>>5970414](https://m2ch.ga/mmo/res/5970414.html) | | |
+| /mmo | ШКОЛОНАГИБА ЕВРОПЕВЕПЕ х1200 ИНТЕРЛЮД НИТЬ | 10/08/15 | [>>5962855](https://m2ch.ga/mmo/res/5962855.html) | | |
+| /mmo | Л2 Классик | 05/08/15 | [>>5927929](https://m2ch.ga/mmo/res/5927929.html) | | |
+| /mmo | l2.playdefo.com x30 | 27/07/15 | [>>5874706](https://m2ch.ga/mmo/res/5874706.html) | | mept&cococo |
+| /mmo | Свидетели Мемлорда на Defo x30 | 27/07/15 | [>>5874386](https://m2ch.ga/mmo/res/5874386.html) | | mept&cococo |
+| /mmo | l2.playdefo.com x30 | 20/07/15 | [>>5823069](https://m2ch.ga/mmo/res/5823069.html) | | mept&cococo |
+| /mmo | l2.playdefo.com x30 | 07/07/15 | [>>5748842](https://m2ch.ga/mmo/res/5748842.html) | | mept&cococo |
+| /mmo | Lineage 2 Interlude x7 намба файв | 02/07/15 | [>>5723082](https://m2ch.ga/mmo/res/5723082.html) | | Куканы и BRANDAO с ggwp |
+| /mmo | l2.playdefo.ru | 29/06/15 | [>>5706543](https://m2ch.ga/mmo/res/5706543.html) | | mept&cococo |
+| /mmo | Interlude x7 lineageclassic.ru #4 | 17/06/15 | [>>5642419](https://m2ch.ga/mmo/res/5642419.html) | | Дубль |
+| /mmo | Lineage 2 Interlude x7 / Тренд #4 | 14/06/15 | [>>5631447](https://m2ch.ga/mmo/res/5631447.html) | | Куканы и BRANDAO с ggwp |
+| /mmo | Interlude x7 lineageclassic.ru #3 | 03/06/15 | [>>5574640](https://m2ch.ga/mmo/res/5574640.html) | | Куканы и BRANDAO с ggwp |
+| /mmo | Interlude x7 lineageclassic.ru #2 | 28/05/15 | [>>5546979](https://m2ch.ga/mmo/res/5546979.html) | | Куканы и BRANDAO с ggwp |
+| /mmo | Lineage II Server No buffer | 26/05/15 | [>>5530644](https://m2ch.ga/mmo/res/5530644.html) | | Тред поиска сервера |
+| /mmo | Lineageclassic.ru Interlude x7 thread | 25/05/15 | [>>5524776](https://m2ch.ga/mmo/res/5524776.html) | | Куканы и BRANDAO с ggwp |
 | /mmo |  |  | [>>]() | | |
 
 |[↩️](header.md)|

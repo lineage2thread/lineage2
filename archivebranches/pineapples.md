@@ -31,7 +31,6 @@
 | /mmo | Lineage C4 Официальный #10 | 20/09/14 | [>>4099524](https://m2ch.ga/mmo/res/4099524.html) | | lineageclassic #10, Pineapples и все-все-все... |
 | /mmo | Девятый официальный тред о классических хрониках. Сервер Lineageclassic.ru C4 x3 | 15/09/14 | [>>4079913](https://m2ch.ga/mmo/res/4079913.html) | | lineageclassic #9, Pineapples и все-все-все... |
 | /mmo | Lineage 2 x3 Official | 03/09/14 | [>>4032777](https://m2ch.ga/mmo/res/4032777.html) | | lineageclassic #8, Pineapples и все-все-все... |
-| /mmo | Lineage.ru Interlude x7 | 01/09/14 | [>>4026525](https://m2ch.ga/mmo/res/4026525.html) | | |
 | /mmo | Lineage 2 x3 Official | 17/08/14 | [>>3965355](https://m2ch.ga/mmo/res/3965355.html) | | lineageclassic #7, Pineapples и все-все-все... |
 | /mmo | Lineage 2 x3 Official | 08/08/14 | [>>3924130](https://m2ch.ga/mmo/res/3924130.html) | | lineageclassic #6, Pineapples и все-все-все... |
 | /mmo | Lineageclassic.ru | 06/08/14 | [>>3913042](https://m2ch.ga/mmo/res/3913042.html) | | lineageclassic #5, Pineapples и все-все-все... |

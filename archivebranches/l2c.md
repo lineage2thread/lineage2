@@ -80,6 +80,10 @@
 | /mmo | Lineage 2 Classic | 17/11/14 | [>>4397774](https://m2ch.ga/mmo/res/4397774.html) | | нелегитимный |
 | /mmo | Lineage 2 Classic | 16/11/14 | [>>4391395](https://m2ch.ga/mmo/res/4391395.html) | | старт классика |
 | /mmo | Lineage 2 Classic | 14/11/14 | [>>4377779](https://m2ch.ga/mmo/res/4377779.html) | | |
+| /mmo | Lineage 2 Classic №3 | 12/11/14 | [>>4363784](https://m2ch.ga/mmo/res/4363784.html) | | Официалка l2 classic |
+| /mmo | Обсуждаем куда врываются дестры и кого добивают хавки | 07/11/14 | [>>4335338](https://m2ch.ga/mmo/res/4335338.html) | | Официалка l2 classic |
+| /mmo | Lineage 2 Classic | 04/11/14 | [>>4314907](https://m2ch.ga/mmo/res/4314907.html) | | Официалка l2 classic |
+| /mmo | Lineage 2 Classic | 28/10/14 | [>>4282191](https://m2ch.ga/mmo/res/4282191.html) | | Официалка l2 classic |
 
 |[↩️](header.md)|[📆](archive.md)|
 |:---:|:---:|

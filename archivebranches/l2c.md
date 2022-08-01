@@ -80,10 +80,14 @@
 | /mmo | Lineage 2 Classic | 17/11/14 | [>>4397774](https://m2ch.ga/mmo/res/4397774.html) | | нелегитимный |
 | /mmo | Lineage 2 Classic | 16/11/14 | [>>4391395](https://m2ch.ga/mmo/res/4391395.html) | | старт классика |
 | /mmo | Lineage 2 Classic | 14/11/14 | [>>4377779](https://m2ch.ga/mmo/res/4377779.html) | | |
-| /mmo | Lineage 2 Classic №3 | 12/11/14 | [>>4363784](https://m2ch.ga/mmo/res/4363784.html) | | Официалка l2 classic |
-| /mmo | Обсуждаем куда врываются дестры и кого добивают хавки | 07/11/14 | [>>4335338](https://m2ch.ga/mmo/res/4335338.html) | | Официалка l2 classic |
-| /mmo | Lineage 2 Classic | 04/11/14 | [>>4314907](https://m2ch.ga/mmo/res/4314907.html) | | Официалка l2 classic |
-| /mmo | Lineage 2 Classic | 28/10/14 | [>>4282191](https://m2ch.ga/mmo/res/4282191.html) | | Официалка l2 classic |
+| /mmo | Lineage 2 Classic №3 | 12/11/14 | [>>4363784](https://m2ch.ga/mmo/res/4363784.html) | | |
+| /mmo | Обсуждаем куда врываются дестры и кого добивают хавки | 07/11/14 | [>>4335338](https://m2ch.ga/mmo/res/4335338.html) | | |
+| /mmo | Lineage 2 Classic | 04/11/14 | [>>4314907](https://m2ch.ga/mmo/res/4314907.html) | | |
+| /mmo | Lineage 2 Classic | 28/10/14 | [>>4282191](https://m2ch.ga/mmo/res/4282191.html) | | Единый тред превратился в тред обсуждения l2c |
+| /mmo | Lineage 2 единый | 24/10/14 | [>>4260216](https://m2ch.ga/mmo/res/4260216.html) | | Единый тред #4 |
+| /mmo | Lineage 2 единый | 19/10/14 | [>>4234034](https://m2ch.ga/mmo/res/4234034.html) | | Единый тред #3 |
+| /mmo | Lineage 2 единый | 04/10/14 | [>>4158916](https://m2ch.ga/mmo/res/4158916.html) | | Единый тред #2 |
+| /mmo | Lineage 2. Единый. Первый. | 26/08/14 | [>>4003885](https://m2ch.ga/mmo/res/4003885.html) | | Единый тред #1 |
 
 |[↩️](header.md)|[📆](archive.md)|
 |:---:|:---:|

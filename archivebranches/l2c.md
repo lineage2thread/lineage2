@@ -89,5 +89,5 @@
 | /mmo | Lineage 2 единый | 04/10/14 | [>>4158916](https://m2ch.ga/mmo/res/4158916.html) | | Единый тред #2 |
 | /mmo | Lineage 2. Единый. Первый. | 26/08/14 | [>>4003885](https://m2ch.ga/mmo/res/4003885.html) | | Единый тред #1 |
 
-|[↩️](header.md)|[📆](archive.md)|
+|[↩️](https://github.com/lineage2thread/lineage2/blob/main/header.md)|[📆](https://github.com/lineage2thread/lineage2/blob/main/archive.md)|
 |:---:|:---:|

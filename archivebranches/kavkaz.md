@@ -9,5 +9,5 @@
 | /mmo | Реквест KAVKAZ Lineage2 2012 | 02/03/16 | [>>6490577](https://2ch.hk/mmo/res/6490577.html) | | |
 | /mmo | [b]НАБЕГА НА Х1200 НИТЬ ИДИ[/b] | 20/07/14 | [>>3851734](https://m2ch.ga/mmo/res/3851734.html) | | fail |
 
-|[↩️](header.md)|[📆](archive.md)|
+|[↩️](https://github.com/lineage2thread/lineage2/blob/main/header.md)|[📆](https://github.com/lineage2thread/lineage2/blob/main/archive.md)|
 |:---:|:---:|

@@ -15,5 +15,5 @@
 | /mmo | Бэфэгэ Возмездие, полдня до старта | 14/08/15 | [>>5993583](https://m2ch.ga/mmo/res/5993583.html) | | |
 | /mmo | Battles for Glory 2! | 11/08/15 | [>>5970414](https://m2ch.ga/mmo/res/5970414.html) | | |
 
-|[↩️](header.md)|[📆](archive.md)|
+|[↩️](https://github.com/lineage2thread/lineage2/blob/main/header.md)|[📆](https://github.com/lineage2thread/lineage2/blob/main/archive.md)|
 |:---:|:---:|

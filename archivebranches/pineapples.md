@@ -42,5 +42,5 @@
 | /mmo | Lineageclassic.ru x3 | 15/07/14 | [>>3837710](https://m2ch.ga/mmo/res/3837710.html) | | lineageclassic #0, Pineapples и все-все-все... |
 | /mmo | Lineage kak v 2007 classic | 27/06/14 | [>>3784818](https://m2ch.ga/mmo/res/3784818.html) | | Сие есть пошло название PineappleArmy [>>3836235](https://m2ch.ga/mmo/res/3784818.html#3836235)|
 
-|[↩️](header.md)|[📆](archive.md)|
+|[↩️](https://github.com/lineage2thread/lineage2/blob/main/header.md)|[📆](https://github.com/lineage2thread/lineage2/blob/main/archive.md)|
 |:---:|:---:|

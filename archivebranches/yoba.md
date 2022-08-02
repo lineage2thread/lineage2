@@ -12,5 +12,5 @@
 | /mmo |  | 15/04/16 | [>>6502171](https://2ch.hk/mmo/res/6502171.html) | | YOBA |
 | /mmo | Lineageclassic.ru x1 [autism]edition | 29/03/16 | [>>6501066](https://2ch.hk/mmo/res/6501066.html) | | Autism |
 
-|[↩️](header.md)|[📆](archive.md)|
+|[↩️](https://github.com/lineage2thread/lineage2/blob/main/header.md)|[📆](https://github.com/lineage2thread/lineage2/blob/main/archive.md)|
 |:---:|:---:|

@@ -7,5 +7,5 @@
 | /mmo | Lineage 2 Chronicle III Firebird x1 | 01/06/19 | [>>6546761](https://2ch.hk/mmo/res/6546761.html) | [Архивач](http://arhivach.ng/thread/460377/) | |
 | /mmo | Единственный С3 сервак, где можно поиграть | 28/04/19 | [>>6545104](https://2ch.hk/mmo/res/6545104.html) | [Архивач](http://arhivach.ng/thread/460376/) | |
 
-|[↩️](header.md)|[📆](archive.md)|
+|[↩️](https://github.com/lineage2thread/lineage2/blob/main/header.md)|[📆](https://github.com/lineage2thread/lineage2/blob/main/archive.md)|
 |:---:|:---:|

@@ -7,5 +7,5 @@
 | /mmo | L2CLASSIC.CLUB x3 Classic VARNISH GAYMING №2 | 02/09/16 | [>>6512497](https://2ch.hk/mmo/res/6512497.html) | | Varnish |
 | /mmo | L2CLASSIC.CLUB x3 Classic VARNISH GAYMING | 26/08/16 | [>>6511223](https://2ch.hk/mmo/res/6511223.html) | | Varnish; kak je ebowit [>>6512279](https://2ch.hk/mmo/res/6511223.html#6512279) |
 
-|[↩️](header.md)|[📆](archive.md)|
+|[↩️](https://github.com/lineage2thread/lineage2/blob/main/header.md)|[📆](https://github.com/lineage2thread/lineage2/blob/main/archive.md)|
 |:---:|:---:|

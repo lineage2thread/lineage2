@@ -6,6 +6,7 @@
 
 | Номер | Дата | Ссылка на тред | Архив | Комментарий |
 |:---:|:---:|:---:|:---:|:---:|
+| #32 | 02/08/22 | [>>43726759](https://2ch.hk/vg/res/43726759.html) | | |
 | #31 | 12/07/22 | [>>43513324](https://2ch.hk/vg/res/43513324.html) | | |
 | #30 | 10/05/22 | [>>42945180](https://2ch.hk/vg/res/42945180.html) | | Новая шапка с гитхабом |
 | #29 | 20/03/22 | [>>42512408](https://2ch.hk/vg/res/42512408.html) | | Отныне реборночелядь ниже всех по рангу ИТТ [>>42512442](https://2ch.hk/vg/res/42512408.html#42512442) Ныне, и присно, и во веки веков. Аминь. |
@@ -482,6 +483,7 @@
 | /mmo | Lineage kak v 2007 classic | 27/06/14 | [>>3784818](https://m2ch.ga/mmo/res/3784818.html) | | Сие есть пошло название PineappleArmy [>>3836235](https://m2ch.ga/mmo/res/3784818.html#3836235)|
 | /mmo | Lineage РУОФФ | 25/06/14 | [>>3778670](https://web.archive.org/web/20140705171939/http://2ch.hk/mmo/res/3778670.html) | | |
 | /mmo | ledbin.ru x3 Epilogue | 24/06/14 | [>>3774874](https://web.archive.org/web/20140628043220/http://2ch.hk/mmo/res/3774874.html) | | |
+| /mmo | Lineage 2 free сервера. | 13/12/13 | [>>3030485](https://web.archive.org/web/20140111052136/http://2ch.hk/mmo/res/3030485.html) | | |
 | /mmo |  |  | [>>]() | | |
 
 |[↩️](header.md)|

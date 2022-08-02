@@ -9,5 +9,5 @@
 | /mmo | L2reborn IL x1 без доната, окон и смс | 27/06/20 | [>>6564262](https://2ch.hk/mmo/res/6564262.html) | [Архивач](http://arhivach.ng/thread/617164/) | |
 | /mmo | L2Reborn Interlude x1 - Открытие 31.10.2019 (22:00 msk) | 31/10/19 | [>>6550994](https://2ch.hk/mmo/res/6550994.html) | [Архивач](http://arhivach.ng/thread/617163/) | |
 
-|[↩️](header.md)|[📆](archive.md)|
+|[↩️](https://github.com/lineage2thread/lineage2/blob/main/header.md)|[📆](https://github.com/lineage2thread/lineage2/blob/main/archive.md)|
 |:---:|:---:|

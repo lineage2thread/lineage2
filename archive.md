@@ -479,11 +479,27 @@
 | /mmo | L2 RUOFF | 31/07/14 | [>>3892025](https://m2ch.ga/mmo/res/3892025.html) | | |
 | /mmo | PinappleArmy | 28/07/14 | [>>3881139](https://m2ch.ga/mmo/res/3881139.html) | | lineageclassic #2, Pineapples и все-все-все... |
 | /mmo | Pinapple Army | 23/07/14 | [>>3863689](https://m2ch.ga/mmo/res/3863689.html) | | lineageclassic #1, Pineapples и все-все-все... |
+| /mmo | [b]НАБЕГА НА Х1200 НИТЬ ИДИ[/b] | 20/07/14 | [>>3851734](https://m2ch.ga/mmo/res/3851734.html) | | НАБЕГ ЗА КАВКАЗ fail |
 | /mmo | Lineageclassic.ru x3 | 15/07/14 | [>>3837710](https://m2ch.ga/mmo/res/3837710.html) | | lineageclassic #0, Pineapples и все-все-все... |
 | /mmo | Lineage kak v 2007 classic | 27/06/14 | [>>3784818](https://m2ch.ga/mmo/res/3784818.html) | | Сие есть пошло название PineappleArmy [>>3836235](https://m2ch.ga/mmo/res/3784818.html#3836235)|
 | /mmo | Lineage РУОФФ | 25/06/14 | [>>3778670](https://web.archive.org/web/20140705171939/http://2ch.hk/mmo/res/3778670.html) | | |
 | /mmo | ledbin.ru x3 Epilogue | 24/06/14 | [>>3774874](https://web.archive.org/web/20140628043220/http://2ch.hk/mmo/res/3774874.html) | | |
 | /mmo | Lineage 2 free сервера. | 13/12/13 | [>>3030485](https://web.archive.org/web/20140111052136/http://2ch.hk/mmo/res/3030485.html) | | |
+| /mmo | VARNISH :: LINEAGE.RU C4 x5 | 03/11/13 | [>>2877223](https://web.archive.org/web/20131109085152/http://www.2ch.pm:80/mmo/res/2877223.html) | | Зашкварниши, тред Маями |
+| /mmo | Lineage 2 General Thread | 10/10/13 | [>>2807840](https://web.archive.org/web/20131106091311/http://www.2ch.pm:80/mmo/res/2807840.html) | | |
+| /mmo | Chronicle 3: Rise of Darkness | 25/07/13 | [>>2543896](https://web.archive.org/web/20130731231832/http://2ch.hk/mmo/res/2543896.html) | | |
+| /mmo | Lineage 2 General Thread | 24/07/13 | [>>2538947](https://web.archive.org/web/20130816045914/http://2ch.hk/mmo/res/2538947.html) | | |
+| /mmo | Lineage II HF x30 | 14/04/13 | [>>2026225](https://web.archive.org/web/20130425142403/http://2ch.hk/mmo/res/2026225.html) | | |
+| /mmo | Lineage II - общий тред | 25/01/13 | [>>1563447](https://web.archive.org/web/20130129223326/http://2ch.hk/mmo/res/1563447.html) | | |
+| /mmo | KAVKAZ POWER 2013 | 24/01/13 | [>>1556727](https://web.archive.org/web/20130129223306/http://2ch.hk/mmo/res/1556727.html) | | НАБЕГ ЗА КАВКАЗ |
+| /mmo | ....::::::Lineage II:::::::...... | 06/10/12 | [>>1040556](https://web.archive.org/web/20130520125845/http://2ch.hk/mmo/arch/res/1040556.html) | | Тред обсуждения игры |
+| /mmo | l2 RPG-club x3 | 05/10/12 | [>>1039653](https://web.archive.org/web/20130520161408/http://2ch.hk/mmo/arch/res/1039653.html) | | |
+| /mmo | Империя х3 RPG-CLUB | 05/10/12 | [>>1039410](https://web.archive.org/web/20130520092912/http://2ch.hk/mmo/arch/res/1039410.html) | | |
+| /mmo | OverWorld Rumiel x50 | 03/10/12 | [>>1032660](https://web.archive.org/web/20130521055658/http://2ch.hk/mmo/arch/res/1032660.html) | | |
+| /mmo | Overworld x15 | 02/10/12 | [>>1027498](https://web.archive.org/web/20130520161050/http://2ch.hk/mmo/arch/res/1027498.html) | | |
+| /mmo | L2 c4 | 29/09/12 | [>>1020322](https://web.archive.org/web/20130520094115/http://2ch.hk/mmo/arch/res/1020322.html) | | |
+| /mmo | l2 GOD | 23/09/12 | [>>1002485](https://web.archive.org/web/20130520175140/http://2ch.hk/mmo/arch/res/1002485.html) | | |
+| /mmo | Сап, ММОЧ! Помню, как-то Анон играл в Л2 на четвёртых хрониках, сервер Draconic. | 02/10/12 | [>>1028365](https://web.archive.org/web/20130521012951/http://2ch.hk/mmo/arch/res/1028365.html) | | Тред поиска напарника |
 | /mmo |  |  | [>>]() | | |
 
 |[↩️](header.md)|

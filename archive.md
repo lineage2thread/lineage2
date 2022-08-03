@@ -496,10 +496,10 @@
 | /mmo | l2 RPG-club x3 | 05/10/12 | [>>1039653](https://web.archive.org/web/20130520161408/http://2ch.hk/mmo/arch/res/1039653.html) | | |
 | /mmo | Империя х3 RPG-CLUB | 05/10/12 | [>>1039410](https://web.archive.org/web/20130520092912/http://2ch.hk/mmo/arch/res/1039410.html) | | |
 | /mmo | OverWorld Rumiel x50 | 03/10/12 | [>>1032660](https://web.archive.org/web/20130521055658/http://2ch.hk/mmo/arch/res/1032660.html) | | |
+| /mmo | Сап, ММОЧ! Помню, как-то Анон играл в Л2 на четвёртых хрониках, сервер Draconic. | 02/10/12 | [>>1028365](https://web.archive.org/web/20130521012951/http://2ch.hk/mmo/arch/res/1028365.html) | | Тред поиска напарника |
 | /mmo | Overworld x15 | 02/10/12 | [>>1027498](https://web.archive.org/web/20130520161050/http://2ch.hk/mmo/arch/res/1027498.html) | | |
 | /mmo | L2 c4 | 29/09/12 | [>>1020322](https://web.archive.org/web/20130520094115/http://2ch.hk/mmo/arch/res/1020322.html) | | |
 | /mmo | l2 GOD | 23/09/12 | [>>1002485](https://web.archive.org/web/20130520175140/http://2ch.hk/mmo/arch/res/1002485.html) | | |
-| /mmo | Сап, ММОЧ! Помню, как-то Анон играл в Л2 на четвёртых хрониках, сервер Draconic. | 02/10/12 | [>>1028365](https://web.archive.org/web/20130521012951/http://2ch.hk/mmo/arch/res/1028365.html) | | Тред поиска напарника |
 | /mmo |  |  | [>>]() | | |
 
 |[↩️](header.md)|

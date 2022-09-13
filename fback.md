@@ -2,5 +2,5 @@
 
 ![](pics/tahwy.png)
 
-|[↩️](header.md)|[♿](perekat.md)|[⚡](https://2ch.hk/vg/res/44098823.html)|
+|[↩️](header.md)|[♿](perekat.md)|[⚡](https://2ch.hk/vg/res/44204446.html)|
 |:---:|:---:|:---:|

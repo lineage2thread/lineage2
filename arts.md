@@ -7,8 +7,6 @@
 > 
 > [`Ещё одна галерея, но работает только из-под VPN и картинки с плашечками этого сайта; иногда лучше, чем ничего`](http://www.lineage2media.com/)
 > 
-> [`Галерея с артами художников (deviantart/artstation и т.д.)`](https://forum.l2europa.com/index.php?/topic/17-lineage-2-art-gallery/)
-> 
 > [`Видео по лору игры с разжёвыванием всех микромоментов и отсылками к манхве и Линия Возраста 1`](https://www.youtube.com/c/FocusDeath)
 > 
 > [`НАЧАЛЬНОЕ Официальное Игровое Руководство`](https://github.com/lineage2thread/lineage2/blob/main/pdf/Lineage%20Ii%20-%20Prima%20Game%20Guide%202004.pdf)

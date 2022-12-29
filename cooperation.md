@@ -3,6 +3,7 @@
 ##### Список аноноконф или связь с отдельными неймфагами для кооперации:
 
 > [`pineapples elmorelab`](https://discord.gg/gaA6bQSw)
+
 > [`смыва и сотоварищи`](https://discord.gg/bknKZ4z2eC)
 
 ##### Официальный Lineage на русском, ~~если вы тут играете, то мне вас жаль~~: [`тык`](https://ru.4game.com/ru/lineage2legacy/)

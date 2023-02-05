@@ -2,7 +2,7 @@
 
 ##### Список аноноконф или связь с отдельными неймфагами для кооперации:
 
-> [`pineapples elmorelab`](https://discord.gg/DyZQP9sSS9)
+> [`pineapples elmorelab`](https://discord.gg/TnYtcSWYPr)
 
 > [`смыва и сотоварищи`](https://discord.gg/bknKZ4z2eC)
 

@@ -29,7 +29,7 @@
 >
 > [`БД по ретейл C1 и C2`](https://l2hub.info/c1/)
 >
-> [`БД по л2ж, исключительно ИЛ`](http://interlude.l2dtb.com/)
+> [`БД по l2j, исключительно ИЛ`](http://interlude.l2dtb.com/)
 >
 > [`БД по классику, вероятно, только для l2classic.club, но это неточно`](https://l2db.club/)
 >

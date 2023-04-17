@@ -1,4 +1,4 @@
-![](pics/just suffering.jpeg)
+![](pics/justsuffering.jpeg)
 
 ## Мудрость Грибофарма 2022: *первый гайд по начальному фарму для вкатунов на elmorelab.com teon x1*
 

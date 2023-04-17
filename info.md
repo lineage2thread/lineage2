@@ -10,7 +10,7 @@
 >
 > [`Античный список изменений по хроникам еще на том самом lineage2.com; навигация по веб-адресу (меняйте значение в строке поиска от 01 и так далее)`](https://web.archive.org/web/20180207050121mp_/http://legacy.lineage2.com/news/highfive_01.html)
 >
-> [`НАЧАЛЬНОЕ Официальное Игровое Руководство специально для играющих на C1X1 Elmorelab`](https://github.com/lineage2thread/lineage2/blob/main/pdf/Lineage%20Ii%20-%20Prima%20Game%20Guide%202004.pdf)
+> [`НАЧАЛЬНОЕ Официальное Игровое Руководство, специально для играющих на C1X1 Elmorelab`](https://github.com/lineage2thread/lineage2/blob/main/pdf/Lineage%20Ii%20-%20Prima%20Game%20Guide%202004.pdf)
 >
 > [`Различная информация по многим вопросам, собранная в одном месте, которая неспешно допиливается много лет силами той самой ВИКУЛИ`](https://l2vika.ru/)
 >

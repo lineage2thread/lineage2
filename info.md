@@ -45,7 +45,7 @@
 > [`Различный софт, файлы и прочее`](https://sites.google.com/site/l2clientdev/home)
 
 ### Гайды от анонов:
-> [`Мудрость Грибофарма 2022 - гайд для старта на ц1`](elmorelab_teon_farm.md)
+> [`Мудрость Грибофарма 2022 - гайд для старта на C1`](elmorelab_teon_farm.md)
 
 |[↩️](header.md)|
 |:---:|

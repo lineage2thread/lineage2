@@ -6,19 +6,19 @@
 
 | Номер | Дата | Ссылка на тред | Архив | Комментарий |
 |:---:|:---:|:---:|:---:|:---:|
-| #56 | 14/08/23 | [>>46887120](https://2ch.hk/vg/res/46887120.html) | | |
-| #55 | 29/07/23 | [>>46765491](https://2ch.hk/vg/res/46765491.html) | | |
-| #54 | 12/07/23 | [>>46678765](https://2ch.hk/vg/res/46678765.html) | | |
-| #53 | 06/06/23 | [>>46522904](https://2ch.hk/vg/res/46522904.html) | | |
-| #52 | 07/05/23 | [>>46407843](https://2ch.hk/vg/res/46407843.html) | | |
-| #51 | 20/04/23 | [>>46351179](https://2ch.hk/vg/res/46351179.html) | | |
-| #50 | 07/04/23 | [>>46301747](https://2ch.hk/vg/res/46301747.html) | | |
-| #49 | 25/03/23 | [>>46235898](https://2ch.hk/vg/res/46235898.html) | | |
-| #48 | 13/03/23 | [>>46165776](https://2ch.hk/vg/res/46165776.html) | | Форсы уровня 500к и РМТ без пруфов отныне запрещены [>>46187340](https://2ch.hk/vg/res/46165776.html#46187340) |
+| #56 | 14/08/23 | [>>46887120](https://2ch.hk/vg/res/46887120.html) | [Архивач](http://arhivach.top/thread/920036/) | Дисс на Смыву [>>46917952](https://2ch.hk/vg/res/46887120.html#46917952) |
+| #55 | 29/07/23 | [>>46765491](https://2ch.hk/vg/res/46765491.html) | [Архивач](http://arhivach.top/thread/922341/) | |
+| #54 | 12/07/23 | [>>46678765](https://2ch.hk/vg/res/46678765.html) | [Архивач](http://arhivach.top/thread/908409/) | |
+| #53 | 06/06/23 | [>>46522904](https://2ch.hk/vg/res/46522904.html) | [Архивач](http://arhivach.top/thread/908410/) | |
+| #52 | 07/05/23 | [>>46407843](https://2ch.hk/vg/res/46407843.html) | [Архивач](http://arhivach.top/thread/898684/) | |
+| #51 | 20/04/23 | [>>46351179](https://2ch.hk/vg/res/46351179.html) | [Архивач](http://arhivach.top/thread/888688/) | |
+| #50 | 07/04/23 | [>>46301747](https://2ch.hk/vg/res/46301747.html) | [Архивач](http://arhivach.top/thread/881102/) | |
+| #49 | 25/03/23 | [>>46235898](https://2ch.hk/vg/res/46235898.html) | [Архивач](http://arhivach.top/thread/879948/) | |
+| #48 | 13/03/23 | [>>46165776](https://2ch.hk/vg/res/46165776.html) | [Архивач](http://arhivach.top/thread/876386/) | Форсы уровня 500к и РМТ без пруфов отныне запрещены [>>46187340](https://2ch.hk/vg/res/46165776.html#46187340) |
 | #47 | 07/03/23 | [>>46132409](https://2ch.hk/vg/res/46132409.html) | | Васянофикс умения Vicious Stance и подобных ему фишек на Elmorelab привело к негодованию в треде |
-| #46 | 22/02/23 | [>>46016801](https://2ch.hk/vg/res/46016801.html) | | Кринж-рэп от NichijouSensei pt.4, nonreleased edition [>>46114063](https://2ch.hk/vg/res/46016801.html#46114063) |
-| #45 | 07/02/23 | [>>45848084](https://2ch.hk/vg/res/45848084.html) | | |
-| #44 | 07/01/23 | [>>45506719](https://2ch.hk/vg/res/45506719.html) | | Сменили хроники на Элморлабе с C1 на C2; [набеги в /b от Stereopony](https://2ch.hk/vg/res/45506719.html#45742247) |
+| #46 | 22/02/23 | [>>46016801](https://2ch.hk/vg/res/46016801.html) | [Архивач](http://arhivach.top/thread/874548/) | Кринж-рэп от NichijouSensei pt.4, nonreleased edition [>>46114063](https://2ch.hk/vg/res/46016801.html#46114063) |
+| #45 | 07/02/23 | [>>45848084](https://2ch.hk/vg/res/45848084.html) | [Архивач](http://arhivach.top/thread/874547/) | |
+| #44 | 07/01/23 | [>>45506719](https://2ch.hk/vg/res/45506719.html) | [archiveorg](https://web.archive.org/web/20230206050413/https://2ch.hk/vg/res/45506719.html) | Сменили хроники на Элморлабе с C1 на C2; [набеги в /b от Stereopony](https://2ch.hk/vg/res/45506719.html#45742247); сам тред проебан в архиве двача, к сожалению |
 | #43 | 03/12/22 | [>>44935286](https://2ch.hk/vg/res/45112058.html) | | Новый год, ###Mod### [>>45429806](https://2ch.hk/vg/res/45112058.html#45429806) |
 | #42 | 18/11/22 | [>>44935286](https://2ch.hk/vg/res/44935286.html) | | |
 | #41 | 03/11/22 | [>>44762682](https://2ch.hk/vg/res/44762682.html) | | Мудрость Грибофарма 2022 [>>44784650](https://2ch.hk/vg/res/44762682.html#44784650) |

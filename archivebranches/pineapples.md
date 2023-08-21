@@ -24,23 +24,23 @@
 | /mmo | c4classic.ru часть третья | 14/11/15 | [>>6403371](https://web.archive.org/web/20160102233659mp_/https://2ch.hk/mmo/res/6403371.html) | | pnpl c4classic #3 |
 | /mmo | c4classic.ru | 26/10/15 | [>>6394468](https://web.archive.org/web/20151101155755/https://2ch.hk/mmo/res/6394468.html) | | pnpl c4classic #2 |
 | /mmo | Lineage II `www.c4classic.ru` | 11/10/15 | [>>6312552](https://web.archive.org/web/20151101155759/https://2ch.hk/mmo/res/6312552.html) | | pnpl c4classic #1 |
-| /mmo | Lineage c4 x3 #14 официальный | 25/12/14 | [>>4601763](https://m2ch.ga/mmo/res/4601763.html) | | lineageclassic #14 |
-| /mmo | Lineage c4 x3 #13 официальный | 08/11/14 | [>>4339330](https://m2ch.ga/mmo/res/4339330.html) | | lineageclassic #13, Pineapples и все-все-все... |
-| /mmo | lineageclassic.ru C4 x3 Официальный #12 | 14/10/14 | [>>4202435](https://m2ch.ga/mmo/res/4202435.html) | | lineageclassic #12, Pineapples и все-все-все... |
-| /mmo | Lineage C4 Официальный #11 | 30/09/14 | [>>4144241](https://m2ch.ga/mmo/res/4144241.html) | | lineageclassic #11, Pineapples и все-все-все... |
-| /mmo | Lineage C4 Официальный #10 | 20/09/14 | [>>4099524](https://m2ch.ga/mmo/res/4099524.html) | | lineageclassic #10, Pineapples и все-все-все... |
-| /mmo | Девятый официальный тред о классических хрониках. Сервер Lineageclassic.ru C4 x3 | 15/09/14 | [>>4079913](https://m2ch.ga/mmo/res/4079913.html) | | lineageclassic #9, Pineapples и все-все-все... |
-| /mmo | Lineage 2 x3 Official | 03/09/14 | [>>4032777](https://m2ch.ga/mmo/res/4032777.html) | | lineageclassic #8, Pineapples и все-все-все... |
-| /mmo | Lineage 2 x3 Official | 17/08/14 | [>>3965355](https://m2ch.ga/mmo/res/3965355.html) | | lineageclassic #7, Pineapples и все-все-все... |
-| /mmo | Lineage 2 x3 Official | 08/08/14 | [>>3924130](https://m2ch.ga/mmo/res/3924130.html) | | lineageclassic #6, Pineapples и все-все-все... |
-| /mmo | Lineageclassic.ru | 06/08/14 | [>>3913042](https://m2ch.ga/mmo/res/3913042.html) | | lineageclassic #5, Pineapples и все-все-все... |
-| /mmo | Lineageclassic.ru | 04/08/14 | [>>3908085](https://m2ch.ga/mmo/res/3908085.html) | | lineageclassic #4, Pineapples и все-все-все... |
-| /mmo | Pineapple Army | 02/08/14 | [>>3898549](https://m2ch.ga/mmo/res/3898549.html) | | lineageclassic, дубль |
-| /mmo | PinappleArmy | 31/07/14 | [>>3893439](https://m2ch.ga/mmo/res/3893439.html) | | lineageclassic #3, Pineapples и все-все-все... |
-| /mmo | PinappleArmy | 28/07/14 | [>>3881139](https://m2ch.ga/mmo/res/3881139.html) | | lineageclassic #2, Pineapples и все-все-все... |
-| /mmo | Pinapple Army | 23/07/14 | [>>3863689](https://m2ch.ga/mmo/res/3863689.html) | | lineageclassic #1, Pineapples и все-все-все... |
-| /mmo | Lineageclassic.ru x3 | 15/07/14 | [>>3837710](https://m2ch.ga/mmo/res/3837710.html) | | lineageclassic #0, Pineapples и все-все-все... |
-| /mmo | Lineage kak v 2007 classic | 27/06/14 | [>>3784818](https://m2ch.ga/mmo/res/3784818.html) | | Сие есть пошло название PineappleArmy [>>3836235](https://m2ch.ga/mmo/res/3784818.html#3836235)|
+| /mmo | Lineage c4 x3 #14 официальный | 25/12/14 | [>>4601763](https://m2ch.cf/mmo/res/4601763.html) | | lineageclassic #14 |
+| /mmo | Lineage c4 x3 #13 официальный | 08/11/14 | [>>4339330](https://m2ch.cf/mmo/res/4339330.html) | | lineageclassic #13, Pineapples и все-все-все... |
+| /mmo | lineageclassic.ru C4 x3 Официальный #12 | 14/10/14 | [>>4202435](https://m2ch.cf/mmo/res/4202435.html) | | lineageclassic #12, Pineapples и все-все-все... |
+| /mmo | Lineage C4 Официальный #11 | 30/09/14 | [>>4144241](https://m2ch.cf/mmo/res/4144241.html) | | lineageclassic #11, Pineapples и все-все-все... |
+| /mmo | Lineage C4 Официальный #10 | 20/09/14 | [>>4099524](https://m2ch.cf/mmo/res/4099524.html) | | lineageclassic #10, Pineapples и все-все-все... |
+| /mmo | Девятый официальный тред о классических хрониках. Сервер Lineageclassic.ru C4 x3 | 15/09/14 | [>>4079913](https://m2ch.cf/mmo/res/4079913.html) | | lineageclassic #9, Pineapples и все-все-все... |
+| /mmo | Lineage 2 x3 Official | 03/09/14 | [>>4032777](https://m2ch.cf/mmo/res/4032777.html) | | lineageclassic #8, Pineapples и все-все-все... |
+| /mmo | Lineage 2 x3 Official | 17/08/14 | [>>3965355](https://m2ch.cf/mmo/res/3965355.html) | | lineageclassic #7, Pineapples и все-все-все... |
+| /mmo | Lineage 2 x3 Official | 08/08/14 | [>>3924130](https://m2ch.cf/mmo/res/3924130.html) | | lineageclassic #6, Pineapples и все-все-все... |
+| /mmo | Lineageclassic.ru | 06/08/14 | [>>3913042](https://m2ch.cf/mmo/res/3913042.html) | | lineageclassic #5, Pineapples и все-все-все... |
+| /mmo | Lineageclassic.ru | 04/08/14 | [>>3908085](https://m2ch.cf/mmo/res/3908085.html) | | lineageclassic #4, Pineapples и все-все-все... |
+| /mmo | Pineapple Army | 02/08/14 | [>>3898549](https://m2ch.cf/mmo/res/3898549.html) | | lineageclassic, дубль |
+| /mmo | PinappleArmy | 31/07/14 | [>>3893439](https://m2ch.cf/mmo/res/3893439.html) | | lineageclassic #3, Pineapples и все-все-все... |
+| /mmo | PinappleArmy | 28/07/14 | [>>3881139](https://m2ch.cf/mmo/res/3881139.html) | | lineageclassic #2, Pineapples и все-все-все... |
+| /mmo | Pinapple Army | 23/07/14 | [>>3863689](https://m2ch.cf/mmo/res/3863689.html) | | lineageclassic #1, Pineapples и все-все-все... |
+| /mmo | Lineageclassic.ru x3 | 15/07/14 | [>>3837710](https://m2ch.cf/mmo/res/3837710.html) | | lineageclassic #0, Pineapples и все-все-все... |
+| /mmo | Lineage kak v 2007 classic | 27/06/14 | [>>3784818](https://m2ch.cf/mmo/res/3784818.html) | | Сие есть пошло название PineappleArmy [>>3836235](https://m2ch.cf/mmo/res/3784818.html#3836235)|
 
 |[↩️](https://github.com/lineage2thread/lineage2/blob/main/header.md)|[📆](https://github.com/lineage2thread/lineage2/blob/main/archive.md)|
 |:---:|:---:|

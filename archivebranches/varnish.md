@@ -7,6 +7,8 @@
 | /mmo | L2CLASSIC.CLUB x3 Classic VARNISH GAYMING №2 | 02/09/16 | [>>6512497](https://2ch.hk/mmo/res/6512497.html) | | |
 | /mmo | L2CLASSIC.CLUB x3 Classic VARNISH GAYMING | 26/08/16 | [>>6511223](https://2ch.hk/mmo/res/6511223.html) | | kak je ebowit [>>6512279](https://2ch.hk/mmo/res/6511223.html#6512279) |
 | /mmo | VARNISH :: LINEAGE.RU C4 x5 | 03/11/13 | [>>2877223](https://web.archive.org/web/20131109085152/http://www.2ch.pm:80/mmo/res/2877223.html) | | |
+| /mmo | 22/06/12 | La2 Ц4 новый сервер проебать жизнь без смс | [>>643819](https://web.archive.org/web/20130224201302/http://2-ch.so/mmo/arch/res/643819.html) |  | |
+| /mmo | 15/06/12 | Lineage 2 C1+ /Линейка для старичков | [>>625642](https://web.archive.org/web/20130224183410/http://2-ch.so/mmo/arch/res/625642.html) |  | |
 
 |[↩️](https://github.com/lineage2thread/lineage2/blob/main/header.md)|[📆](https://github.com/lineage2thread/lineage2/blob/main/archive.md)|
 |:---:|:---:|

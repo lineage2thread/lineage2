@@ -534,6 +534,28 @@
 | /mmo | L2 c4 | 29/09/12 | [>>1020322](https://web.archive.org/web/20130520094115/http://2ch.hk/mmo/arch/res/1020322.html) | | |
 | /mmo | l2 GOD | 23/09/12 | [>>1002485](https://web.archive.org/web/20130520175140/http://2ch.hk/mmo/arch/res/1002485.html) | | |
 | /mmo |  |  | [>>]() |  |  |
+| /mmo | La2 Ц4 новый сервер проебать жизнь без смс | 22/06/12 | [>>643819](https://web.archive.org/web/20130224201302/http://2-ch.so/mmo/arch/res/643819.html) |  | Varnish |
+| /mmo | Линейковопросы | 21/06/12 | [>>642593](https://web.archive.org/web/20130224165819/http://2-ch.so/mmo/arch/res/642593.html) |  | Тред обсуждения игры |
+| /mmo | Lineage2 low-rate < c4 | 20/06/12 | [>>638725](https://web.archive.org/web/20130224150438/http://2-ch.so/mmo/arch/res/638725.html) |  | Тред поиска сервера |
+| /mmo | Аноны, предлагаю вашему вниманию High Five сервер La2: onlineage.su | 19/06/12 | [>>637838](https://web.archive.org/web/20130224195950/http://2-ch.so/mmo/arch/res/637838.html) |  |  |
+| /mmo | мур =) | 19/06/12 | [>>636059](https://web.archive.org/web/20130224133729/http://2-ch.so/mmo/arch/res/636059.html) |  | Тред поиска напарника тяночкой без пруфов |
+| /mmo | Lineage II: Очередная попытка Поиграть в GoD | 18/06/12 | [>>634363](https://web.archive.org/web/20130224194021/http://2-ch.so/mmo/arch/res/634363.html) |  | Перекат из [>>618077](https://web.archive.org/web/20130224140617/http://2-ch.so/mmo/arch/res/618077.html) |
+| /mmo | Хочу начать ебашить в линейку 2 | 16/06/12 | [>>628335](https://web.archive.org/web/20130224160846/http://2-ch.so/mmo/arch/res/628335.html) |  | Тред поиска сервера |
+| /mmo | Lineage II OverWorld.su  x15 | 15/06/12 | [>>627299](https://web.archive.org/web/20130224171402/http://2-ch.so/mmo/arch/res/627299.html) |  |  |
+| /mmo | Lineage 2 C1+ /Линейка для старичков | 15/06/12 | [>>625642](https://web.archive.org/web/20130224183410/http://2-ch.so/mmo/arch/res/625642.html) |  | Varnish |
+| /mmo | Goddes of Destruction Thread №2 | 12/06/12 | [>>618077](https://web.archive.org/web/20130224140617/http://2-ch.so/mmo/arch/res/618077.html) |  | Перекат из [>>604817](https://web.archive.org/web/20130224200004/http://2-ch.so/mmo/arch/res/604817.html) |
+| /mmo | Привет ММОЧАН, был тут один годный тред про ла 2 | 10/06/12 | [>>613410](https://web.archive.org/web/20130224185253/http://2-ch.so/mmo/arch/res/613410.html) |  |  |
+| /mmo | Приглашаем поиграть в Lineage 2 High Five x1200 | 10/06/12 | [>>613108](https://web.archive.org/web/20130224171321/http://2-ch.so/mmo/arch/res/613108.html) |  |  |
+| /mmo | Lineage 2 | 10/06/12 | [>>612992](https://web.archive.org/web/20130224142007/http://2-ch.so/mmo/arch/res/612992.html) |  | Тред поиска сервера |
+| /mmo | L2 | 07/06/12 | [>>606035](https://web.archive.org/web/20130224124810/http://2-ch.so/mmo/arch/res/606035.html) |  | Тред поиска сервера |
+| /mmo | х10 Lineage II Goddes Of Destruction - asima.ws | 06/06/12 | [>>604817](https://web.archive.org/web/20130224200004/http://2-ch.so/mmo/arch/res/604817.html) |  |  |
+| /mmo | Goddes of Destruction thread | 06/06/12 | [>>603164](https://web.archive.org/web/20130224201433/http://2-ch.so/mmo/arch/res/603164.html) |  |  |
+| /mmo | НЕЙТРАЛЬНО. | 05/06/12 | [>>601282](https://web.archive.org/web/20130224134816/http://2-ch.so/mmo/arch/res/601282.html) |  | Очоба |
+| /mmo | Lineage II Low Interlude | 05/06/12 | [>>601105](https://web.archive.org/web/20130224161552/http://2-ch.so/mmo/arch/res/601105.html) |  |  |
+| /mmo | Battles for Glory 2 - BSFG thread № 4 | 03/06/12 | [>>593781](https://web.archive.org/web/20130224132725/http://2-ch.so/mmo/arch/res/593781.html) |  |  |
+| /mmo | Летний набег на castlegame.ru #2 | 02/06/12 | [>>592444](https://web.archive.org/web/20130224182557/http://2-ch.so/mmo/arch/res/592444.html) |  | Очоба |
+| /mmo | Overworld x15 HIGHFIVE | 02/06/12 | [>>591463](https://web.archive.org/web/20130224184737/http://2-ch.so/mmo/arch/res/591463.html) |  |  |
+| /mmo |  |  | [>>]() |  |  |
 
 |[↩️](header.md)|
 |:---:|

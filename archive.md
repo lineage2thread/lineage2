@@ -534,6 +534,12 @@
 | /mmo | L2 c4 | 29/09/12 | [>>1020322](https://web.archive.org/web/20130520094115/http://2ch.hk/mmo/arch/res/1020322.html) | | |
 | /mmo | l2 GOD | 23/09/12 | [>>1002485](https://web.archive.org/web/20130520175140/http://2ch.hk/mmo/arch/res/1002485.html) | | |
 | /mmo |  | 01/07/12 | [>>]() |  |  |
+| /mmo | Аноны, есть ли желание поиграть в l2 interlude x10? | 13/07/12 | [>>700363](https://web.archive.org/web/20130224151234/http://2-ch.so/mmo/arch/res/700363.html) |  |  |
+| /mmo | Мы Лайтфул и Ватрушка идем на сервер керибасить мобов в пати | 12/07/12 | [>>697120](https://web.archive.org/web/20130224203751/http://2-ch.so/mmo/arch/res/697120.html) |  |  |
+| /mmo | L2 | 11/07/12 | [>>694820](https://web.archive.org/web/20130224183643/http://2-ch.so/mmo/arch/res/694820.html) |  | Тред поиска сервера |
+| /mmo | ДФШ х10 (ил) | 09/07/12 | [>>692622](https://web.archive.org/web/20130224143201/http://2-ch.so/mmo/arch/res/692622.html) |  |  |
+| /mmo | Мелкософт | 09/07/12 | [>>692015](https://web.archive.org/web/20130224170124/http://2-ch.so/mmo/arch/res/692015.html) |  |  |
+| /mmo | Эпилог х1200 l2best | 07/07/12 | [>>685638](https://web.archive.org/web/20130224205943/http://2-ch.so/mmo/arch/res/685638.html) |  |  |
 | /mmo | Lineage II: Goddess Of Destruction thread | 07/07/12 | [>>685484](https://web.archive.org/web/20130224172020/http://2-ch.so/mmo/arch/res/685484.html) |  | Перекат из [>>658473](https://web.archive.org/web/20130224134548/http://2-ch.so/mmo/arch/res/658473.html) |
 | /mmo | Сап, ммо. Посоветуйте сервер Л2 | 06/07/12 | [>>683822](https://web.archive.org/web/20130224185541/http://2-ch.so/mmo/arch/res/683822.html) |  | Тред поиска сервера |
 | /mmo | Lineage.RO  Interlude x5  VARNISH | 06/07/12 | [>>681974](https://web.archive.org/web/20130224140208/http://2-ch.so/mmo/arch/res/681974.html) |  | Varnish, перекат из [>>662516](https://web.archive.org/web/20130224194451/http://2-ch.so/mmo/arch/res/662516.html) |

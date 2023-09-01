@@ -533,7 +533,15 @@
 | /mmo | Overworld x15 | 02/10/12 | [>>1027498](https://web.archive.org/web/20130520161050/http://2ch.hk/mmo/arch/res/1027498.html) | | |
 | /mmo | L2 c4 | 29/09/12 | [>>1020322](https://web.archive.org/web/20130520094115/http://2ch.hk/mmo/arch/res/1020322.html) | | |
 | /mmo | l2 GOD | 23/09/12 | [>>1002485](https://web.archive.org/web/20130520175140/http://2ch.hk/mmo/arch/res/1002485.html) | | |
-| /mmo |  | 29/06/12 | [>>]() |  |  |
+| /mmo |  | 01/07/12 | [>>]() |  |  |
+| /mmo | Lineage II: Goddess Of Destruction thread | 07/07/12 | [>>685484](https://web.archive.org/web/20130224172020/http://2-ch.so/mmo/arch/res/685484.html) |  | Перекат из [>>658473](https://web.archive.org/web/20130224134548/http://2-ch.so/mmo/arch/res/658473.html) |
+| /mmo | Сап, ммо. Посоветуйте сервер Л2 | 06/07/12 | [>>683822](https://web.archive.org/web/20130224185541/http://2-ch.so/mmo/arch/res/683822.html) |  | Тред поиска сервера |
+| /mmo | Lineage.RO  Interlude x5  VARNISH | 06/07/12 | [>>681974](https://web.archive.org/web/20130224140208/http://2-ch.so/mmo/arch/res/681974.html) |  | Varnish, перекат из [>>662516](https://web.archive.org/web/20130224194451/http://2-ch.so/mmo/arch/res/662516.html) |
+| /mmo | Lineage II летний набег | 04/07/12 | [>>675609](https://web.archive.org/web/20130224184320/http://2-ch.so/mmo/arch/res/675609.html) |  | Очоба, перекат из [>>667318](https://web.archive.org/web/20130224141923/http://2-ch.so/mmo/arch/res/667318.html) |
+| /mmo | Рашимпакт+дисарм | 02/07/12 | [>>670030](https://web.archive.org/web/20130224190440/http://2-ch.so/mmo/arch/res/670030.html) |  |  |
+| /mmo | Lineage 2 C4 la2.maxigame.by | 01/07/12 | [>>667627](https://web.archive.org/web/20130224125411/http://2-ch.so/mmo/arch/res/667627.html) |  | Перекат из [>>656701](https://web.archive.org/web/20130224191633/http://2-ch.so/mmo/arch/res/656701.html) |
+| /mmo | KOKOKO LIDERA NET | 01/07/12 | [>>667318](https://web.archive.org/web/20130224141923/http://2-ch.so/mmo/arch/res/667318.html) |  | Очоба |
+| /mmo | Lineage 2 Interlude - High rate | 30/06/12 | [>>664772](https://web.archive.org/web/20130224164535/http://2-ch.so/mmo/arch/res/664772.html) |  | Тред поиска напарника |
 | /mmo | л2 тред | 30/06/12 | [>>664369](https://web.archive.org/web/20130224193948/http://2-ch.so/mmo/arch/res/664369.html) |  | Тред поиска напарника |
 | /mmo | Дай пожалуйста ссылку на сервер ла2 с хрониками ГП2-Эпилог | 29/06/12 | [>>664044](https://web.archive.org/web/20130224182721/http://2-ch.so/mmo/arch/res/664044.html) |  | Тред поиска напарника |
 | /mmo | Лучший сервер линейки - новое дыхание | 29/06/12 | [>>663967](https://web.archive.org/web/20130224154853/http://2-ch.so/mmo/arch/res/663967.html) |  |  |

@@ -7,6 +7,7 @@
 | /mmo | L2CLASSIC.CLUB x3 Classic VARNISH GAYMING №2 | 02/09/16 | [>>6512497](https://2ch.hk/mmo/res/6512497.html) | | |
 | /mmo | L2CLASSIC.CLUB x3 Classic VARNISH GAYMING | 26/08/16 | [>>6511223](https://2ch.hk/mmo/res/6511223.html) | | kak je ebowit [>>6512279](https://2ch.hk/mmo/res/6511223.html#6512279) |
 | /mmo | VARNISH :: LINEAGE.RU C4 x5 | 03/11/13 | [>>2877223](https://web.archive.org/web/20131109085152/http://www.2ch.pm:80/mmo/res/2877223.html) | | |
+| /mmo | VARNISH  INTERLUDE x5  LINEAGE.RO | 22/07/12 | [>>731858](https://web.archive.org/web/20130224183549/http://2-ch.so/mmo/arch/res/731858.html) |  | Перекат из [>>726834](https://web.archive.org/web/20130224210801/http://2-ch.so/mmo/arch/res/726834.html) |
 | /mmo | VARNISH  INTERLUDE x5  LINEAGE.RO | 21/07/12 | [>>726834](https://web.archive.org/web/20130224210801/http://2-ch.so/mmo/arch/res/726834.html) |  | Перекат из [>>707616](https://web.archive.org/web/20130224143901/http://2-ch.so/mmo/arch/res/707616.html) |
 | /mmo | VARNISH  INTERLUDE x5  LINEAGE.RO | 15/07/12 | [>>707616](https://web.archive.org/web/20130224143901/http://2-ch.so/mmo/arch/res/707616.html) |  | Перекат из [>>681974](https://web.archive.org/web/20130224140208/http://2-ch.so/mmo/arch/res/681974.html) |
 | /mmo | Lineage.RO  Interlude x5  VARNISH | 06/07/12 | [>>681974](https://web.archive.org/web/20130224140208/http://2-ch.so/mmo/arch/res/681974.html) |  | Перекат из [>>662516](https://web.archive.org/web/20130224194451/http://2-ch.so/mmo/arch/res/662516.html) |

@@ -534,6 +534,15 @@
 | /mmo | L2 c4 | 29/09/12 | [>>1020322](https://web.archive.org/web/20130520094115/http://2ch.hk/mmo/arch/res/1020322.html) | | |
 | /mmo | l2 GOD | 23/09/12 | [>>1002485](https://web.archive.org/web/20130520175140/http://2ch.hk/mmo/arch/res/1002485.html) | | |
 | /mmo |  | 01/07/12 | [>>]() |  |  |
+| /mmo | Lineage II | 17/07/12 | [>>715764](https://web.archive.org/web/20130224164458/http://2-ch.so/mmo/arch/res/715764.html) |  |  |
+| /mmo | L2 CHONICLES 4 | 15/07/12 | [>>708382](https://web.archive.org/web/20130224125228/http://2-ch.so/mmo/arch/res/708382.html) |  | Тред поиска сервера |
+| /mmo | Lineage II: Goddess Of Destruction thread | 15/07/12 | [>>708236](https://web.archive.org/web/20130224155713/http://2-ch.so/mmo/arch/res/708236.html) |  | Перекат из [>>685484](https://web.archive.org/web/20130224172020/http://2-ch.so/mmo/arch/res/685484.html) |
+| /mmo | Читы для la2 | 15/07/12 | [>>707925](https://web.archive.org/web/20130224142557/http://2-ch.so/mmo/arch/res/707925.html) |  |  |
+| /mmo | VARNISH  INTERLUDE x5  LINEAGE.RO | 15/07/12 | [>>707616](https://web.archive.org/web/20130224143901/http://2-ch.so/mmo/arch/res/707616.html) |  | Varnish, перекат из [>>681974](https://web.archive.org/web/20130224140208/http://2-ch.so/mmo/arch/res/681974.html) |
+| /mmo | Посоны, поясните за lineage.ru. | 15/07/12 | [>>707222](https://web.archive.org/web/20130224210508/http://2-ch.so/mmo/arch/res/707222.html) |  |  |
+| /mmo | Сбой в ЛА2 | 15/07/12 | [>>706160](https://web.archive.org/web/20130224161833/http://2-ch.so/mmo/arch/res/706160.html) |  | Тред обсуждения игры |
+| /mmo | lineage.ru Есть ли аноны с х300? | 15/07/12 | [>>706121](https://web.archive.org/web/20130224124151/http://2-ch.so/mmo/arch/res/706121.html) |  |  |
+| /mmo | Lineage II High Five - Overworld - Dragon x 15 | 14/07/12 | [>>705756](https://web.archive.org/web/20130224182121/http://2-ch.so/mmo/arch/res/705756.html) |  | Перекат из [>>627299](https://web.archive.org/web/20130224171402/http://2-ch.so/mmo/arch/res/627299.html) |
 | /mmo | Аноны, есть ли желание поиграть в l2 interlude x10? | 13/07/12 | [>>700363](https://web.archive.org/web/20130224151234/http://2-ch.so/mmo/arch/res/700363.html) |  |  |
 | /mmo | Мы Лайтфул и Ватрушка идем на сервер керибасить мобов в пати | 12/07/12 | [>>697120](https://web.archive.org/web/20130224203751/http://2-ch.so/mmo/arch/res/697120.html) |  |  |
 | /mmo | L2 | 11/07/12 | [>>694820](https://web.archive.org/web/20130224183643/http://2-ch.so/mmo/arch/res/694820.html) |  | Тред поиска сервера |

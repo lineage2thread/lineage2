@@ -534,6 +534,12 @@
 | /mmo | L2 c4 | 29/09/12 | [>>1020322](https://web.archive.org/web/20130520094115/http://2ch.hk/mmo/arch/res/1020322.html) | | |
 | /mmo | l2 GOD | 23/09/12 | [>>1002485](https://web.archive.org/web/20130520175140/http://2ch.hk/mmo/arch/res/1002485.html) | | |
 | /mmo |  | 01/07/12 | [>>]() |  |  |
+| /mmo | VARNISH  INTERLUDE x5  LINEAGE.RO | 22/07/12 | [>>731858](https://web.archive.org/web/20130224183549/http://2-ch.so/mmo/arch/res/731858.html) |  | Varnish, перекат из [>>726834](https://web.archive.org/web/20130224210801/http://2-ch.so/mmo/arch/res/726834.html) |
+| /mmo | Намба ван расставляет точки над корейским говном 2. | 22/07/12 | [>>730962](https://web.archive.org/web/20130224160428/http://2-ch.so/mmo/arch/res/730962.html) |  |  |
+| /mmo | http://themega.ru/ - х1000 СЕГОДНЯ! | 21/07/12 | [>>726989](https://web.archive.org/web/20130224155518/http://2-ch.so/mmo/arch/res/726989.html) |  | Становление ЗА КАВКАЗА (?) |
+| /mmo | VARNISH  INTERLUDE x5  LINEAGE.RO | 21/07/12 | [>>726834](https://web.archive.org/web/20130224210801/http://2-ch.so/mmo/arch/res/726834.html) |  | Varnish, перекат из [>>707616](https://web.archive.org/web/20130224143901/http://2-ch.so/mmo/arch/res/707616.html) |
+| /mmo | Lineage II NABEG TIME | 21/07/12 | [>>725900](https://web.archive.org/web/20130224133218/http://2-ch.so/mmo/arch/res/725900.html) |  | Очоба, перекат из [>>721653](https://web.archive.org/web/20130224194102/http://2-ch.so/mmo/arch/res/721653.html) |
+| /mmo | IT'S NABEG TIME | 19/07/12 | [>>721653](https://web.archive.org/web/20130224194102/http://2-ch.so/mmo/arch/res/721653.html) |  | Очоба, перекат из [>>667318](https://web.archive.org/web/20130224141923/http://2-ch.so/mmo/arch/res/667318.html) |
 | /mmo | Lineage II | 17/07/12 | [>>715764](https://web.archive.org/web/20130224164458/http://2-ch.so/mmo/arch/res/715764.html) |  |  |
 | /mmo | L2 CHONICLES 4 | 15/07/12 | [>>708382](https://web.archive.org/web/20130224125228/http://2-ch.so/mmo/arch/res/708382.html) |  | Тред поиска сервера |
 | /mmo | Lineage II: Goddess Of Destruction thread | 15/07/12 | [>>708236](https://web.archive.org/web/20130224155713/http://2-ch.so/mmo/arch/res/708236.html) |  | Перекат из [>>685484](https://web.archive.org/web/20130224172020/http://2-ch.so/mmo/arch/res/685484.html) |

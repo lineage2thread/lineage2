@@ -534,7 +534,11 @@
 | /mmo | Overworld x15 | 02/10/12 | [>>1027498](https://web.archive.org/web/20130520161050/http://2ch.hk/mmo/arch/res/1027498.html) | | |
 | /mmo | L2 c4 | 29/09/12 | [>>1020322](https://web.archive.org/web/20130520094115/http://2ch.hk/mmo/arch/res/1020322.html) | | |
 | /mmo | l2 GOD | 23/09/12 | [>>1002485](https://web.archive.org/web/20130520175140/http://2ch.hk/mmo/arch/res/1002485.html) | | |
-| /mmo |  | 01/07/12 | [>>]() |  |  |
+| /mmo |  | 01/08/12 | [>>]() |  |  |
+| /mmo | Реквестирую ответ на вопрос: есть ли в ла2 какое-то чувство СООБЩЕСТВА, тимплей? | 04/08/12 | [>>780299](https://web.archive.org/web/20130224164739/http://2-ch.so/mmo/arch/res/780299.html) |  | Тред обсуждения игры |
+| /mmo | La2ch-nabiga4 | 02/08/12 | [>>771949](https://web.archive.org/web/20130224193343/http://2-ch.so/mmo/arch/res/771949.html) |  |  |
+| /mmo | Годнота Lineage | 01/08/12 | [>>769859](https://web.archive.org/web/20130224171907/http://2-ch.so/mmo/arch/res/769859.html) |  |  |
+| /mmo | Lineage II Gracia Final. PTS www.RuneWall.com | 01/08/12 | [>>768375](https://web.archive.org/web/20130224164142/http://2-ch.so/mmo/arch/res/768375.html) |  |  |
 | /mmo | Lineage RuOff | 30/07/12 | [>>764043](https://web.archive.org/web/20130224195938/http://2-ch.so/mmo/arch/res/764043.html) |  | Тред обсуждения игры |
 | /mmo | Lineage 2 C4 Scions of Destiny | 30/07/12 | [>>763332](https://web.archive.org/web/20130224155927/http://2-ch.so/mmo/arch/res/763332.html) |  |  |
 | /mmo | Lineage 2 Euro off | 29/07/12 | [>>760073](https://web.archive.org/web/20130224143052/http://2-ch.so/mmo/arch/res/760073.html) |  |  |

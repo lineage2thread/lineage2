@@ -10,6 +10,9 @@
 | /mmo | [b]НАБЕГА НА Х1200 НИТЬ ИДИ[/b] | 20/07/14 | [>>3851734](https://m2ch.cf/mmo/res/3851734.html) | | fail |
 | /mmo | KAVKAZ POWER 2013 | 24/01/13 | [>>1556727](https://web.archive.org/web/20130129223306/http://2ch.hk/mmo/res/1556727.html) | | |
 | /mmo | серв х50, правда GoD, но есть зацепки. | 13/10/12 | [>>1061517](https://web.archive.org/web/20130224135302/http://2-ch.so/mmo/arch/res/1061517.html) | | fail |
+| /mmo | За КАВКАЗ х1000! | 28/07/12 | [>>755223](https://web.archive.org/web/20130224183606/http://2-ch.so/mmo/arch/res/755223.html) |  | Перекат из [>>738739](https://web.archive.org/web/20130224141048/http://2-ch.so/mmo/arch/res/738739.html) |
+| /mmo | http://themega.ru/ - х1000 | 24/07/12 | [>>738739](https://web.archive.org/web/20130224141048/http://2-ch.so/mmo/arch/res/738739.html) |  | Перекат из [>>726989](https://web.archive.org/web/20130224155518/http://2-ch.so/mmo/arch/res/726989.html) |
+| /mmo | http://themega.ru/ - х1000 СЕГОДНЯ! | 21/07/12 | [>>726989](https://web.archive.org/web/20130224155518/http://2-ch.so/mmo/arch/res/726989.html) |  | Становление ЗА КАВКАЗА, YOBA |
 
 |[↩️](https://github.com/lineage2thread/lineage2/blob/main/header.md)|[📆](https://github.com/lineage2thread/lineage2/blob/main/archive.md)|
 |:---:|:---:|

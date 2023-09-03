@@ -535,6 +535,9 @@
 | /mmo | L2 c4 | 29/09/12 | [>>1020322](https://web.archive.org/web/20130520094115/http://2ch.hk/mmo/arch/res/1020322.html) | | |
 | /mmo | l2 GOD | 23/09/12 | [>>1002485](https://web.archive.org/web/20130520175140/http://2ch.hk/mmo/arch/res/1002485.html) | | |
 | /mmo |  | 01/07/12 | [>>]() |  |  |
+| /mmo | предлагаю пойти 10 АВГУСТА на старт сервера x10 интерлюд от DEFO | 27/07/12 | [>>751954](https://web.archive.org/web/20130224201810/http://2-ch.so/mmo/arch/res/751954.html) |  |  |
+| /mmo | VARNISH  INTERLUDE x5  LINEAGE.RO | 24/07/12 | [>>737421](https://web.archive.org/web/20130224140025/http://2-ch.so/mmo/arch/res/737421.html) |  | Varnish, перекат из [>>731858](https://web.archive.org/web/20130224183549/http://2-ch.so/mmo/arch/res/731858.html) |
+| /mmo | Господа сыну на день рождения хочу подарить сервер под линейку | 23/07/12 | [>>735059](https://web.archive.org/web/20130224183403/http://2-ch.so/mmo/arch/res/735059.html) |  |  |
 | /mmo | VARNISH  INTERLUDE x5  LINEAGE.RO | 22/07/12 | [>>731858](https://web.archive.org/web/20130224183549/http://2-ch.so/mmo/arch/res/731858.html) |  | Varnish, перекат из [>>726834](https://web.archive.org/web/20130224210801/http://2-ch.so/mmo/arch/res/726834.html) |
 | /mmo | Намба ван расставляет точки над корейским говном 2. | 22/07/12 | [>>730962](https://web.archive.org/web/20130224160428/http://2-ch.so/mmo/arch/res/730962.html) |  |  |
 | /mmo | http://themega.ru/ - х1000 СЕГОДНЯ! | 21/07/12 | [>>726989](https://web.archive.org/web/20130224155518/http://2-ch.so/mmo/arch/res/726989.html) |  | Становление ЗА КАВКАЗА (?) |

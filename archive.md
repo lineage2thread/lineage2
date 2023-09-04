@@ -518,7 +518,16 @@
 | /mmo | Lineage II HF x30 | 14/04/13 | [>>2026225](https://web.archive.org/web/20130425142403/http://2ch.hk/mmo/res/2026225.html) | | |
 | /mmo | Lineage II - общий тред | 25/01/13 | [>>1563447](https://web.archive.org/web/20130129223326/http://2ch.hk/mmo/res/1563447.html) | | |
 | /mmo | KAVKAZ POWER 2013 | 24/01/13 | [>>1556727](https://web.archive.org/web/20130129223306/http://2ch.hk/mmo/res/1556727.html) | | НАБЕГ ЗА КАВКАЗ |
-| /mmo |  | 27/10/12 | [>>]() |  |  |
+| /mmo |  | 01/11/12 | [>>]() |  |  |
+| /mmo | java l2 | 07/11/12 | [>>1161048](https://web.archive.org/web/20130224164555/http://2-ch.so/mmo/arch/res/1161048.html) |  | Тред обсуждения игры |
+| /mmo | http://gveworld.ws/ INTERLUDE la2 GVE | 06/11/12 | [>>1160114](https://web.archive.org/web/20130224210023/http://2-ch.so/mmo/arch/res/1160114.html) |  | Перекат из [>>1144362](https://web.archive.org/web/20130224194158/http://2-ch.so/mmo/arch/res/1144362.html) |
+| /mmo | lineage 2 | 05/11/12 | [>>1152294](https://web.archive.org/web/20130224161830/http://2-ch.so/mmo/arch/res/1152294.html) |  | Тред поиска сервера |
+| /mmo | Избиение Хованского TORNADO | 03/11/12 | [>>1147590](https://web.archive.org/web/20130224144830/http://2-ch.so/mmo/arch/res/1147590.html) |  |  |
+| /mmo | http://gveworld.ws/ INTERLUDE la2 GVE | 03/11/12 | [>>1144362](https://web.archive.org/web/20130224194158/http://2-ch.so/mmo/arch/res/1144362.html) |  |  |
+| /mmo | HIGH FIVE x30 | 02/11/12 | [>>1141963](https://web.archive.org/web/20130224185007/http://2-ch.so/mmo/arch/res/1141963.html) |  |  |
+| /mmo | Буржуйских Серверов Линейки Тред | 01/11/12 | [>>1139135](https://web.archive.org/web/20130224191602/http://2-ch.so/mmo/arch/res/1139135.html) |  |  |
+| /mmo | Анон, поясни по хардкору какие есть хорошие,годные боты под La2? | 29/10/12 | [>>1125091](https://web.archive.org/web/20130224181713/http://2-ch.so/mmo/arch/res/1125091.html) |  |  |
+| /mmo | LINEAGE.RU X30 HF PTS | 28/10/12 | [>>1121472](https://web.archive.org/web/20130224143917/http://2-ch.so/mmo/arch/res/1121472.html) |  |  |
 | /mmo | Линеечка | 27/10/12 | [>>1117531](https://web.archive.org/web/20130224190701/http://2-ch.so/mmo/arch/res/1117531.html) |  |  |
 | /mmo | L2 РУОФФ Kain | 21/10/12 | [>>1088744](https://web.archive.org/web/20130224194009/http://2-ch.so/mmo/arch/res/1088744.html) |  |  |
 | /mmo | Lineage2 | 18/10/12 | [>>1078965](https://web.archive.org/web/20130224193459/http://2-ch.so/mmo/arch/res/1078965.html) |  |  |

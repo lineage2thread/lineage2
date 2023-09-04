@@ -534,7 +534,18 @@
 | /mmo | Overworld x15 | 02/10/12 | [>>1027498](https://web.archive.org/web/20130520161050/http://2ch.hk/mmo/arch/res/1027498.html) | | |
 | /mmo | L2 c4 | 29/09/12 | [>>1020322](https://web.archive.org/web/20130520094115/http://2ch.hk/mmo/arch/res/1020322.html) | | |
 | /mmo | l2 GOD | 23/09/12 | [>>1002485](https://web.archive.org/web/20130520175140/http://2ch.hk/mmo/arch/res/1002485.html) | | |
-| /mmo |  | 01/08/12 | [>>]() |  |  |
+| /mmo |  | 02/09/12 | [>>]() |  |  |
+| /mmo | L dva GOD | 13/09/12 | [>>959397](https://web.archive.org/web/20130224190725/http://2-ch.so/mmo/arch/res/959397.html) |  | Тред обсуждения игры |
+| /mmo | Линейный период 2 Дай пять | 11/09/12 | [>>948866](https://web.archive.org/web/20130224160405/http://2-ch.so/mmo/arch/res/948866.html) |  | Тред поиска напарника |
+| /mmo | Сегодня ты у мамы ботовод | 10/09/12 | [>>945619](https://web.archive.org/web/20130224210752/http://2-ch.so/mmo/arch/res/945619.html) |  | Тред обсуждения игры |
+| /mmo | Линеечка | 10/09/12 | [>>944750](https://web.archive.org/web/20130224135208/http://2-ch.so/mmo/arch/res/944750.html) |  | Тред поиска напарника |
+| /mmo | Lineage 2 Руофф-тред стартует! | 09/09/12 | [>>941404](https://web.archive.org/web/20130224211011/http://2-ch.so/mmo/arch/res/941404.html) |  |  |
+| /mmo | Набор в клан Varnish Lineage.ru Erica x10 | 02/09/12 | [>>911271](https://web.archive.org/web/20130224144540/http://2-ch.so/mmo/arch/res/911271.html) |  | Varnish, перекат из [>>868993](https://web.archive.org/web/20130224161335/http://2-ch.so/mmo/arch/res/868993.html) |
+| /mmo | Предай друзей, предай родных. | 31/08/12 | [>>903517](https://web.archive.org/web/20130224194035/http://2-ch.so/mmo/arch/res/903517.html) |  |  |
+| /mmo | Lineage II EuroOff | 28/08/12 | [>>885760](https://web.archive.org/web/20130224151342/http://2-ch.so/mmo/arch/res/885760.html) |  |  |
+| /mmo | Lineage II Gracia Final rpg-club.com | 26/08/12 | [>>876072](https://web.archive.org/web/20130224152720/http://2-ch.so/mmo/arch/res/876072.html) |  |  |
+| /mmo | ЛИНЕИЧКААСТЕРИОСХ7 | 25/08/12 | [>>870887](https://web.archive.org/web/20130224140341/http://2-ch.so/mmo/arch/res/870887.html) |  | Перекат из [>>859528](https://web.archive.org/web/20130224133653/http://2-ch.so/mmo/arch/res/859528.html) |
+| /mmo | Lineage.ru Erica x10 | 24/08/12 | [>>868993](https://web.archive.org/web/20130224161335/http://2-ch.so/mmo/arch/res/868993.html) |  | Вкат Варнишей, перекат из [>>860427](https://web.archive.org/web/20130224160327/http://2-ch.so/mmo/arch/res/860427.html) |
 | /mmo | Erica x10 Interlude - 24.08 | 23/08/12 | [>>860427](https://web.archive.org/web/20130224160327/http://2-ch.so/mmo/arch/res/860427.html) |  |  |
 | /mmo | Asterios.tm x7 HF 26.08 | 23/08/12 | [>>859528](https://web.archive.org/web/20130224133653/http://2-ch.so/mmo/arch/res/859528.html) |  | Перекат из [>>821456](https://web.archive.org/web/20130224124724/http://2-ch.so/mmo/arch/res/821456.html) |
 | /mmo | КП на эмеральд. | 19/08/12 | [>>841266](https://web.archive.org/web/20130224131843/http://2-ch.so/mmo/arch/res/841266.html) |  | Очоба |

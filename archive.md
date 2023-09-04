@@ -519,6 +519,11 @@
 | /mmo | Lineage II - общий тред | 25/01/13 | [>>1563447](https://web.archive.org/web/20130129223326/http://2ch.hk/mmo/res/1563447.html) | | |
 | /mmo | KAVKAZ POWER 2013 | 24/01/13 | [>>1556727](https://web.archive.org/web/20130129223306/http://2ch.hk/mmo/res/1556727.html) | | НАБЕГ ЗА КАВКАЗ |
 | /mmo |  | 01/11/12 | [>>]() |  |  |
+| /mmo | VARNISH  HIGH-FIVE x7  RPG-CLUB.COM | 16/11/12 | [>>1205222](https://web.archive.org/web/20130224134916/http://2-ch.so/mmo/arch/res/1205222.html) |  | Varnish, перекат из [>>1195987](https://web.archive.org/web/20130224182533/http://2-ch.so/mmo/arch/res/1195987.html) |
+| /mmo | RPC-club.ru x7 High Five - Оффициальный Тред™ | 16/11/12 | [>>1204332](https://web.archive.org/web/20130224134032/http://2-ch.so/mmo/arch/res/1204332.html) |  |  |
+| /mmo | RPG CLUB x7 (for MEGA x1000) | 15/11/12 | [>>1197091](https://web.archive.org/web/20130224205745/http://2-ch.so/mmo/arch/res/1197091.html) |  |  |
+| /mmo | VARNISH  HIGH-FIVE x7  RPG-CLUB.COM | 15/11/12 | [>>1195987](https://web.archive.org/web/20130224182533/http://2-ch.so/mmo/arch/res/1195987.html) |  | Varnish |
+| /mmo | Lineage2 IT/ www.l2.ms | 14/11/12 | [>>1194508](https://web.archive.org/web/20130224140541/http://2-ch.so/mmo/arch/res/1194508.html) |  |  |
 | /mmo | java l2 | 07/11/12 | [>>1161048](https://web.archive.org/web/20130224164555/http://2-ch.so/mmo/arch/res/1161048.html) |  | Тред обсуждения игры |
 | /mmo | http://gveworld.ws/ INTERLUDE la2 GVE | 06/11/12 | [>>1160114](https://web.archive.org/web/20130224210023/http://2-ch.so/mmo/arch/res/1160114.html) |  | Перекат из [>>1144362](https://web.archive.org/web/20130224194158/http://2-ch.so/mmo/arch/res/1144362.html) |
 | /mmo | lineage 2 | 05/11/12 | [>>1152294](https://web.archive.org/web/20130224161830/http://2-ch.so/mmo/arch/res/1152294.html) |  | Тред поиска сервера |

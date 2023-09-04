@@ -2,11 +2,14 @@
 
 | Доска | Название | Дата | Ссылка на тред | Архив | Комментарий |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| /mmo |  | ∞ | [Форум клана Varnish](https://la2ch.clan.su/) | | |
 | /mmo | Офф Linage 2 и местные аноны | 31/12/17 | [>>6534978](https://2ch.hk/mmo/res/6534978.html) | | Варниши играют на оффе [>>6536991](https://2ch.hk/mmo/res/6534978.html#6536991) |
 | /mmo | L2CLASSIC.CLUB x3 Classic VARNISH GAYMING №3 | 12/09/16 | [>>6514247](https://2ch.hk/mmo/res/6514247.html) | | устав клана [>>6514302](https://2ch.hk/mmo/res/6514247.html#6514302) и "Игра не смотри на варнишепетуха" [>>6514474](https://2ch.hk/mmo/res/6514247.html#6514474) |
 | /mmo | L2CLASSIC.CLUB x3 Classic VARNISH GAYMING №2 | 02/09/16 | [>>6512497](https://2ch.hk/mmo/res/6512497.html) | | |
 | /mmo | L2CLASSIC.CLUB x3 Classic VARNISH GAYMING | 26/08/16 | [>>6511223](https://2ch.hk/mmo/res/6511223.html) | | kak je ebowit [>>6512279](https://2ch.hk/mmo/res/6511223.html#6512279) |
 | /mmo | VARNISH :: LINEAGE.RU C4 x5 | 03/11/13 | [>>2877223](https://web.archive.org/web/20131109085152/http://www.2ch.pm:80/mmo/res/2877223.html) | | |
+| /mmo | VARNISH  HIGH-FIVE x7  RPG-CLUB.COM | 16/11/12 | [>>1205222](https://web.archive.org/web/20130224134916/http://2-ch.so/mmo/arch/res/1205222.html) |  | Перекат из [>>1195987](https://web.archive.org/web/20130224182533/http://2-ch.so/mmo/arch/res/1195987.html) |
+| /mmo | VARNISH  HIGH-FIVE x7  RPG-CLUB.COM | 15/11/12 | [>>1195987](https://web.archive.org/web/20130224182533/http://2-ch.so/mmo/arch/res/1195987.html) | | |
 | /mmo | Набор в клан Varnish Lineage.ru Erica x10 | 02/09/12 | [>>911271](https://web.archive.org/web/20130224144540/http://2-ch.so/mmo/arch/res/911271.html) |  | Перекат из [>>868993](https://web.archive.org/web/20130224161335/http://2-ch.so/mmo/arch/res/868993.html) |
 | /mmo | Lineage.ru Erica x10 | 24/08/12 | [>>868993](https://web.archive.org/web/20130224161335/http://2-ch.so/mmo/arch/res/868993.html) |  |  |
 | /mmo | VARNISH  INTERLUDE x5  LINEAGE.RO | 24/07/12 | [>>737421](https://web.archive.org/web/20130224140025/http://2-ch.so/mmo/arch/res/737421.html) |  | Перекат из [>>731858](https://web.archive.org/web/20130224183549/http://2-ch.so/mmo/arch/res/731858.html) |

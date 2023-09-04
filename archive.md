@@ -518,23 +518,26 @@
 | /mmo | Lineage II HF x30 | 14/04/13 | [>>2026225](https://web.archive.org/web/20130425142403/http://2ch.hk/mmo/res/2026225.html) | | |
 | /mmo | Lineage II - общий тред | 25/01/13 | [>>1563447](https://web.archive.org/web/20130129223326/http://2ch.hk/mmo/res/1563447.html) | | |
 | /mmo | KAVKAZ POWER 2013 | 24/01/13 | [>>1556727](https://web.archive.org/web/20130129223306/http://2ch.hk/mmo/res/1556727.html) | | НАБЕГ ЗА КАВКАЗ |
+| /mmo |  | 27/10/12 | [>>]() |  |  |
 | /mmo | Линеечка | 27/10/12 | [>>1117531](https://web.archive.org/web/20130224190701/http://2-ch.so/mmo/arch/res/1117531.html) |  |  |
 | /mmo | L2 РУОФФ Kain | 21/10/12 | [>>1088744](https://web.archive.org/web/20130224194009/http://2-ch.so/mmo/arch/res/1088744.html) |  |  |
 | /mmo | Lineage2 | 18/10/12 | [>>1078965](https://web.archive.org/web/20130224193459/http://2-ch.so/mmo/arch/res/1078965.html) |  |  |
-| /mmo | х3 RPG CLUB | 16/10/12 | [>>1071265](https://web.archive.org/web/20130224201224/http://2-ch.so/mmo/arch/res/1071265.html) |  | Очоба/варниши без пруфов |
+| /mmo | х3 RPG CLUB | 16/10/12 | [>>1071265](https://web.archive.org/web/20130224201224/http://2-ch.so/mmo/arch/res/1071265.html) |  | Очоба/варниши без пруфов, перекат из [>>1039653](https://web.archive.org/web/20130520161408/http://2ch.hk/mmo/arch/res/1039653.html) |
 | /mmo | Lineage 2 PVP тред | 14/10/12 | [>>1065165](https://web.archive.org/web/20130224140401/http://2-ch.so/mmo/arch/res/1065165.html) |  | Тред поиска напарника |
 | /mmo | серв х50, правда GoD, но есть зацепки. | 13/10/12 | [>>1061517](https://web.archive.org/web/20130224135302/http://2-ch.so/mmo/arch/res/1061517.html) |  | НАБЕГ ЗА КАВКАЗ |
 | /mmo | Asterios, Warden x7 | 09/10/12 | [>>1054376](https://web.archive.org/web/20130224124908/http://2-ch.so/mmo/arch/res/1054376.html) |  |  |
 | /mmo | l2name.ru | 07/10/12 | [>>1046518](https://web.archive.org/web/20130224203532/http://2-ch.so/mmo/arch/res/1046518.html) |  |  |
 | /mmo | ....::::::Lineage II:::::::...... | 06/10/12 | [>>1040556](https://web.archive.org/web/20130520125845/http://2ch.hk/mmo/arch/res/1040556.html) | | Тред обсуждения игры |
-| /mmo | l2 RPG-club x3 | 05/10/12 | [>>1039653](https://web.archive.org/web/20130520161408/http://2ch.hk/mmo/arch/res/1039653.html) | | |
-| /mmo | Империя х3 RPG-CLUB | 05/10/12 | [>>1039410](https://web.archive.org/web/20130520092912/http://2ch.hk/mmo/arch/res/1039410.html) | | |
+| /mmo | l2 RPG-club x3 | 05/10/12 | [>>1039653](https://web.archive.org/web/20130520161408/http://2ch.hk/mmo/arch/res/1039653.html) | | Перекат из [>>1039410](https://web.archive.org/web/20130520092912/http://2ch.hk/mmo/arch/res/1039410.html) |
+| /mmo | Империя х3 RPG-CLUB | 05/10/12 | [>>1039410](https://web.archive.org/web/20130520092912/http://2ch.hk/mmo/arch/res/1039410.html) | | Перекат из [>>999097](https://web.archive.org/web/20130224205918/http://2-ch.so/mmo/arch/res/999097.html) |
 | /mmo | OverWorld Rumiel x50 | 03/10/12 | [>>1032660](https://web.archive.org/web/20130521055658/http://2ch.hk/mmo/arch/res/1032660.html) | | |
 | /mmo | Сап, ММОЧ! Помню, как-то Анон играл в Л2 на четвёртых хрониках, сервер Draconic. | 02/10/12 | [>>1028365](https://web.archive.org/web/20130521012951/http://2ch.hk/mmo/arch/res/1028365.html) | | Тред поиска напарника, анально захвачен Варнишами |
 | /mmo | Overworld x15 | 02/10/12 | [>>1027498](https://web.archive.org/web/20130520161050/http://2ch.hk/mmo/arch/res/1027498.html) | | |
 | /mmo | L2 c4 | 29/09/12 | [>>1020322](https://web.archive.org/web/20130520094115/http://2ch.hk/mmo/arch/res/1020322.html) | | |
 | /mmo | l2 GOD | 23/09/12 | [>>1002485](https://web.archive.org/web/20130520175140/http://2ch.hk/mmo/arch/res/1002485.html) | | |
-| /mmo |  | 02/09/12 | [>>]() |  |  |
+| /mmo | RPG-club | 22/09/12 | [>>999097](https://web.archive.org/web/20130224205918/http://2-ch.so/mmo/arch/res/999097.html) |  |  |
+| /mmo | ладваруофф | 19/09/12 | [>>986159](https://web.archive.org/web/20130224143508/http://2-ch.so/mmo/arch/res/986159.html) |  | Тред поиска напарника |
+| /mmo | Lineage 2 | 18/09/12 | [>>985241](https://web.archive.org/web/20130224141620/http://2-ch.so/mmo/arch/res/985241.html) |  | Тред поиска напарника |
 | /mmo | L dva GOD | 13/09/12 | [>>959397](https://web.archive.org/web/20130224190725/http://2-ch.so/mmo/arch/res/959397.html) |  | Тред обсуждения игры |
 | /mmo | Линейный период 2 Дай пять | 11/09/12 | [>>948866](https://web.archive.org/web/20130224160405/http://2-ch.so/mmo/arch/res/948866.html) |  | Тред поиска напарника |
 | /mmo | Сегодня ты у мамы ботовод | 10/09/12 | [>>945619](https://web.archive.org/web/20130224210752/http://2-ch.so/mmo/arch/res/945619.html) |  | Тред обсуждения игры |

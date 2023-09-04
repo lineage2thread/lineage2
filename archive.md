@@ -535,7 +535,10 @@
 | /mmo | L2 c4 | 29/09/12 | [>>1020322](https://web.archive.org/web/20130520094115/http://2ch.hk/mmo/arch/res/1020322.html) | | |
 | /mmo | l2 GOD | 23/09/12 | [>>1002485](https://web.archive.org/web/20130520175140/http://2ch.hk/mmo/arch/res/1002485.html) | | |
 | /mmo |  | 01/08/12 | [>>]() |  |  |
-
+| /mmo | Erica x10 Interlude - 24.08 | 23/08/12 | [>>860427](https://web.archive.org/web/20130224160327/http://2-ch.so/mmo/arch/res/860427.html) |  |  |
+| /mmo | Asterios.tm x7 HF 26.08 | 23/08/12 | [>>859528](https://web.archive.org/web/20130224133653/http://2-ch.so/mmo/arch/res/859528.html) |  | Перекат из [>>821456](https://web.archive.org/web/20130224124724/http://2-ch.so/mmo/arch/res/821456.html) |
+| /mmo | КП на эмеральд. | 19/08/12 | [>>841266](https://web.archive.org/web/20130224131843/http://2-ch.so/mmo/arch/res/841266.html) |  | Очоба |
+| /mmo | Суп, /mmo/.Нет ли среди вас играющих на themega x10? | 18/08/12 | [>>838183](https://web.archive.org/web/20130224184430/http://2-ch.so/mmo/arch/res/838183.html) |  |  |
 | /mmo | Lineage II interlude | 15/08/12 | [>>821480](https://web.archive.org/web/20130224182735/http://2-ch.so/mmo/arch/res/821480.html) |  | Тред обсуждения игры |
 | /mmo | ast x7 | 15/08/12 | [>>821456](https://web.archive.org/web/20130224124724/http://2-ch.so/mmo/arch/res/821456.html) |  |  |
 | /mmo | Очередной набег | 12/08/12 | [>>811656](https://web.archive.org/web/20130224130106/http://2-ch.so/mmo/arch/res/811656.html) |  |  |

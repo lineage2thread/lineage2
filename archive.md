@@ -535,6 +535,11 @@
 | /mmo | L2 c4 | 29/09/12 | [>>1020322](https://web.archive.org/web/20130520094115/http://2ch.hk/mmo/arch/res/1020322.html) | | |
 | /mmo | l2 GOD | 23/09/12 | [>>1002485](https://web.archive.org/web/20130520175140/http://2ch.hk/mmo/arch/res/1002485.html) | | |
 | /mmo |  | 01/08/12 | [>>]() |  |  |
+
+| /mmo | Lineage II interlude | 15/08/12 | [>>821480](https://web.archive.org/web/20130224182735/http://2-ch.so/mmo/arch/res/821480.html) |  | Тред обсуждения игры |
+| /mmo | ast x7 | 15/08/12 | [>>821456](https://web.archive.org/web/20130224124724/http://2-ch.so/mmo/arch/res/821456.html) |  |  |
+| /mmo | Очередной набег | 12/08/12 | [>>811656](https://web.archive.org/web/20130224130106/http://2-ch.so/mmo/arch/res/811656.html) |  |  |
+| /mmo | wonderage.org | 11/08/12 | [>>807534](https://web.archive.org/web/20130224151113/http://2-ch.so/mmo/arch/res/807534.html) |  |  |
 | /mmo | lineage 2 interlude | 09/08/12 | [>>796744](https://web.archive.org/web/20130224210736/http://2-ch.so/mmo/arch/res/796744.html) |  | Тред обсуждения игры |
 | /mmo | Lineage II: Goddess Of Destruction thread | 07/08/12 | [>>789755](https://web.archive.org/web/20130224141959/http://2-ch.so/mmo/arch/res/789755.html) |  | Перекат из [>>708236](https://web.archive.org/web/20130224155713/http://2-ch.so/mmo/arch/res/708236.html) |
 | /mmo | Interlude x10 | 06/08/12 | [>>787634](https://web.archive.org/web/20130224150814/http://2-ch.so/mmo/arch/res/787634.html) |  |  |

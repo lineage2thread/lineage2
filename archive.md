@@ -519,6 +519,10 @@
 | /mmo | Lineage II - общий тред | 25/01/13 | [>>1563447](https://web.archive.org/web/20130129223326/http://2ch.hk/mmo/res/1563447.html) | | |
 | /mmo | KAVKAZ POWER 2013 | 24/01/13 | [>>1556727](https://web.archive.org/web/20130129223306/http://2ch.hk/mmo/res/1556727.html) | | НАБЕГ ЗА КАВКАЗ |
 | /mmo |  | 01/11/12 | [>>]() |  |  |
+| /mmo | VARNISH  HIGH-FIVE x7  RPG-CLUB.com | 23/11/12 | [>>1236555](https://web.archive.org/web/20130224193721/http://2-ch.so/mmo/arch/res/1236555.html) |  |  |
+| /mmo | VARNISH  HIGH-FIVE x7  RPG-CLUB.com | 19/11/12 | [>>1218816](https://web.archive.org/web/20130224124848/http://2-ch.so/mmo/arch/res/1218816.html) |  |  |
+| /mmo | VARNISH  INTERLUDE x5  LINEAGE.RO | 18/11/12 | [>>1213364](https://web.archive.org/web/20130224132928/http://2-ch.so/mmo/arch/res/1213364.html) |  |  |
+| /mmo | ГОВНОЕД ХУЙ ПИЗДЕЦ ИЛИТА ЕБАЛ | 17/11/12 | [>>1209957](https://web.archive.org/web/20130224134136/http://2-ch.so/mmo/arch/res/1209957.html) |  |  |
 | /mmo | VARNISH  HIGH-FIVE x7  RPG-CLUB.COM | 16/11/12 | [>>1205222](https://web.archive.org/web/20130224134916/http://2-ch.so/mmo/arch/res/1205222.html) |  | Varnish, перекат из [>>1195987](https://web.archive.org/web/20130224182533/http://2-ch.so/mmo/arch/res/1195987.html) |
 | /mmo | RPC-club.ru x7 High Five - Оффициальный Тред™ | 16/11/12 | [>>1204332](https://web.archive.org/web/20130224134032/http://2-ch.so/mmo/arch/res/1204332.html) |  |  |
 | /mmo | RPG CLUB x7 (for MEGA x1000) | 15/11/12 | [>>1197091](https://web.archive.org/web/20130224205745/http://2-ch.so/mmo/arch/res/1197091.html) |  |  |

@@ -519,8 +519,10 @@
 | /mmo | Lineage II - общий тред | 25/01/13 | [>>1563447](https://web.archive.org/web/20130129223326/http://2ch.hk/mmo/res/1563447.html) | | |
 | /mmo | KAVKAZ POWER 2013 | 24/01/13 | [>>1556727](https://web.archive.org/web/20130129223306/http://2ch.hk/mmo/res/1556727.html) | | НАБЕГ ЗА КАВКАЗ |
 | /mmo |  | 01/12/12 | [>>]() |  |  |
-| /mmo | Lf Lineage 2 PVP shard. | 18/12/12 | [>>1355295](https://web.archive.org/web/20130224143526/http://2-ch.so/mmo/arch/res/1355295.html) |  |  |
-| /mmo | RP сервер Lineage 2 | 13/12/12 | [>>1328700](https://web.archive.org/web/20130224184058/http://2-ch.so/mmo/arch/res/1328700.html) |  |  |
+| /mmo | Л2 и повседневная жизнь | 30/12/12 | [>>1417730](https://web.archive.org/web/20130224124215/http://2-ch.so/mmo/arch/res/1417730.html) |  | Тред обсуждения игры |
+| /mmo | Ребята не играл в линягу пол года | 20/12/12 | [>>1367060](https://web.archive.org/web/20130224132722/http://2-ch.so/mmo/arch/res/1367060.html) |  | Тред поиска сервера |
+| /mmo | Lf Lineage 2 PVP shard. | 18/12/12 | [>>1355295](https://web.archive.org/web/20130224143526/http://2-ch.so/mmo/arch/res/1355295.html) |  | Тред поиска сервера |
+| /mmo | RP сервер Lineage 2 | 13/12/12 | [>>1328700](https://web.archive.org/web/20130224184058/http://2-ch.so/mmo/arch/res/1328700.html) |  | Тред поиска сервера |
 | /mmo | Lineage RUoff | 08/12/12 | [>>1308041](https://web.archive.org/web/20130224205947/http://2-ch.so/mmo/arch/res/1308041.html) |  |  |
 | /mmo | Анончик обменяю акк ла2 руофа с чаром 87 лвла на средний акк на Десперионе | 05/12/12 | [>>1291938](https://web.archive.org/web/20130224194141/http://2-ch.so/mmo/arch/res/1291938.html) |  |  |
 | /mmo | VARNISH  HIGH-FIVE x7  RPG-CLUB.com | 04/12/12 | [>>1286227](https://web.archive.org/web/20130224164640/http://2-ch.so/mmo/arch/res/1286227.html) |  | Varnish, перекат из [>>1236555](https://web.archive.org/web/20130224193721/http://2-ch.so/mmo/arch/res/1236555.html) |

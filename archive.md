@@ -675,6 +675,7 @@
 | 0chan.ru /vg | Lineage II // Рако-клан // Asterios // Argos x5 | 30/09/10 | [>>897685](https://web.archive.org/web/20101003191234/http://www.0chan.ru:80/vg/res/897685.html) |  |  |
 | 0chan.ru /vg | lineage2 | 13/08/10 | [>>809774](https://web.archive.org/web/20100816043024/http://www.0chan.ru:80/vg/res/809774.html) |  | Тред поиска напарника |
 | 0chan.ru | доска l2 | 03-05/10 | [>>_l2](https://web.archive.org/web/20100514144902/http://www.0chan.ru/_l2/) |  |  |
+| 2-ch.ru /vg | Тирач, научи меня работать с хлапексом и прочими подменялками пакетов. | 17/01/10 | [>>143827](https://web.archive.org/web/20100126132612/http://2-ch.ru:80/vg/res/143827.html) |  |  |
 | 0chan.ru /vg | Lineage 2 c1 server | 26/04/09 | [>>51383](https://web.archive.org/web/20090501115130/http://www.0chan.ru:80/vg/res/51383.html) |  |  |
 | 2ch.ru /vg | чуваки, завтра открытие официальных российских серверов лайнейдж. | 30/11/08 | [>>200070](https://web.archive.org/web/20081205130352/http://2ch.ru:80/vg/res/200070.html) |  |  |
 | 2ch.ru /vg | l2 ruoff ЗБТ | 03/11/08 | [>>168433](https://web.archive.org/web/20081107101835/http://2ch.ru:80/vg/res/168433.html) |  | Попрошайка |

@@ -669,6 +669,17 @@
 | /mmo | Летний набег на castlegame.ru #2 | 02/06/12 | [>>592444](https://web.archive.org/web/20130224182557/http://2-ch.so/mmo/arch/res/592444.html) |  | Очоба |
 | /mmo | Overworld x15 HIGHFIVE | 02/06/12 | [>>591463](https://web.archive.org/web/20130224184737/http://2-ch.so/mmo/arch/res/591463.html) |  |  |
 | /mmo |  |  | [>>]() |  |  |
+| /mmo | Опрос | 07/01/12 | [>>247462](https://web.archive.org/web/20120115215449/http://2ch.so:80/mmo/res/247462.html) |  | Тред обсуждения игры |
+| /mmo | Lineage 2 Euro Official servers №2 | 26/11/11 | [>>225782](https://web.archive.org/web/20120115215823/http://2ch.so:80/mmo/res/225782.html) |  |  |
+| /mmo | Lineage 2 РуОфф | 21/12/11 | [>>215239](https://web.archive.org/web/20120113084523/http://2ch.so:80/mmo/res/215239.html) |  |  |
+| /mmo | Interlude PvP lamp server | 05/12/11 | [>>185640](https://web.archive.org/web/20111207044630/http://2ch.so:80/mmo/res/185640.html) |  |  |
+| /mmo | Lineage II Chronicle 4 Тред | 03/12/11 | [>>182330](https://web.archive.org/web/20111207054431/http://2ch.so:80/mmo/res/182330.html) |  | Норфолк #9, перекат из [>>172745](https://web.archive.org/web/20111129194224/http://2ch.so:80/mmo/res/172745.html) |
+| /mmo | Lineage II Chronicle 4 Тред #8 | 28/11/11 | [>>172745](https://web.archive.org/web/20111129194224/http://2ch.so:80/mmo/res/172745.html) |  | Норфолк #8, #7 - проебан |
+| /mmo | Сегодня я зашел на тот самый l2olimp. | 28/11/11 | [>>172463](https://web.archive.org/web/20111130210859/http://2ch.so:80/mmo/res/172463.html) |  |  |
+| /mmo | Lineage II Gracia Final | 28/11/11 | [>>171051](https://web.archive.org/web/20111129194208/http://2ch.so:80/mmo/res/171051.html) |  |  |
+| /mmo | Lineage II Chronicle 4 | 16/11/11 | [>>154389](https://web.archive.org/web/20111129232042/http://2ch.so:80/mmo/res/154389.html) |  | Норфолк #6 |
+| /mmo | Официальный Lineage II тред №7 | 09/11/11 | [>>145556](https://web.archive.org/web/20111207045144/http://2ch.so:80/mmo/res/145556.html) |  | Перекат из [>>124514](https://web.archive.org/web/20111103035224/http://2ch.so:80/mmo/res/124514.html) |
+| /mmo | Официальный Lineage II тред №6 | 29/10/11 | [>>124514](https://web.archive.org/web/20111103035224/http://2ch.so:80/mmo/res/124514.html) |  |  |
 | 0chan.ru /vg | Lineage II l2.overworld.su | 04/04/11 | [>>1165642](https://web.archive.org/web/20110410084143/http://www.0chan.ru:80/vg/res/1165642.html) |  |  |
 | 0chan.ru | доска la2 | 12/10 | [>>_la2](https://web.archive.org/web/20110123131736/http://www.0chan.ru:80/_la2/) |  |  |
 | 0chan.ru /vg | Клан анонов и не только в линеечке | 14/10/10 | [>>917700](https://web.archive.org/web/20101024184815/http://www.0chan.ru/vg/res/917700.html) |  | Возможно, перекат из [>>897685](https://web.archive.org/web/20101003191234/http://www.0chan.ru:80/vg/res/897685.html) |

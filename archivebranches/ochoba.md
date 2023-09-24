@@ -1,3 +1,5 @@
+![](https://github.com/lineage2thread/lineage2/blob/main/archivebranches/archivepics/1336152258941.png)
+
 | Доска | Название | Дата | Ссылка на тред | Архив | Комментарий |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | /mmo | КП на эмеральд. | 19/08/12 | [>>841266](https://web.archive.org/web/20130224131843/http://2-ch.so/mmo/arch/res/841266.html) |  | |

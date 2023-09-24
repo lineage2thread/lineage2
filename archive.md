@@ -669,6 +669,16 @@
 | /mmo | Летний набег на castlegame.ru #2 | 02/06/12 | [>>592444](https://web.archive.org/web/20130224182557/http://2-ch.so/mmo/arch/res/592444.html) |  | Очоба |
 | /mmo | Overworld x15 HIGHFIVE | 02/06/12 | [>>591463](https://web.archive.org/web/20130224184737/http://2-ch.so/mmo/arch/res/591463.html) |  |  |
 | /mmo |  |  | [>>]() |  |  |
+| /mmo | Добро пожаловать на GVE intelude-online. Снова. | 30/03/12 | [>>432893](https://web.archive.org/web/20120411201201/http://2ch.so:80/mmo/res/432893.html) |  |  |
+| /mmo | High Five x20 DEFO | 29/03/12 | [>>430133](https://web.archive.org/web/20120404110256/http://2ch.so:80/mmo/res/430133.html) |  |  |
+| /mmo | BSFG | 26/03/12 | [>>422285](https://web.archive.org/web/20120411201154/http://2ch.so:80/mmo/res/422285.html) |  |  |
+| /mmo | НАБИГАЕМ | 16/02/12 | [>>343033](https://web.archive.org/web/20120222052130/http://2ch.so:80/mmo/res/343033.html) |  |  |
+| /mmo | wonderage.org x50 | 15/02/12 | [>>339962](https://web.archive.org/web/20120222052120/http://2ch.so:80/mmo/res/339962.html) |  | Очоба |
+| /mmo | NoOfficial Lineage II Thread №69 thefreya.com High Five x30 | 22/01/12 | [>>290681](https://web.archive.org/web/20120130173735/http://2ch.so:80/mmo/res/290681.html) |  | Очоба, треды между этим и #3 проебаны |
+| /mmo | Emerald. Зимний набигач. | 18/01/12 | [>>275489](https://web.archive.org/web/20120120142716/http://2ch.so:80/mmo/res/275489.html) |  |  |
+| /mmo | NoOfficial Lineage II Thread - 3 ▲ | 11/01/12 | [>>257470](https://web.archive.org/web/20120116145939/http://2ch.so:80/mmo/res/257470.html) |  | Очоба, перекат из [>>249142](https://web.archive.org/web/20120113214127/http://2ch.so:80/mmo/res/249142.html) |
+| /mmo | Открыт новый сервер Lineage 2 High Five UnionL2.net | 11/01/12 | [>>255929](https://web.archive.org/web/20120113214015/http://2ch.so:80/mmo/res/255929.html) |  |  |
+| /mmo | ЗИМНИЙ НАБЕГ LA2 №2 | 08/01/12 | [>>249142](https://web.archive.org/web/20120113214127/http://2ch.so:80/mmo/res/249142.html) |  | Очоба |
 | /mmo | Опрос | 07/01/12 | [>>247462](https://web.archive.org/web/20120115215449/http://2ch.so:80/mmo/res/247462.html) |  | Тред обсуждения игры |
 | /mmo | Lineage 2 Euro Official servers №2 | 26/11/11 | [>>225782](https://web.archive.org/web/20120115215823/http://2ch.so:80/mmo/res/225782.html) |  |  |
 | /mmo | Lineage 2 РуОфф | 21/12/11 | [>>215239](https://web.archive.org/web/20120113084523/http://2ch.so:80/mmo/res/215239.html) |  |  |

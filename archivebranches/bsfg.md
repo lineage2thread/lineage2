@@ -16,6 +16,8 @@
 | /mmo | Battles for Glory 2! | 11/08/15 | [>>5970414](https://m2ch.cf/mmo/res/5970414.html) | | |
 | /mmo | Battles for Glory 2 - BSFG thread № 5 | 23/06/12 | [>>648247](https://web.archive.org/web/20130224150626/http://2-ch.so/mmo/arch/res/648247.html) |  | Перекат из [>>593781](https://web.archive.org/web/20130224132725/http://2-ch.so/mmo/arch/res/593781.html) |
 | /mmo | Battles for Glory 2 - BSFG thread № 4 | 03/06/12 | [>>593781](https://web.archive.org/web/20130224132725/http://2-ch.so/mmo/arch/res/593781.html) |  |  |
+| /mmo | Battles for Glory 2 - BSFG | 15/05/12 | [>>545653](https://web.archive.org/web/20120518215304/http://2ch.so:80/mmo/res/545653.html) |  |  |
+| /mmo | BSFG | 26/03/12 | [>>422285](https://web.archive.org/web/20120411201154/http://2ch.so:80/mmo/res/422285.html) |  |  |
 
 |[↩️](https://github.com/lineage2thread/lineage2/blob/main/header.md)|[📆](https://github.com/lineage2thread/lineage2/blob/main/archive.md)|
 |:---:|:---:|

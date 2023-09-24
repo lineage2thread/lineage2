@@ -666,9 +666,14 @@
 | /mmo | НЕЙТРАЛЬНО. | 05/06/12 | [>>601282](https://web.archive.org/web/20130224134816/http://2-ch.so/mmo/arch/res/601282.html) |  | Очоба |
 | /mmo | Lineage II Low Interlude | 05/06/12 | [>>601105](https://web.archive.org/web/20130224161552/http://2-ch.so/mmo/arch/res/601105.html) |  |  |
 | /mmo | Battles for Glory 2 - BSFG thread № 4 | 03/06/12 | [>>593781](https://web.archive.org/web/20130224132725/http://2-ch.so/mmo/arch/res/593781.html) |  |  |
+| /mmo | Lineage II OverWorld.su x15 | 02/06/12 | [>>592586](https://web.archive.org/web/20120606010820/http://2ch.so:80/mmo/res/592586.html) |  |  |
 | /mmo | Летний набег на castlegame.ru #2 | 02/06/12 | [>>592444](https://web.archive.org/web/20130224182557/http://2-ch.so/mmo/arch/res/592444.html) |  | Очоба |
 | /mmo | Overworld x15 HIGHFIVE | 02/06/12 | [>>591463](https://web.archive.org/web/20130224184737/http://2-ch.so/mmo/arch/res/591463.html) |  |  |
-| /mmo |  |  | [>>]() |  |  |
+| /mmo | Battles for Glory 2 - BSFG | 15/05/12 | [>>545653](https://web.archive.org/web/20120518215304/http://2ch.so:80/mmo/res/545653.html) |  |  |
+| /mmo | Lineage II | 06/05/12 | [>>519187](https://web.archive.org/web/20120510210616/http://2ch.so:80/mmo/res/519187.html) |  | Тред обсуждения игры |
+| /mmo | oNanogame thread | 27/04/12 | [>>494651](https://web.archive.org/web/20120507045230/http://2ch.so:80/mmo/res/494651.html) |  | Очоба |
+| /mmo | Пацаны, поясните слоупоку, а что у нас в данный момент с линейджем? | 23/04/12 | [>>484967](https://web.archive.org/web/20120502000944/http://2ch.so:80/mmo/res/484967.html) |  | Тред поиска сервера, очоба |
+| /mmo | l2.overworld.su x15 | 15/04/12 | [>>467106](https://web.archive.org/web/20120507045455/http://2ch.so:80/mmo/res/467106.html) |  |  |
 | /mmo | Добро пожаловать на GVE intelude-online. Снова. | 30/03/12 | [>>432893](https://web.archive.org/web/20120411201201/http://2ch.so:80/mmo/res/432893.html) |  |  |
 | /mmo | High Five x20 DEFO | 29/03/12 | [>>430133](https://web.archive.org/web/20120404110256/http://2ch.so:80/mmo/res/430133.html) |  |  |
 | /mmo | BSFG | 26/03/12 | [>>422285](https://web.archive.org/web/20120411201154/http://2ch.so:80/mmo/res/422285.html) |  |  |
@@ -690,6 +695,8 @@
 | /mmo | Lineage II Chronicle 4 | 16/11/11 | [>>154389](https://web.archive.org/web/20111129232042/http://2ch.so:80/mmo/res/154389.html) |  | Норфолк #6 |
 | /mmo | Официальный Lineage II тред №7 | 09/11/11 | [>>145556](https://web.archive.org/web/20111207045144/http://2ch.so:80/mmo/res/145556.html) |  | Перекат из [>>124514](https://web.archive.org/web/20111103035224/http://2ch.so:80/mmo/res/124514.html) |
 | /mmo | Официальный Lineage II тред №6 | 29/10/11 | [>>124514](https://web.archive.org/web/20111103035224/http://2ch.so:80/mmo/res/124514.html) |  |  |
+| /mmo | LINEAGE ASTERIOS 馬鹿 | 07/10/11 | [>>90125](https://web.archive.org/web/20111012031352/http://2ch.so:80/mmo/res/90125.html) |  |  |
+| /mmo | ПЕРЕКААТ х1000 SHIMI | 01/10/11 | [>>80917](https://web.archive.org/web/20111002061451/http://2ch.so:80/mmo/res/80917.html) |  | Очоба |
 | 0chan.ru /vg | Lineage II l2.overworld.su | 04/04/11 | [>>1165642](https://web.archive.org/web/20110410084143/http://www.0chan.ru:80/vg/res/1165642.html) |  |  |
 | 0chan.ru | доска la2 | 12/10 | [>>_la2](https://web.archive.org/web/20110123131736/http://www.0chan.ru:80/_la2/) |  |  |
 | 0chan.ru /vg | Клан анонов и не только в линеечке | 14/10/10 | [>>917700](https://web.archive.org/web/20101024184815/http://www.0chan.ru/vg/res/917700.html) |  | Возможно, перекат из [>>897685](https://web.archive.org/web/20101003191234/http://www.0chan.ru:80/vg/res/897685.html) |

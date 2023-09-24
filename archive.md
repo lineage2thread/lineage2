@@ -511,7 +511,7 @@
 | /mmo | Lineage РУОФФ | 25/06/14 | [>>3778670](https://web.archive.org/web/20140705171939/http://2ch.hk/mmo/res/3778670.html) | | |
 | /mmo | ledbin.ru x3 Epilogue | 24/06/14 | [>>3774874](https://web.archive.org/web/20140628043220/http://2ch.hk/mmo/res/3774874.html) | | |
 | /mmo | Lineage 2 free сервера. | 13/12/13 | [>>3030485](https://web.archive.org/web/20140111052136/http://2ch.hk/mmo/res/3030485.html) | | |
-| /mmo | VARNISH :: LINEAGE.RU C4 x5 | 03/11/13 | [>>2877223](https://web.archive.org/web/20131109085152/http://www.2ch.pm:80/mmo/res/2877223.html) | | Зашкварниши, тред Маями |
+| /mmo | VARNISH :: LINEAGE.RU C4 x5 | 03/11/13 | [>>2877223](https://web.archive.org/web/20131109085152/http://www.2ch.pm:80/mmo/res/2877223.html) | | Varnish, тред Маями |
 | /mmo | Lineage 2 General Thread | 10/10/13 | [>>2807840](https://web.archive.org/web/20131106091311/http://www.2ch.pm:80/mmo/res/2807840.html) | | |
 | /mmo | Lineage2: averia.ws x50 | 05/08/13 | [>>2584942](https://web.archive.org/web/20130821065439/http://2ch.wf/mmo/res/2584942.html) |  |  |
 | /mmo | Chronicle 3: Rise of Darkness | 25/07/13 | [>>2543896](https://web.archive.org/web/20130731231832/http://2ch.hk/mmo/res/2543896.html) | | |

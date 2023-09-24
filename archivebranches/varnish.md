@@ -25,6 +25,9 @@
 | /mmo | LINEAGE.RO INTERLUDE x5 | 23/06/12 | [>>648292](https://web.archive.org/web/20130224203043/http://2-ch.so/mmo/arch/res/648292.html) |  | Выкат из [>>643819](https://web.archive.org/web/20130224201302/http://2-ch.so/mmo/arch/res/643819.html) |
 | /mmo | La2 Ц4 новый сервер проебать жизнь без смс | 22/06/12 | [>>643819](https://web.archive.org/web/20130224201302/http://2-ch.so/mmo/arch/res/643819.html) |  | |
 | /mmo | Lineage 2 C1+ /Линейка для старичков | 15/06/12 | [>>625642](https://web.archive.org/web/20130224183410/http://2-ch.so/mmo/arch/res/625642.html) |  | |
+| /mmo | Lineage II Chronicle 4 Тред | 03/12/11 | [>>182330](https://web.archive.org/web/20111207054431/http://2ch.so:80/mmo/res/182330.html) |  | Норфолк #9, перекат из [>>172745](https://web.archive.org/web/20111129194224/http://2ch.so:80/mmo/res/172745.html) |
+| /mmo | Lineage II Chronicle 4 Тред #8 | 28/11/11 | [>>172745](https://web.archive.org/web/20111129194224/http://2ch.so:80/mmo/res/172745.html) |  | Норфолк #8, #7 - проебан |
+| /mmo | Lineage II Chronicle 4 | 16/11/11 | [>>154389](https://web.archive.org/web/20111129232042/http://2ch.so:80/mmo/res/154389.html) |  | Норфолк #6 |
 
 |[↩️](https://github.com/lineage2thread/lineage2/blob/main/header.md)|[📆](https://github.com/lineage2thread/lineage2/blob/main/archive.md)|
 |:---:|:---:|

@@ -1,4 +1,4 @@
-![](https://github.com/lineage2thread/lineage2/blob/main/archivebranches/archivepics/varnish.jpg)
+-> ![](https://github.com/lineage2thread/lineage2/blob/main/archivebranches/archivepics/varnish.jpg) <-
 
 | Доска | Название | Дата | Ссылка на тред | Архив | Комментарий |
 |:---:|:---:|:---:|:---:|:---:|:---:|

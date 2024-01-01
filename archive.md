@@ -528,18 +528,55 @@
 | /mmo | Lineage2: averia.ws x50 | 05/08/13 | [>>2584942](https://web.archive.org/web/20130821065439/http://2ch.wf/mmo/res/2584942.html) |  |  |
 | /mmo | Chronicle 3: Rise of Darkness | 25/07/13 | [>>2543896](https://web.archive.org/web/20130731231832/http://2ch.hk/mmo/res/2543896.html) | | |
 | /mmo | Lineage 2 General Thread | 24/07/13 | [>>2538947](https://web.archive.org/web/20130816045914/http://2ch.hk/mmo/res/2538947.html) | | |
+| /mmo | Гей-парад 19 числа-л2 | 08/07/13 | [>>2478856](https://web.archive.org/web/20130713085520/http://2ch.hk:80/mmo/res/2478856.html) |  |  |
+| /mmo | В общем дело такое. Нарыл ява сервак. | 15/04/13 | [>>2034391](https://web.archive.org/web/20130521133810/http://2ch.hk/mmo/arch/res/2034391.html) |  |  |
 | /mmo | Lineage II HF x30 | 14/04/13 | [>>2026225](https://web.archive.org/web/20130425142403/http://2ch.hk/mmo/res/2026225.html) | | |
-| /mmo | Lineage II - общий тред | 25/01/13 | [>>1563447](https://web.archive.org/web/20130129223326/http://2ch.hk/mmo/res/1563447.html) | | |
-| /mmo | KAVKAZ POWER 2013 | 24/01/13 | [>>1556727](https://web.archive.org/web/20130129223306/http://2ch.hk/mmo/res/1556727.html) | | НАБЕГ ЗА КАВКАЗ |
-| /mmo |  | 01/12/12 | [>>]() |  |  |
-| /mmo | Л2 и повседневная жизнь | 30/12/12 | [>>1417730](https://web.archive.org/web/20130224124215/http://2-ch.so/mmo/arch/res/1417730.html) |  | Тред обсуждения игры |
+| /mmo | Lineage II | 07/04/13 | [>>1979367](https://web.archive.org/web/20130521114656/http://2ch.hk/mmo/arch/res/1979367.html) |  | Тред поиска сервера |
+| /mmo | SIRIUS BIZNES La2 Tred | 28/03/13 | [>>1912588](https://web.archive.org/web/20130520225410/http://2ch.hk/mmo/arch/res/1912588.html) |  |  |
+| /mmo | Lineage x30 High Five | 20/03/13 | [>>1889940](https://web.archive.org/web/20130521014821/http://2ch.hk/mmo/arch/res/1889940.html) |  |  |
+| /mmo | Lineage II - HF x7 - Открытие 16.03.13. Тред 2  | 19/03/13 | [>>1884223](https://web.archive.org/web/20130520152904/http://2ch.hk/mmo/arch/res/1884223.html) |  | Перекат из [>>1805065](https://web.archive.org/web/20130520212252/http://2ch.hk/mmo/arch/res/1805065.html) |
+| /mmo | la2 donate | 17/03/13 | [>>1866116](https://web.archive.org/web/20130521020056/http://2ch.hk/mmo/arch/res/1866116.html) |  | Тред обсуждения игры |
+| /mmo | Lineage C4 x10 c4server.ru ОЛИМП EDITION | 10/03/13 | [>>1820037](https://web.archive.org/web/20130520224812/http://2ch.hk/mmo/arch/res/1820037.html) |  | Varnish, перекат из [>>1744390](https://web.archive.org/web/20130520205838/http://2ch.hk/mmo/arch/res/1744390.html) |
+| /mmo | Привет братья, я уже создавал тред, по по-поводу открытия сервера х10 | 09/03/13 | [>>1818068](https://web.archive.org/web/20130520213558/http://2ch.hk/mmo/arch/res/1818068.html) |  |  |
+| /mmo | Lineage 2 GF x7 | 07/03/13 | [>>1805065](https://web.archive.org/web/20130520212252/http://2ch.hk/mmo/arch/res/1805065.html) |  | Перекат из [>>1694281](https://web.archive.org/web/20130521014349/http://2ch.hk/mmo/arch/res/1694281.html) |
+| /mmo | Как вас обманули в первый раз в ММО? | 06/03/13 | [>>1797588](https://web.archive.org/web/20130520160157/http://2ch.hk/mmo/arch/res/1797588.html) |  | Тред обсуждения игры |
+| /mmo | Lineage II - общий тред | 27/02/13 | [>>1752069](https://web.archive.org/web/20130521052855/http://2ch.hk/mmo/arch/res/1752069.html) |  | Перекат из [>>1563447](https://web.archive.org/web/20130520111155/http://2ch.hk/mmo/arch/res/1563447.html) |
+| /mmo | Lineage C4 x10 c4server.ru МЕНЯ НАКРЫЛО edition | 26/02/13 | [>>1744390](https://web.archive.org/web/20130520205838/http://2ch.hk/mmo/arch/res/1744390.html) |  | Varnish, перекат из [>>1716903](https://web.archive.org/web/20130520153216/http://2ch.hk/mmo/arch/res/1716903.html) |
+| /mmo | блжадь! Помогите с линцом2 | 24/02/13 | [>>1731083](https://web.archive.org/web/20130521050147/http://2ch.hk/mmo/arch/res/1731083.html) |  | Тред обсуждения игры |
+| /mmo | Lineage ll Interlude | 22/02/13 | [>>1720710](https://web.archive.org/web/20130520134149/http://2ch.hk/mmo/arch/res/1720710.html) |  |  |
+| /mmo | Lineage C4 x10 c4server.ru | 22/02/13 | [>>1716903](https://web.archive.org/web/20130520153216/http://2ch.hk/mmo/arch/res/1716903.html) |  | Varnish, перекат из [>>1702043](https://web.archive.org/web/20130520172907/http://2ch.hk/mmo/arch/res/1702043.html) |
+| /mmo | У меня пичаль братья. Столько лет хотел открыть свой сервак | 21/02/13 | [>>1710542](https://web.archive.org/web/20130520121930/http://2ch.hk/mmo/arch/res/1710542.html) |  |  |
+| /mmo | Анон решил тряхнуть стариной и поиграть в линейку на С4 хрониках | 19/02/13 | [>>1702043](https://web.archive.org/web/20130520172907/http://2ch.hk/mmo/arch/res/1702043.html) |  | Varnish, перекат из [>>1685019](https://web.archive.org/web/20130521093634/http://2ch.hk/mmo/arch/res/1685019.html) |
+| /mmo | Lineage Gracia Final x7 | 18/02/13 | [>>1694281](https://web.archive.org/web/20130521014349/http://2ch.hk/mmo/arch/res/1694281.html) |  |  |
+| /mmo | Gracia Final x7 | 18/02/13 | [>>1690874](https://web.archive.org/web/20130520132026/http://2ch.hk/mmo/arch/res/1690874.html) |  |  |
+| /mmo | Lineage C4 x10 c4server.ru | 17/02/13 | [>>1685019](https://web.archive.org/web/20130521093634/http://2ch.hk/mmo/arch/res/1685019.html) |  | спавн Varnish |
+| /mmo | LINEAGE 2 ANONvsANON cup | 14/02/13 | [>>1670016](https://web.archive.org/web/20130520200508/http://2ch.hk/mmo/arch/res/1670016.html) |  |  |
+| /mmo | LINEAGE INTERLUDE X1000 KAVKAZ | 10/02/13 | [>>1646555](https://web.archive.org/web/20130520201133/http://2ch.hk/mmo/arch/res/1646555.html) |  | НАБЕГ ЗА КАВКАЗ |
+| /mmo | Lineage 2 Interlude x100 | 05/02/13 | [>>1625763](https://web.archive.org/web/20130521074649/http://2ch.hk/mmo/arch/res/1625763.html) |  |  |
+| /mmo | Lineage II GVE server | 04/02/13 | [>>1614822](https://web.archive.org/web/20130520165432/http://2ch.hk/mmo/arch/res/1614822.html) |  |  |
+| /mmo | thefior.ru/ В игре Вас ждет | 31/01/13 | [>>1594243](https://web.archive.org/web/20130521021246/http://2ch.hk/mmo/arch/res/1594243.html) |  |  |
+| /mmo | Lineage II x10 | 29/01/13 | [>>1586098](https://web.archive.org/web/20130521014303/http://2ch.hk/mmo/arch/res/1586098.html) |  |  |
+| /mmo | Lineage 2 interlude | 29/01/13 | [>>1585282](https://web.archive.org/web/20130521084707/http://2ch.hk/mmo/arch/res/1585282.html) |  |  |
+| /mmo | ЕСТЬ ОДНА ЛИНЕЙКА | 28/01/13 | [>>1581059](https://web.archive.org/web/20130520181818/http://2ch.hk/mmo/arch/res/1581059.html) |  |  |
+| /mmo | lineage.ru Erica X10 | 25/01/13 | [>>1565405](https://web.archive.org/web/20130521005743/http://2ch.hk/mmo/arch/res/1565405.html) |  |  |
+| /mmo | Lineage II - общий тред | 25/01/13 | [>>1563447](https://web.archive.org/web/20130520111155/http://2ch.hk/mmo/arch/res/1563447.html) |  | Общий тред! |
+| /mmo | Lineage 2 | 24/01/13 | [>>1557776](https://web.archive.org/web/20130521114215/http://2ch.hk/mmo/arch/res/1557776.html) |  | Тред поиска сервера |
+| /mmo | KAVKAZ POWER 2013 | 24/01/13 | [>>1556727](https://web.archive.org/web/20130520204940/http://2ch.hk/mmo/arch/res/1556727.html) |  | НАБЕГ ЗА КАВКАЗ, перекат из [>>1509039](https://web.archive.org/web/20130520210223/http://2ch.hk/mmo/arch/res/1509039.html) |
+| /mmo | А ну ка слушай сюда сын сифозной бляди! | 22/01/13 | [>>1548377](https://web.archive.org/web/20130521115124/http://2ch.hk/mmo/arch/res/1548377.html) |  |  |
+| /mmo | Поиск спонсора тред | 20/01/13 | [>>1536793](https://web.archive.org/web/20130520165726/http://2ch.hk/mmo/arch/res/1536793.html) |  |  |
+| /mmo | ЗА КАВКАЗ 2013 EDITION | 16/01/13 | [>>1509039](https://web.archive.org/web/20130520210223/http://2ch.hk/mmo/arch/res/1509039.html) |  | НАБЕГ ЗА КАВКАЗ |
+| /mmo | Розыскивается!! | 11/01/13 | [>>1485172](https://web.archive.org/web/20130520233015/http://2ch.hk/mmo/arch/res/1485172.html) |  | Тред поиска сервера |
+| /mmo | linege 2 | 11/01/13 | [>>1483444](https://web.archive.org/web/20130520220505/http://2ch.hk/mmo/arch/res/1483444.html) |  | Тред обсуждения игры |
+| /mmo | Interlude x1 DD Style | 04/01/13 | [>>1440500](https://web.archive.org/web/20130521055307/http://2ch.hk/mmo/arch/res/1440500.html) |  |  |
+| /mmo | rpg-club x7 | 03/01/13 | [>>1433146](https://web.archive.org/web/20130520140447/http://2ch.hk/mmo/arch/res/1433146.html) |  | спавн Varnish |
+| /mmo | Л2 и повседневная жизнь | 30/12/12 | [>>1417730](https://web.archive.org/web/20130521115214/http://2ch.hk/mmo/arch/res/1417730.html) |  | Тред обсуждения игры |
 | /mmo | Ребята не играл в линягу пол года | 20/12/12 | [>>1367060](https://web.archive.org/web/20130224132722/http://2-ch.so/mmo/arch/res/1367060.html) |  | Тред поиска сервера |
-| /mmo | Lf Lineage 2 PVP shard. | 18/12/12 | [>>1355295](https://web.archive.org/web/20130224143526/http://2-ch.so/mmo/arch/res/1355295.html) |  | Тред поиска сервера |
-| /mmo | RP сервер Lineage 2 | 13/12/12 | [>>1328700](https://web.archive.org/web/20130224184058/http://2-ch.so/mmo/arch/res/1328700.html) |  | Тред поиска сервера |
-| /mmo | Lineage RUoff | 08/12/12 | [>>1308041](https://web.archive.org/web/20130224205947/http://2-ch.so/mmo/arch/res/1308041.html) |  |  |
+| /mmo | Lf Lineage 2 PVP shard. | 18/12/12 | [>>1355295](https://web.archive.org/web/20130521075842/http://2ch.hk/mmo/arch/res/1355295.html) |  | Тред поиска сервера |
+| /mmo | RP сервер Lineage 2 | 13/12/12 | [>>1328700](https://web.archive.org/web/20130520182523/http://2ch.hk/mmo/arch/res/1328700.html) |  | Тред поиска сервера |
+| /mmo | Lineage RUoff | 08/12/12 | [>>1308041](https://web.archive.org/web/20130520214047/http://2ch.hk/mmo/arch/res/1308041.html) |  |  |
 | /mmo | Анончик обменяю акк ла2 руофа с чаром 87 лвла на средний акк на Десперионе | 05/12/12 | [>>1291938](https://web.archive.org/web/20130224194141/http://2-ch.so/mmo/arch/res/1291938.html) |  |  |
-| /mmo | VARNISH  HIGH-FIVE x7  RPG-CLUB.com | 04/12/12 | [>>1286227](https://web.archive.org/web/20130224164640/http://2-ch.so/mmo/arch/res/1286227.html) |  | Varnish, перекат из [>>1236555](https://web.archive.org/web/20130224193721/http://2-ch.so/mmo/arch/res/1236555.html) |
-| /mmo | Gracia Final x3 rpg-club.com | 01/12/12 | [>>1276973](https://web.archive.org/web/20130224165946/http://2-ch.so/mmo/arch/res/1276973.html) |  |  |
+| /mmo | VARNISH  HIGH-FIVE x7  RPG-CLUB.com | 04/12/12 | [>>1286227](https://web.archive.org/web/20130521161524/http://2ch.hk/mmo/arch/res/1286227.html) |  | Varnish, перекат из [>>1236555](https://web.archive.org/web/20130224193721/http://2-ch.so/mmo/arch/res/1236555.html) |
+| /mmo | Gracia Final x3 rpg-club.com | 01/12/12 | [>>1276973](https://web.archive.org/web/20130520175010/http://2ch.hk/mmo/arch/res/1276973.html) |  |  |
 | /mmo | INTERLUDE www.l2.ms THREAD | 29/11/12 | [>>1266037](https://web.archive.org/web/20130224161449/http://2-ch.so/mmo/arch/res/1266037.html) |  |  |
 | /mmo | VARNISH  HIGH-FIVE x7  RPG-CLUB.com | 23/11/12 | [>>1236555](https://web.archive.org/web/20130224193721/http://2-ch.so/mmo/arch/res/1236555.html) |  | Varnish, перекат из [>>1236555](https://web.archive.org/web/20130224193721/http://2-ch.so/mmo/arch/res/1236555.html) |
 | /mmo | VARNISH  HIGH-FIVE x7  RPG-CLUB.com | 19/11/12 | [>>1218816](https://web.archive.org/web/20130224124848/http://2-ch.so/mmo/arch/res/1218816.html) |  | Varnish, перекат из [>>1213364](https://web.archive.org/web/20130224132928/http://2-ch.so/mmo/arch/res/1213364.html) |
@@ -677,10 +714,10 @@
 | /mmo | Goddes of Destruction thread | 06/06/12 | [>>603164](https://web.archive.org/web/20130224201433/http://2-ch.so/mmo/arch/res/603164.html) |  |  |
 | /mmo | НЕЙТРАЛЬНО. | 05/06/12 | [>>601282](https://web.archive.org/web/20130224134816/http://2-ch.so/mmo/arch/res/601282.html) |  | Очоба |
 | /mmo | Lineage II Low Interlude | 05/06/12 | [>>601105](https://web.archive.org/web/20130224161552/http://2-ch.so/mmo/arch/res/601105.html) |  |  |
-| /mmo | Battles for Glory 2 - BSFG thread № 4 | 03/06/12 | [>>593781](https://web.archive.org/web/20130224132725/http://2-ch.so/mmo/arch/res/593781.html) |  |  |
+| /mmo | Battles for Glory 2 - BSFG thread № 4 | 03/06/12 | [>>593781](https://web.archive.org/web/20130521031426/http://2ch.hk/mmo/arch/res/593781.html) |  |  |
 | /mmo | Lineage II OverWorld.su x15 | 02/06/12 | [>>592586](https://web.archive.org/web/20120606010820/http://2ch.so:80/mmo/res/592586.html) |  |  |
-| /mmo | Летний набег на castlegame.ru #2 | 02/06/12 | [>>592444](https://web.archive.org/web/20130224182557/http://2-ch.so/mmo/arch/res/592444.html) |  | Очоба |
-| /mmo | Overworld x15 HIGHFIVE | 02/06/12 | [>>591463](https://web.archive.org/web/20130224184737/http://2-ch.so/mmo/arch/res/591463.html) |  |  |
+| /mmo | Летний набег на castlegame.ru #2 | 02/06/12 | [>>592444](https://web.archive.org/web/20130521124050/http://2ch.hk/mmo/arch/res/592444.html) |  | Очоба |
+| /mmo | Overworld x15 HIGHFIVE | 02/06/12 | [>>591463](https://web.archive.org/web/20130521135955/http://2ch.hk/mmo/arch/res/591463.html) |  |  |
 | /mmo | Battles for Glory 2 - BSFG | 15/05/12 | [>>545653](https://web.archive.org/web/20120518215304/http://2ch.so:80/mmo/res/545653.html) |  |  |
 | /mmo | Lineage II | 06/05/12 | [>>519187](https://web.archive.org/web/20120510210616/http://2ch.so:80/mmo/res/519187.html) |  | Тред обсуждения игры |
 | /mmo | oNanogame thread | 27/04/12 | [>>494651](https://web.archive.org/web/20120507045230/http://2ch.so:80/mmo/res/494651.html) |  | Очоба |

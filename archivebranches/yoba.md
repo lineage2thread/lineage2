@@ -8,7 +8,11 @@
 | /mmo | E-global x7 Gracia Final #2 | 22/09/16 | [>>6515394](https://2ch.hk/mmo/res/6515394.html) | | YOBA + pnpl |
 | /mmo | E-global x7 Gracia Final | 10/09/16 | [>>6513726](https://2ch.hk/mmo/res/6513726.html) | | YOBA |
 | /mmo | Lineagetwo.ru [Autism Edition] interlude x7 | 08/08/16 | [>>6510065](https://2ch.hk/mmo/res/6510065.html) | | Autism |
+| /vg | Lineage II Interlude | 02/07/16 | [>>17961759](https://2ch.hk/vg/arch/2016-07-14/res/17961759.html) | | YOBA + KUKAN TAIN |
+| /vg | Lineage II Interlude | 22/06/16 | [>>17821484](https://m2ch.cf/vg/res/17821484.html) | | YOBA + KUKAN TAIN |
+| /vg | Lineage ][ Interlude | 08/06/16 | [>>17606819](https://m2ch.cf/vg/res/17606819.html) | | YOBA, Перекат из [>>](...) |
 | /mmo | interlude x7 | 16/05/16 | [>>6504136](https://2ch.hk/mmo/res/6504136.html) | | YOBA: перекат из /vg |
+| /vg | Interlude x7 YОВА #1 | 04/05/16 | [>>16861876](https://2ch.hk/vg/arch/2016-05-21/res/16861876.html) | | YOBA |
 | /mmo |  | 15/04/16 | [>>6502171](https://2ch.hk/mmo/res/6502171.html) | | YOBA |
 | /mmo | Lineageclassic.ru x1 [autism]edition | 29/03/16 | [>>6501066](https://2ch.hk/mmo/res/6501066.html) | | Autism |
 

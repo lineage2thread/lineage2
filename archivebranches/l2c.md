@@ -2,10 +2,70 @@
 
 | Доска | Название | Дата | Ссылка на тред | Архив | Комментарий |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| /vg | Lineage Classic | 30/10/18 | [>>28103036](https://2ch.hk/vg/arch/2018-12-18/res/28103036.html) | | |
+| /vg | Lineage 2 Classic RuOff | 29/09/18 | [>>27787422](https://2ch.hk/vg/arch/2018-10-28/res/27787422.html) | | |
+| /vg | LINEAGE 2 CLASSIC HUYASIC | 11/08/18 | [>>27265698](https://2ch.hk/vg/arch/2018-09-29/res/27265698.html) | | |
+| /vg | LINEAGE 2 CLASSIC POD PIVASIK | 06/07/18 | [>>26860892](https://2ch.hk/vg/arch/2018-08-15/res/26860892.html) | | |
+| /vg | LINEAGE 2 CLASSIC: CLASSIC EDITION | 28/05/18 | [>>26502449](https://2ch.hk/vg/arch/2018-07-08/res/26502449.html) | | |
+| /vg | LINEAGE 2 CLASSIC: MANLY EDITION | 25/04/18 | [>>26208105](https://2ch.hk/vg/arch/2018-05-30/res/26208105.html) | | |
+| /vg | LINEAGE 2 CLASSIC МЕРТВАЯ ИГРА edition | 03/04/18 | [>>26020951](https://2ch.hk/vg/arch/2018-04-27/res/26020951.html) | | |
+| /vg | LINEAGE 2 CLASSIC SHIZIQUE EDITION | 13/03/18 | [>>25820828](https://2ch.hk/vg/arch/2018-04-05/res/25820828.html) | | |
+| /vg | LINEAGE 2 CLASSIC | 28/02/18 | [>>25668474](https://2ch.hk/vg/arch/2018-03-15/res/25668474.html) | | |
+| /vg | LINEAGE 2 CLASSIC | 12/02/18 | [>>25491039](https://2ch.hk/vg/arch/2018-03-02/res/25491039.html) | | |
+| /vg | LINEAGE 2 CLASSIC: KAT THREAD | 25/01/18 | [>>25311105](https://2ch.hk/vg/arch/2018-02-14/res/25311105.html) | | |
+| /vg | LINEAGE 2 CLASSIC: Le Pookue Edition | 14/01/18 | [>>25204077](https://2ch.hk/vg/arch/2018-01-28/res/25204077.html) | | |
+| /vg | LINEAGE 2 CLASSIC: New Year Edition | 26/12/17 | [>>25045121](https://2ch.hk/vg/arch/2018-01-15/res/25045121.html) | | |
+| /vg | Lineage II Classic: Edition Edition | 17/12/17 | [>>24939045](https://2ch.hk/vg/arch/2017-12-26/res/24939045.html) | | |
+| /vg | Lineage II Classic Ugnova edition | 03/12/17 | [>>24779657](https://2ch.hk/vg/arch/2017-12-20/res/24779657.html) | | |
+| /vg | Lineage II Classic luchshie devochki edition | 23/11/17 | [>>24658585](https://2ch.hk/vg/arch/2017-12-05/res/24658585.html) | | |
+| /vg | Lineage II Classic | 14/11/17 | [>>24549425](https://2ch.hk/vg/arch/2017-11-25/res/24549425.html) | | |
+| /vg | Lineage II Classic | 06/11/17 | [>>24438184](https://2ch.hk/vg/arch/2017-11-16/res/24438184.html) | | |
+| /vg | Lineage II Classic | 19/10/17 | [>>24200570](https://2ch.hk/vg/arch/2017-11-07/res/24200570.html) | | |
+| /vg | Lineage 2 Classic: Официальный, постбамплимитный, твой | 07/10/17 | [>>24065696](https://2ch.hk/vg/arch/2017-10-21/res/24065696.html) | | |
+| /vg | Lineage 2 Classic: Тред во славу человечества | 27/09/17 | [>>23966557](https://2ch.hk/vg/arch/2017-10-09/res/23966557.html) | | |
+| /vg | Lineage 2 Classic: Лучшая девочка эдишн | 18/09/17 | [>>23856229](https://2ch.hk/vg/arch/2017-09-30/res/23856229.html) | | |
+| /vg | Lineage 2 Classic: SARDELECHKA MEMESA Edition | 13/09/17 | [>>23786701](https://2ch.hk/vg/arch/2017-09-21/res/23786701.html) | | |
+| /vg | Lineage 2 Classic: Продаю трейн на Эйнхасад | 08/09/17 | [>>23725548](https://2ch.hk/vg/arch/2017-09-15/res/23725548.html) | | |
+| /vg | Lineage 2 Classic: Без срачей тред | 04/09/17 | [>>23681060](https://2ch.hk/vg/arch/2017-09-10/res/23681060.html) | | |
+| /vg | Lineage 2 Classic: Официальный, Эйнхасадский, Твой. | 31/08/17 | [>>23631888](https://2ch.hk/vg/arch/2017-09-06/res/23631888.html) | | |
+| /vg | Lineage 2 Classic: с попочками перекатывай сам | 27/08/17 | [>>23586795](https://2ch.hk/vg/arch/2017-09-01/res/23586795.html) | | |
+| /vg | Lineage 2 Classic: Ленивый Перекат Идишон | 23/08/17 | [>>23528194](https://2ch.hk/vg/arch/2017-08-29/res/23528194.html) | | |
+| /vg | Lineage 2 Classic: Хочется Облизать Идишн | 13/08/17 | [>>23404075](https://2ch.hk/vg/arch/2017-08-26/res/23404075.html) | | /l2c, перекат из [>>...]() |
+| /vg |  | 01/08/17 | [>>...]() | | /l2c, перекат из [>>23080764](https://2ch.hk/vg/arch/2017-07-21/res/23080764.html) |
+| /vg | Lineage 2 Classic: Подозрительных гномочек тред | 19/07/17 | [>>23080764](https://2ch.hk/vg/arch/2017-07-21/res/23080764.html) | | Дубль |
+| /vg | Lineage II Classic | 19/07/17 | [>>23080717](https://2ch.hk/vg/arch/2017-08-01/res/23080717.html) | | |
+| /vg | Lineage II Classic без хуйни | 12/07/17 | [>>23001132](https://2ch.hk/vg/arch/2017-07-21/res/23001132.html) | | |
+| /vg | Lineage II Classic: Смутные Времена Edition | 05/07/17 | [>>22912445](https://2ch.hk/vg/arch/2017-07-15/res/22912445.html) | | |
+| /vg | Lineage II Classic | 28/06/17 | [>>22838909](https://2ch.hk/vg/arch/2017-07-06/res/22838909.html) | | |
+| /vg | Lineage II Classic | 24/06/17 | [>>22796447](https://2ch.hk/vg/arch/2017-06-30/res/22796447.html) | | |
+| /vg | Lineage II Classic | 13/06/17 | [>>22691769](https://2ch.hk/vg/arch/2017-06-26/res/22691769.html) | | |
+| /vg | Lineage II Classic | 03/06/17 | [>>22582756](https://2ch.hk/vg/arch/2017-06-15/res/22582756.html) | | |
+| /vg | Lineage II Classic | 21/05/17 | [>>22447582](https://2ch.hk/vg/arch/2017-06-05/res/22447582.html) | | |
+| /vg | Lineage II Classic | 13/05/17 | [>>22361670](https://2ch.hk/vg/arch/2017-05-23/res/22361670.html) | | |
+| /vg | Lineage II Classic | 10/05/17 | [>>22324288](https://2ch.hk/vg/arch/2017-05-14/res/22324288.html) | | |
+| /vg | Lineage II Classic | 01/05/17 | [>>22226924](https://2ch.hk/vg/arch/2017-05-11/res/22226924.html) | | Легитимный перекат |
+| /vg | Lineage II Classic | 01/05/17 | [>>22226629](https://2ch.hk/vg/arch/2017-05-04/res/22226629.html) | | Нелегитимный перекат |
+| /vg | Lineage II Classic | 24/04/17 | [>>22127936](https://2ch.hk/vg/arch/2017-05-03/res/22127936.html) | | |
+| /vg | Lineage II Classic | 14/04/17 | [>>21998196](https://2ch.hk/vg/arch/2017-04-26/res/21998196.html) | | |
 | /mmo | Lineage Classic: Shillen | 10/04/17 | [>>6523228](https://2ch.hk/mmo/res/6523228.html) | | Дубль-тред |
-| /mmo | Lineage II Classic thread | 11/07/16 | [>>6508333](https://2ch.hk/mmo/res/6508333.html) | [Архивач](http://arhivach.ng/thread/251498/) | Дубль-тред из /vg |
-| /mmo | [РуоФФ] Lineage 2 Classic | 17/04/16 | [>>6502367](https://2ch.hk/mmo/res/6502367.html) | | Дубль-тред из /vg |
-| /mmo | Lineage 2 Classic. Добро пожаловать. Снова.(ОФ) | 27/11/15 | [>>6416599](https://web.archive.org/web/20151203004903/https://2ch.hk/mmo/res/6416599.html) | | |
+| /vg | Lineage II Classic | 04/04/17 | [>>21848217](https://2ch.hk/vg/arch/2017-04-15/res/21848217.html) | | |
+| /vg | Lineage II Classic | 26/03/17 | [>>21706964](https://2ch.hk/vg/arch/2017-04-05/res/21706964.html) | | |
+| /vg | Lineage II Classic | 13/03/17 | [>>21489750](https://2ch.hk/vg/arch/2017-03-27/res/21489750.html) | | |
+| /vg | Lineage II Classic | 22/02/17 | [>>21193428](https://2ch.hk/vg/arch/2017-03-15/res/21193428.html) | | |
+| /vg | lineage 2 classic | 19/01/17 | [>>20729388](https://2ch.hk/vg/arch/2017-02-23/res/20729388.html) | | |
+| /vg | Lineage II Classic | 01/01/17 | [>>20471059](https://2ch.hk/vg/arch/2017-01-21/res/20471059.html) | | |
+| /vg | Lineage II Classic без раковых мемов | 14/12/16 | [>>20229391](https://2ch.hk/vg/arch/2017-01-02/res/20229391.html) | | |
+| /vg | Lineage II Classic thread MEME edition | 16/11/16 | [>>19846225](https://2ch.hk/vg/arch/2016-12-15/res/19846225.html) | | |
+| /vg | Lineage II Classic thread /loginserver edition | 26/10/16 | [>>19553455](https://2ch.hk/vg/arch/2016-11-17/res/19553455.html) | | |
+| /vg | Lineage 2 Classic тред | 07/10/16 | [>>19308974](https://2ch.hk/vg/arch/2016-10-27/res/19308974.html) | | Перекат из [>>](...) |
+| /vg | Официальный Lineage II Classic тред #5 | 05/08/16 | [>>18451753](https://m2ch.cf/vg/res/18451753.html) | | |
+| /vg | Официальный Lineage II Classic тред #4 | 02/08/16 | [>>18410544](https://m2ch.cf/vg/res/18410544.html) | | |
+| /vg | Официальный Lineage II Classic тред #3 | 27/07/16 | [>>18330381](https://m2ch.cf/vg/res/18330381.html) | | Перекат из /mmo |
+| /mmo | Lineage II Classic thread | 11/07/16 | [>>6508333](https://2ch.hk/mmo/res/6508333.html) | [Архивач](http://arhivach.ng/thread/251498/) | |
+| /mmo | [РуоФФ] Lineage 2 Classic | 17/04/16 | [>>6502367](https://2ch.hk/mmo/res/6502367.html) | | |
+| /vg | Lineage2 classic | 13/04/16 | [>>16390482](https://2ch.hk/vg/arch/2016-04-13/res/16390482.html) | | Переехал в /mmo |
+| /vg | Восскресший из пепла Lineage2 Classic тред | 06/04/16 | [>>16236889](https://2ch.hk/vg/arch/2016-04-06/res/16236889.html) | | Первый /l2c |
+| /mmo | Lineage 2 Classic. Добро пожаловать. Снова.(ОФ) | 27/11/15 | [>>6416599](https://web.archive.org/web/20151203004903/https://2ch.hk/mmo/res/6416599.html) | | Последний EU Classic |
 | /mmo | Lineage 2 Classic. Добро пожаловать. Снова. | 16/11/15 | [>>6405165](https://web.archive.org/web/20151203004906/https://2ch.hk/mmo/res/6405165.html) | | |
 | /mmo | Lineage 2 Classic. Добро пожаловать. Снова. | 01/11/15 | [>>6396284](https://web.archive.org/web/20151101232456/https://2ch.hk/mmo/res/6396284.html) | | Патомушта здесь УЛЬТРА КЛАССЕКАХАДКОР, ЁБАНА! |
 | /mmo | Lineage 2 Classic. Добро пожаловать. Снова. | 16/10/15 | [>>6348570](https://web.archive.org/web/20151101155810/https://2ch.hk/mmo/res/6348570.html) | [m2ch](https://m2ch.cf/mmo/res/6348570.html) | |

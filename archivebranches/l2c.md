@@ -136,6 +136,7 @@
 | /mmo | Lineage 2 Classic | 22/11/14 | [>>4425223](https://m2ch.cf/mmo/res/4425223.html) | | |
 | /mmo | Lineage 2 Classic | 21/11/14 | [>>4420635](https://m2ch.cf/mmo/res/4420635.html) | | |
 | /mmo | ЛИНЕЙНАЯ КЛАССИКА 2 | 20/11/14 | [>>4413960](https://m2ch.cf/mmo/res/4413960.html) | | |
+| /mmo | Lineage 2 Classic | 20/11/14 | [>>4413959](https://m2ch.cf/mmo/res/4413959.html) | | Не взлетел |
 | /mmo | Тред превозмогающих логин на ГК и прохлаждающихся на шилке. | 19/11/14 | [>>4407871](https://m2ch.cf/mmo/res/4407871.html) | | |
 | /mmo | Lineage 2 Classic | 18/11/14 | [>>4402380](https://m2ch.cf/mmo/res/4402380.html) | | старт классика |
 | /mmo | Lineage 2 Classic | 17/11/14 | [>>4397777](https://m2ch.cf/mmo/res/4397777.html) | | старт классика |

@@ -2,6 +2,7 @@
 
 | Доска | Название | Дата | Ссылка на тред | Архив | Комментарий |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| /mmo | 12 декабря х70 averia | 23/11/14 | [>>4433572](https://m2ch.cf/mmo/res/4433572.html) | | |
 | /mmo | КП на эмеральд. | 19/08/12 | [>>841266](https://web.archive.org/web/20130224131843/http://2-ch.so/mmo/arch/res/841266.html) |  | |
 | /mmo | L2 Epilogue x2k / летний набег | 28/07/12 | [>>756055](https://web.archive.org/web/20130224124705/http://2-ch.so/mmo/arch/res/756055.html) |  | Перекат из [>>725900](https://web.archive.org/web/20130224133218/http://2-ch.so/mmo/arch/res/725900.html) |
 | /mmo | Lineage II NABEG TIME | 21/07/12 | [>>725900](https://web.archive.org/web/20130224133218/http://2-ch.so/mmo/arch/res/725900.html) |  | Перекат из [>>721653](https://web.archive.org/web/20130224194102/http://2-ch.so/mmo/arch/res/721653.html) |

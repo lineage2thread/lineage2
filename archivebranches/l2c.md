@@ -93,7 +93,7 @@
 | /mmo | LINEAGE CLASSIC | 15/01/15 | [>>4709348](https://m2ch.cf/mmo/res/4709348.html) | | |
 | /mmo | LINEAGE CLASSIC | 12/01/15 | [>>4690181](https://m2ch.cf/mmo/res/4690181.html) | | |
 | /mmo | **Lineage 2 Classic** | 06/01/15 | [>>4656100](https://m2ch.cf/mmo/res/4656100.html) | | |
-| /mmo | Что-то утонул тренд с Lineage 2 Classic | 05/01/15 | [>>4651779](https://m2ch.cf/mmo/res/4651779.html) | | Дубль, официалка l2 classic |
+| /mmo | Что-то утонул тренд с Lineage 2 Classic | 05/01/15 | [>>4651779](https://m2ch.cf/mmo/res/4651779.html) | | Дубль |
 | /mmo | Кооперация с аноном | 29/12/14 | [>>4622597](https://m2ch.cf/mmo/res/4622597.html) | | |
 | /mmo | Lineage II Classic | 26/12/14 | [>>4609360](https://m2ch.cf/mmo/res/4609360.html) | | дубль |
 | /mmo | Lineage 2 Classic | 24/12/14 | [>>4598831](https://m2ch.cf/mmo/res/4598831.html) | | |

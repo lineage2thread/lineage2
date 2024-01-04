@@ -15,6 +15,7 @@
 | /mmo | Бэфэгэ Возмездие, полдня до старта | 14/08/15 | [>>5993583](https://m2ch.cf/mmo/res/5993583.html) | | |
 | /mmo | Battles for Glory 2! | 11/08/15 | [>>5970414](https://m2ch.cf/mmo/res/5970414.html) | | |
 | /mmo | Battles for Glory 2 | 08/10/14 | [>>4176305](https://m2ch.cf/mmo/res/4176305.html) | | |
+| /mmo | BSFG2 | 22/07/14 | [>>3856985](https://m2ch.cf/mmo/res/3856985.html) | | |
 | /mmo | Battles for Glory 2 - BSFG thread № 5 | 23/06/12 | [>>648247](https://web.archive.org/web/20130224150626/http://2-ch.so/mmo/arch/res/648247.html) |  | Перекат из [>>593781](https://web.archive.org/web/20130224132725/http://2-ch.so/mmo/arch/res/593781.html) |
 | /mmo | Battles for Glory 2 - BSFG thread № 4 | 03/06/12 | [>>593781](https://web.archive.org/web/20130224132725/http://2-ch.so/mmo/arch/res/593781.html) |  |  |
 | /mmo | Battles for Glory 2 - BSFG | 15/05/12 | [>>545653](https://web.archive.org/web/20120518215304/http://2ch.so:80/mmo/res/545653.html) |  |  |

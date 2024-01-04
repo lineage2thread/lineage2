@@ -78,6 +78,7 @@
 | /mmo | LINEAGE CLASSIC | 19/08/15 | [>>6030442](https://m2ch.cf/mmo/res/6030442.html) | | |
 | /mmo | Lineage II Classic | 14/08/15 | [>>5992743](https://m2ch.cf/mmo/res/5992743.html) | | |
 | /mmo | Л2 Классик | 05/08/15 | [>>5927929](https://m2ch.cf/mmo/res/5927929.html) | | |
+| /mmo | Linage 2 classic | 03/08/15 | [>>5912879](https://m2ch.cf/mmo/res/5912879.html) | | |
 | /mmo | LINEAGE CLASSIC | 03/06/15 | [>>5575324](https://m2ch.cf/mmo/res/5575324.html) | | |
 | /mmo | LINEAGE CLASSIC | 30/04/15 | [>>5371510](https://m2ch.cf/mmo/res/5371510.html) | | |
 | /mmo | LINEAGE CLASSIC | 10/04/15 | [>>5249085](https://m2ch.cf/mmo/res/5249085.html) | | |

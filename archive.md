@@ -591,22 +591,31 @@
 | /mmo | La2 вопросов нить. | 07/11/14 | [>>4336020](https://m2ch.cf/mmo/res/4336020.html) | | Тред обсуждения игры |
 | /mmo | Обсуждаем куда врываются дестры и кого добивают хавки | 07/11/14 | [>>4335338](https://m2ch.cf/mmo/res/4335338.html) | | Официалка l2 classic |
 | /mmo | Lineage 2 Classic | 04/11/14 | [>>4314907](https://m2ch.cf/mmo/res/4314907.html) | | Официалка l2 classic |
+| /mmo | Lineage 2 Classic Kat the Cat berserker eidition | 31/10/14 | [>>4295377](https://m2ch.cf/mmo/res/4295377.html) | | Официалка l2 classic |
 | /mmo | Lineage 2 Classic | 28/10/14 | [>>4282191](https://m2ch.cf/mmo/res/4282191.html) | | Официалка l2 classic |
 | /mmo | Lineage 2 Единый | 27/10/14 | [>>4274270](https://m2ch.cf/mmo/res/4274270.html) | | Единый тред |
+| /mmo | LINEAGE KAVKAZ TEAM | 26/10/14 | [>>4269104](https://m2ch.cf/mmo/res/4269104.html) | | НАБЕГ ЗА КАВКАЗ |
 | /mmo | Lineage 2 единый | 24/10/14 | [>>4260216](https://m2ch.cf/mmo/res/4260216.html) | | Единый тред |
 | /mmo | Ламповый Interlude x15 #2 | 23/10/14 | [>>4253925](https://m2ch.cf/mmo/res/4253925.html) | | Перекат из [>>4086216](https://m2ch.cf/mmo/res/4086216.html) |
 | /mmo | Lineage 2 единый | 19/10/14 | [>>4234034](https://m2ch.cf/mmo/res/4234034.html) | | Единый тред |
 | /mmo | lineageclassic.ru C4 x3 Официальный #12 | 14/10/14 | [>>4202435](https://m2ch.cf/mmo/res/4202435.html) | | lineageclassic #12, Pineapples и все-все-все... |
 | /mmo | RPG CLUB x5 | 13/10/14 | [>>4199784](https://m2ch.cf/mmo/res/4199784.html) | | |
 | /mmo | Lineage c4 x3 | 11/10/14 | [>>4188813](https://m2ch.cf/mmo/res/4188813.html) | | |
+| /mmo | Battles for Glory 2 | 08/10/14 | [>>4176305](https://m2ch.cf/mmo/res/4176305.html) | | |
 | /mmo | Lineage 2 единый | 04/10/14 | [>>4158916](https://m2ch.cf/mmo/res/4158916.html) | | Единый тред |
 | /mmo | Lineage C4 Официальный #11 | 30/09/14 | [>>4144241](https://m2ch.cf/mmo/res/4144241.html) | | lineageclassic #11, Pineapples и все-все-все... |
+| /mmo | Lineage/la2/l2/rpg-club x5 | 24/09/14 | [>>4114615](https://m2ch.cf/mmo/res/4114615.html) | | |
 | /mmo | Lineage C4 Официальный #10 | 20/09/14 | [>>4099524](https://m2ch.cf/mmo/res/4099524.html) | | lineageclassic #10, Pineapples и все-все-все... |
+| /mmo | Lineage 2 Melcosoft interlude x1 нить2 | 19/09/14 | [>>4094187](https://m2ch.cf/mmo/res/4094187.html) | | Перекат из [>>3968552](https://m2ch.cf/mmo/res/3968552.html) |
 | /mmo | Lineage Two Interlude Thread. Всем по ламповому интерл | 17/09/14 | [>>4086216](https://m2ch.cf/mmo/res/4086216.html) | | |
 | /mmo | Девятый официальный тред о классических хрониках. Сервер Lineageclassic.ru C4 x3 | 15/09/14 | [>>4079913](https://m2ch.cf/mmo/res/4079913.html) | | lineageclassic #9, Pineapples и все-все-все... |
+| /mmo | Аутизм. ММО. | 05/09/14 | [>>4043846](https://m2ch.cf/mmo/res/4043846.html) | | Тред обсуждения игры |
+| /mmo | LA2 anderia.ws x50 hf | 05/09/14 | [>>4043206](https://m2ch.cf/mmo/res/4043206.html) | | |
 | /mmo | Lineage 2 x3 Official | 03/09/14 | [>>4032777](https://m2ch.cf/mmo/res/4032777.html) | | lineageclassic #8, Pineapples и все-все-все... |
 | /mmo | Lineage.ru Interlude x7 | 01/09/14 | [>>4026525](https://m2ch.cf/mmo/res/4026525.html) | | |
-| /mmo | Тут буквально 29 августа открывается новый Астериос | 27/08/14 | [>>4005531](https://m2ch.cf/mmo/res/4005531.html) | | |
+| /mmo | L2 Classic thread Стартует здесь! | 28/08/14 | [>>4012021](https://m2ch.cf/mmo/res/4012021.html) | | Официалка l2 classic |
+| /mmo | Тут буквально 29 августа открывается новый Астериос | 27/08/14 | [>>4005531](https://m2ch.cf/mmo/res/4005531.html) | | Перекат из [>>4005144](https://m2ch.cf/mmo/res/4005144.html) |
+| /mmo | Asterios x7 | 26/08/14 | [>>4005144](https://m2ch.cf/mmo/res/4005144.html) | | |
 | /mmo | Lineage 2. Единый. Первый. | 26/08/14 | [>>4003885](https://m2ch.cf/mmo/res/4003885.html) | | Единый тред |
 | /mmo | INTERLUDE ENGLES PLES | 18/08/14 | [>>3971197](https://m2ch.cf/mmo/res/3971197.html) | | Перекат из [>>3940111](https://m2ch.cf/mmo/res/3940111.html) |
 | /mmo | Lineage 2 Melcosoft interlude x1 | 18/08/14 | [>>3968552](https://m2ch.cf/mmo/res/3968552.html) | | |
@@ -617,11 +626,14 @@
 | /mmo | ХФ х30 Defo | 07/08/14 | [>>3920161](https://m2ch.cf/mmo/res/3920161.html) | | |
 | /mmo | Lineageclassic.ru | 06/08/14 | [>>3913042](https://m2ch.cf/mmo/res/3913042.html) | | lineageclassic #5, Pineapples и все-все-все... |
 | /mmo | Lineageclassic.ru | 04/08/14 | [>>3908085](https://m2ch.cf/mmo/res/3908085.html) | | lineageclassic #4, Pineapples и все-все-все... |
+| /mmo | Онаны, никто не хочет в L2 C3 сыграть? x35 сервер | 04/08/14 | [>>3906218](https://m2ch.cf/mmo/res/3906218.html) | | |
 | /mmo | Pineapple Army | 02/08/14 | [>>3898549](https://m2ch.cf/mmo/res/3898549.html) | | lineageclassic, дубль |
 | /mmo | PinappleArmy | 31/07/14 | [>>3893439](https://m2ch.cf/mmo/res/3893439.html) | | lineageclassic #3, Pineapples и все-все-все... |
 | /mmo | L2 RUOFF | 31/07/14 | [>>3892025](https://m2ch.cf/mmo/res/3892025.html) | | |
 | /mmo | PinappleArmy | 28/07/14 | [>>3881139](https://m2ch.cf/mmo/res/3881139.html) | | lineageclassic #2, Pineapples и все-все-все... |
+| /mmo | Сессионная линеечка | 27/07/14 | [>>3875852](https://m2ch.cf/mmo/res/3875852.html) | | |
 | /mmo | Pinapple Army | 23/07/14 | [>>3863689](https://m2ch.cf/mmo/res/3863689.html) | | lineageclassic #1, Pineapples и все-все-все... |
+| /mmo | BSFG2 | 22/07/14 | [>>3856985](https://m2ch.cf/mmo/res/3856985.html) | | |
 | /mmo | [b]НАБЕГА НА Х1200 НИТЬ ИДИ[/b] | 20/07/14 | [>>3851734](https://m2ch.cf/mmo/res/3851734.html) | | НАБЕГ ЗА КАВКАЗ fail |
 | /mmo | Lineageclassic.ru x3 | 15/07/14 | [>>3837710](https://m2ch.cf/mmo/res/3837710.html) | | lineageclassic #0, Pineapples и все-все-все... |
 | /mmo | Lineage kak v 2007 classic | 27/06/14 | [>>3784818](https://m2ch.cf/mmo/res/3784818.html) | | Сие есть пошло название PineappleArmy [>>3836235](https://m2ch.cf/mmo/res/3784818.html#3836235)|

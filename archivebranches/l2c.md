@@ -99,6 +99,7 @@
 | /mmo | Lineage 2 Classic | 24/12/14 | [>>4598831](https://m2ch.cf/mmo/res/4598831.html) | | |
 | /mmo | Lineage II Classic | 24/12/14 | [>>4597690](https://m2ch.cf/mmo/res/4597690.html) | | дубль |
 | /mmo | Lineage 2 Classic | 22/12/14 | [>>4589853](https://m2ch.cf/mmo/res/4589853.html) | | |
+| /mmo | lineage 2 classic | 19/12/14 | [>>4576795](https://m2ch.cf/mmo/res/4576795.html) | | Дубль |
 | /mmo | Lineage 2 Classic | 19/12/14 | [>>4576104](https://m2ch.cf/mmo/res/4576104.html) | | |
 | /mmo | Lineage 2 Classic | 17/12/14 | [>>4565833](https://m2ch.cf/mmo/res/4565833.html) | | |
 | /mmo | Lineage 2 Classic | 15/12/14 | [>>4556950](https://m2ch.cf/mmo/res/4556950.html) | | |

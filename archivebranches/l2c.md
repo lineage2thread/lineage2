@@ -148,6 +148,7 @@
 | /mmo | Lineage 2 единый | 24/10/14 | [>>4260216](https://m2ch.cf/mmo/res/4260216.html) | | Единый тред #4 |
 | /mmo | Lineage 2 единый | 19/10/14 | [>>4234034](https://m2ch.cf/mmo/res/4234034.html) | | Единый тред #3 |
 | /mmo | Lineage 2 единый | 04/10/14 | [>>4158916](https://m2ch.cf/mmo/res/4158916.html) | | Единый тред #2 |
+| /mmo | L2 Classic thread Стартует здесь! | 28/08/14 | [>>4012021](https://m2ch.cf/mmo/res/4012021.html) | | |
 | /mmo | Lineage 2. Единый. Первый. | 26/08/14 | [>>4003885](https://m2ch.cf/mmo/res/4003885.html) | | Единый тред #1 |
 
 |[↩️](https://github.com/lineage2thread/lineage2/blob/main/header.md)|[📆](https://github.com/lineage2thread/lineage2/blob/main/archive.md)|

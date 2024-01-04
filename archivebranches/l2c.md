@@ -143,6 +143,7 @@
 | /mmo | Lineage 2 Classic №3 | 12/11/14 | [>>4363784](https://m2ch.cf/mmo/res/4363784.html) | | |
 | /mmo | Обсуждаем куда врываются дестры и кого добивают хавки | 07/11/14 | [>>4335338](https://m2ch.cf/mmo/res/4335338.html) | | |
 | /mmo | Lineage 2 Classic | 04/11/14 | [>>4314907](https://m2ch.cf/mmo/res/4314907.html) | | |
+| /mmo | Lineage 2 Classic Kat the Cat berserker eidition | 31/10/14 | [>>4295377](https://m2ch.cf/mmo/res/4295377.html) | | Официалка l2 classic |
 | /mmo | Lineage 2 Classic | 28/10/14 | [>>4282191](https://m2ch.cf/mmo/res/4282191.html) | | Единый тред превратился в тред обсуждения l2c |
 | /mmo | Lineage 2 единый | 24/10/14 | [>>4260216](https://m2ch.cf/mmo/res/4260216.html) | | Единый тред #4 |
 | /mmo | Lineage 2 единый | 19/10/14 | [>>4234034](https://m2ch.cf/mmo/res/4234034.html) | | Единый тред #3 |

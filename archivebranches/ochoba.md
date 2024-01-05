@@ -18,6 +18,16 @@
 | /mmo | NoOfficial Lineage II Thread - 3 ▲ | 11/01/12 | [>>257470](https://web.archive.org/web/20120116145939/http://2ch.so:80/mmo/res/257470.html) |  | Перекат из [>>249142](https://web.archive.org/web/20120113214127/http://2ch.so:80/mmo/res/249142.html) |
 | /mmo | ЗИМНИЙ НАБЕГ LA2 №2 | 08/01/12 | [>>249142](https://web.archive.org/web/20120113214127/http://2ch.so:80/mmo/res/249142.html) |  |  |
 | /mmo | ПЕРЕКААТ х1000 SHIMI | 01/10/11 | [>>80917](https://web.archive.org/web/20111002061451/http://2ch.so:80/mmo/res/80917.html) |  |  |
+ /vg | nanogame.org тред номер 10 | 18/08/11 | [>>1150416](https://web.archive.org/web/20120604144434/http://2-ch.so/vg/arch/res/1150416.html) | | Перекат из [>>1124985](https://web.archive.org/web/20120604225242/http://2-ch.so/vg/arch/res/1124985.html), давка всех линейщиков в /mmo 24.08.11 |
+| /vg | NANOGAME - 9 | 15/08/11 | [>>1124985](https://web.archive.org/web/20120604225242/http://2-ch.so/vg/arch/res/1124985.html) | | Перекат из [>>1089499](https://web.archive.org/web/20120605031614/http://2-ch.so/vg/arch/res/1089499.html) |
+| /vg | L2 Nanogame-набег-8 | 09/08/11 | [>>1089499](https://web.archive.org/web/20120605031614/http://2-ch.so/vg/arch/res/1089499.html) | | Перекат из [>>1068940](https://web.archive.org/web/20120605091624/http://2-ch.so/vg/arch/res/1068940.html) |
+| /vg | L2 Nanogame-набег-7 | 06/08/11 | [>>1068940](https://web.archive.org/web/20120605091624/http://2-ch.so/vg/arch/res/1068940.html) | | Перекат из [>>1022110](https://web.archive.org/web/20120603205003/http://2-ch.so/vg/arch/res/1022110.html) |
+| /vg | L2 Nanogame-набег. | 30/07/11 | [>>1022110](https://web.archive.org/web/20120603205003/http://2-ch.so/vg/arch/res/1022110.html) | | Прошлый перекат проебан архивом |
+| /vg | Lineage II | 13/07/11 | [>>899474](https://web.archive.org/web/20111123143940/http://2ch.so/vg/arch/res/899474.html) | | Перекат из [>>870693](https://web.archive.org/web/20111123050141/http://2ch.so/vg/arch/res/870693.html) |
+| /vg | НАНОГЕЙМ | 10/07/11 | [>>884563](https://web.archive.org/web/20111123152006/http://2ch.so/vg/arch/res/884563.html) | | Дубль |
+| /vg | Lineage II NABEGA4 | 08/07/11 | [>>870693](https://web.archive.org/web/20111123050141/http://2ch.so/vg/arch/res/870693.html) | | |
+| /vg | lа - 2 threаd | 08/07/11 | [>>870442](https://web.archive.org/web/20111123170941/http://2ch.so/vg/arch/res/870442.html) | | |
+| /vg | Новый ла2-тред | 01/07/11 | [>>829932](https://web.archive.org/web/20111123150454/http://2ch.so/vg/arch/res/829932.html) | | |
 
 
 

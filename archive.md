@@ -899,16 +899,16 @@
 | /vg | Воровство в интернетах | 07/10/11 | [>>1419513](https://web.archive.org/web/20120604090501/http://2-ch.so/vg/arch/res/1419513.html) | | УКРАЛИ ОРКА! ШОК! |
 | /mmo | LINEAGE ASTERIOS 馬鹿 | 07/10/11 | [>>90125](https://web.archive.org/web/20111012031352/http://2ch.so:80/mmo/res/90125.html) |  |  |
 | /mmo | ПЕРЕКААТ х1000 SHIMI | 01/10/11 | [>>80917](https://web.archive.org/web/20111002061451/http://2ch.so:80/mmo/res/80917.html) |  | Очоба |
-| /vg | nanogame.org тред номер 10 | 18/08/11 | [>>1150416](https://web.archive.org/web/20120604144434/http://2-ch.so/vg/arch/res/1150416.html) | | Очоба, перекат из [>>1124985](https://web.archive.org/web/20120604225242/http://2-ch.so/vg/arch/res/1124985.html), давка всех линейщиков в /mmo 24.08.11 |
-| /vg | Официальный Lineage II тред | 18/08/11 | [>>1150143](https://web.archive.org/web/20120604155655/http://2-ch.so/vg/arch/res/1150143.html) | | Руофф |
+| /vg | nanogame.org тред номер 10 | 18/08/11 | [>>1150416](https://web.archive.org/web/20120604144434/http://2-ch.so/vg/arch/res/1150416.html) | | Очоба, перекат из [>>1124985](https://web.archive.org/web/20130520131057/http://2ch.hk/vg/arch/res/1124985.html), давка всех линейщиков в /mmo 24.08.11 |
+| /vg | Официальный Lineage II тред | 18/08/11 | [>>1150143](https://web.archive.org/web/20130520071539/http://2ch.hk/vg/arch/res/1150143.html) | | Руофф |
 | /vg | l2c1.ru | 17/08/11 | [>>1146948](https://web.archive.org/web/20120603192012/http://2-ch.so/vg/arch/res/1146948.html) | |  |
 | /vg | l2 боги, загляните | 15/08/11 | [>>1126547](https://web.archive.org/web/20120603173209/http://2-ch.so/vg/arch/res/1126547.html) | | Тред обсуждения игры |
-| /vg | NANOGAME - 9 | 15/08/11 | [>>1124985](https://web.archive.org/web/20120604225242/http://2-ch.so/vg/arch/res/1124985.html) | | Очоба, перекат из [>>1089499](https://web.archive.org/web/20120605031614/http://2-ch.so/vg/arch/res/1089499.html) |
-| /vg | L2 Nanogame-набег-8 | 09/08/11 | [>>1089499](https://web.archive.org/web/20120605031614/http://2-ch.so/vg/arch/res/1089499.html) | | Очоба, перекат из [>>1068940](https://web.archive.org/web/20120605091624/http://2-ch.so/vg/arch/res/1068940.html) |
+| /vg | NANOGAME - 9 | 15/08/11 | [>>1124985](https://web.archive.org/web/20130520131057/http://2ch.hk/vg/arch/res/1124985.html) | | Очоба, перекат из [>>1089499](https://web.archive.org/web/20130518162220/http://2ch.hk/vg/arch/res/1089499.html) |
+| /vg | L2 Nanogame-набег-8 | 09/08/11 | [>>1089499](https://web.archive.org/web/20130518162220/http://2ch.hk/vg/arch/res/1089499.html) | | Очоба, перекат из [>>1068940](https://web.archive.org/web/20120605091624/http://2-ch.so/vg/arch/res/1068940.html) |
 | /vg | Lineage 2 c4 thread | 09/08/11 | [>>1087714](https://web.archive.org/web/20120604223827/http://2-ch.so/vg/arch/res/1087714.html) | |  |
 | /vg | Здесь будет ТРЕД ЛИНЕЙКОБОГОВ | 06/08/11 | [>>1069848](https://web.archive.org/web/20120603195738/http://2-ch.so/vg/arch/res/1069848.html) | | Тред обсуждения игры |
-| /vg | L2 Nanogame-набег-7 | 06/08/11 | [>>1068940](https://web.archive.org/web/20120605091624/http://2-ch.so/vg/arch/res/1068940.html) | | Очоба, перекат из [>>1022110](https://web.archive.org/web/20120603205003/http://2-ch.so/vg/arch/res/1022110.html) |
-| /vg | L2 Nanogame-набег. | 30/07/11 | [>>1022110](https://web.archive.org/web/20120603205003/http://2-ch.so/vg/arch/res/1022110.html) | | Очоба, прошлый перекат проебан архивом |
+| /vg | L2 Nanogame-набег-7 | 06/08/11 | [>>1068940](https://web.archive.org/web/20120605091624/http://2-ch.so/vg/arch/res/1068940.html) | | Очоба, перекат из [>>1022110](https://web.archive.org/web/20130518170433/http://2ch.hk/vg/arch/res/1022110.html) |
+| /vg | L2 Nanogame-набег. | 30/07/11 | [>>1022110](https://web.archive.org/web/20130518170433/http://2ch.hk/vg/arch/res/1022110.html) | | Очоба, прошлый перекат проебан архивом |
 | /vg | Lineage 2 лучшая игра?! | 29/07/11 | [>>1011926](https://web.archive.org/web/20120605093955/http://2-ch.so/vg/arch/res/1011926.html) | | Тред обсуждения игры |
 | /vg | L2PRIME | 16/07/11 | [>>921596](https://web.archive.org/web/20111123195436/http://2ch.so/vg/arch/res/921596.html) | |  |
 | /vg | Lineage II | 13/07/11 | [>>899474](https://web.archive.org/web/20111123143940/http://2ch.so/vg/arch/res/899474.html) | | Очоба, перекат из [>>870693](https://web.archive.org/web/20111123050141/http://2ch.so/vg/arch/res/870693.html) |

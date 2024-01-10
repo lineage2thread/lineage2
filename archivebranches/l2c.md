@@ -30,8 +30,8 @@
 | /vg | Lineage 2 Classic: Официальный, Эйнхасадский, Твой. | 31/08/17 | [>>23631888](https://2ch.hk/vg/arch/2017-09-06/res/23631888.html) | | |
 | /vg | Lineage 2 Classic: с попочками перекатывай сам | 27/08/17 | [>>23586795](https://2ch.hk/vg/arch/2017-09-01/res/23586795.html) | | |
 | /vg | Lineage 2 Classic: Ленивый Перекат Идишон | 23/08/17 | [>>23528194](https://2ch.hk/vg/arch/2017-08-29/res/23528194.html) | | |
-| /vg | Lineage 2 Classic: Хочется Облизать Идишн | 13/08/17 | [>>23404075](https://2ch.hk/vg/arch/2017-08-26/res/23404075.html) | | /l2c, перекат из [>>...]() |
-| /vg |  | 01/08/17 | [>>...]() | | /l2c, перекат из [>>23080764](https://2ch.hk/vg/arch/2017-07-21/res/23080764.html) |
+| /vg | Lineage 2 Classic: Хочется Облизать Идишн | 13/08/17 | [>>23404075](https://2ch.hk/vg/arch/2017-08-26/res/23404075.html) | | |
+| /vg | Lineage II Classic | 30/07/17 | [>>23211250](https://m2ch.cf/vg/res/23211250.html) | | |
 | /vg | Lineage 2 Classic: Подозрительных гномочек тред | 19/07/17 | [>>23080764](https://2ch.hk/vg/arch/2017-07-21/res/23080764.html) | | Дубль |
 | /vg | Lineage II Classic | 19/07/17 | [>>23080717](https://2ch.hk/vg/arch/2017-08-01/res/23080717.html) | | |
 | /vg | Lineage II Classic без хуйни | 12/07/17 | [>>23001132](https://2ch.hk/vg/arch/2017-07-21/res/23001132.html) | | |

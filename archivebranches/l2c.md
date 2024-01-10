@@ -74,6 +74,7 @@
 | /mmo | [РуоФФ] Lineage 2 Classic | 17/04/16 | [>>6502367](https://2ch.hk/mmo/res/6502367.html) | | |
 | /vg | Lineage2 classic | 13/04/16 | [>>16390482](https://2ch.hk/vg/arch/2016-04-13/res/16390482.html) | | Переехал в /mmo |
 | /vg | Восскресший из пепла Lineage2 Classic тред | 06/04/16 | [>>16236889](https://2ch.hk/vg/arch/2016-04-06/res/16236889.html) | | Первый /l2c |
+| /vg | Lineage 2 Classic РуОфф | 12/02/16 | [>>15085722](https://m2ch.cf/vg/res/15085722.html) | | |
 | /mmo | Lineage 2 Classic. Добро пожаловать. Снова.(ОФ) | 27/11/15 | [>>6416599](https://web.archive.org/web/20151203004903/https://2ch.hk/mmo/res/6416599.html) | | Последний EU Classic |
 | /mmo | Lineage 2 Classic. Добро пожаловать. Снова. | 16/11/15 | [>>6405165](https://web.archive.org/web/20151203004906/https://2ch.hk/mmo/res/6405165.html) | | |
 | /mmo | Lineage 2 Classic. Добро пожаловать. Снова. | 01/11/15 | [>>6396284](https://web.archive.org/web/20151101232456/https://2ch.hk/mmo/res/6396284.html) | | Патомушта здесь УЛЬТРА КЛАССЕКАХАДКОР, ЁБАНА! |

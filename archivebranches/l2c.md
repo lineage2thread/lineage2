@@ -57,11 +57,20 @@
 | /vg | Lineage II Classic без раковых мемов | 14/12/16 | [>>20229391](https://2ch.hk/vg/arch/2017-01-02/res/20229391.html) | | |
 | /vg | Lineage II Classic thread MEME edition | 16/11/16 | [>>19846225](https://2ch.hk/vg/arch/2016-12-15/res/19846225.html) | | |
 | /vg | Lineage II Classic thread /loginserver edition | 26/10/16 | [>>19553455](https://2ch.hk/vg/arch/2016-11-17/res/19553455.html) | | |
-| /vg | Lineage 2 Classic тред | 07/10/16 | [>>19308974](https://2ch.hk/vg/arch/2016-10-27/res/19308974.html) | | Перекат из [>>](...) |
+| /vg | Lineage 2 Classic тред | 07/10/16 | [>>19308974](https://2ch.hk/vg/arch/2016-10-27/res/19308974.html) | | |
+| /vg | Lineage 2 Classic Хуй знает какой уже тред | 18/09/16 | [>>19127330](https://m2ch.cf/vg/res/19127330.html) | | |
+| /vg | Lineage2 Classic | 09/09/16 | [>>19019581](https://m2ch.cf/vg/res/19019581.html) | | |
+| /vg | Lineage Classic тред за номером 10 meme edition | 01/09/16 | [>>18904694](https://m2ch.cf/vg/res/18904694.html) | | |
+| /vg | Оффициальный, имени святых Лайтфула и ПьераВудмана трижды краснознаменный Lineage Classic тред за номером 9 | 25/08/16 | [>>18800983](https://m2ch.cf/vg/res/18800983.html) | | |
+| /vg | Официальный Lineage II Classic тред #8 | 20/08/16 | [>>18711460](https://m2ch.cf/vg/res/18711460.html) | | |
+| /vg | Официальный Lineage II Classic тред #7 | 14/08/16 | [>>18623144](https://m2ch.cf/vg/res/18623144.html) | | |
+| /vg | Официальный Lineage II Classic тред #5 | 09/08/16 | [>>18517775](https://m2ch.cf/vg/res/18517775.html) | | |
 | /vg | Официальный Lineage II Classic тред #5 | 05/08/16 | [>>18451753](https://m2ch.cf/vg/res/18451753.html) | | |
 | /vg | Официальный Lineage II Classic тред #4 | 02/08/16 | [>>18410544](https://m2ch.cf/vg/res/18410544.html) | | |
 | /vg | Официальный Lineage II Classic тред #3 | 27/07/16 | [>>18330381](https://m2ch.cf/vg/res/18330381.html) | | Перекат из /mmo |
+| /vg | Оффициальный™ Lineage ][ Classic тред #2 | 19/07/16 | [>>18202854](https://m2ch.cf/vg/res/18202854.html) | | /l2c, дубль из /mmo, [>>6508333](https://2ch.hk/mmo/res/6508333.html) |
 | /mmo | Lineage II Classic thread | 11/07/16 | [>>6508333](https://2ch.hk/mmo/res/6508333.html) | [Архивач](http://arhivach.ng/thread/251498/) | |
+| /vg | Оффициальный™ Lineage ][ Classic тред #1 | 12/06/16 | [>>18098909](https://m2ch.cf/vg/res/18098909.html) | | /l2c |
 | /mmo | [РуоФФ] Lineage 2 Classic | 17/04/16 | [>>6502367](https://2ch.hk/mmo/res/6502367.html) | | |
 | /vg | Lineage2 classic | 13/04/16 | [>>16390482](https://2ch.hk/vg/arch/2016-04-13/res/16390482.html) | | Переехал в /mmo |
 | /vg | Восскресший из пепла Lineage2 Classic тред | 06/04/16 | [>>16236889](https://2ch.hk/vg/arch/2016-04-06/res/16236889.html) | | Первый /l2c |

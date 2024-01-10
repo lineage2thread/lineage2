@@ -343,12 +343,13 @@
 | /vg | Lineage II Classic thread /loginserver edition | 26/10/16 | [>>19553455](https://2ch.hk/vg/arch/2016-11-17/res/19553455.html) | | /l2c, перекат из [>>19308974](https://2ch.hk/vg/arch/2016-10-27/res/19308974.html) |
 | /mmo | Lineage.ru x7 interlude старт 4 ноября | 25/10/16 | [>>6517093](https://2ch.hk/mmo/res/6517093.html) | | |
 | /mmo | PvP сервер х30 от проекта Averia.ws | 21/10/16 | [>>6516927](https://2ch.hk/mmo/res/6516927.html) | | |
-| /vg | Lineage 2 Classic тред | 07/10/16 | [>>19308974](https://2ch.hk/vg/arch/2016-10-27/res/19308974.html) | | /l2c, перекат из [>>](...) |
+| /vg | Lineage 2 Classic тред | 07/10/16 | [>>19308974](https://2ch.hk/vg/arch/2016-10-27/res/19308974.html) | | /l2c, перекат из [>>19127330](https://m2ch.cf/vg/res/19127330.html) |
 | /mmo | Interlude x1200 | 30/09/16 | [>>6515835](https://2ch.hk/mmo//res/6515835.html) | | |
 | /mmo | LineageClassic.ru Gracia Final x3 PTS | 28/09/16 | [>>6515704](https://2ch.hk/mmo/res/6515704.html) | | |
 | /mmo | Rpg-club.ru GF x5 Rpg-club.ru GF x5 | 22/09/16 | [>>6515418](https://2ch.hk/mmo/res/6515418.html) | | |
 | /mmo | E-global x7 Gracia Final #2 | 22/09/16 | [>>6515394](https://2ch.hk/mmo/res/6515394.html) | | YOBA + pnpl |
 | /mmo | Рейт мой роллер для линейки, господа. | 21/09/16 | [>>6515341](https://2ch.hk/mmo/res/6515341.html) | | Рулеточка |
+| /vg | Lineage 2 Classic Хуй знает какой уже тред | 18/09/16 | [>>19127330](https://m2ch.cf/vg/res/19127330.html) | | /l2c, перекат из [>>19019581](https://m2ch.cf/vg/res/19019581.html) |
 | /mmo | Городской ламповый Интерлюд | 16/09/16 | [>>6514891](https://2ch.hk/mmo/res/6514891.html) | | |
 | /mmo | НОСТАЛЬГИИ Л2 ТРЕД! | 16/09/16 | [>>6514887](https://2ch.hk/mmo/res/6514887.html) | | Тред обсуждения игры |
 | /mmo | LA2HARD classic x3 P.I.N.E.-muthefucka-APPLES imam edition | 15/09/16 | [>>6514634](https://2ch.hk/mmo/res/6514634.html) | [Архивач](http://arhivach.ng/thread/206612/) | pnpl; А какой смысл сливать проценты просто так? [>>6514825](https://2ch.hk/mmo/res/6514634.html#6514825) |
@@ -356,15 +357,21 @@
 | /mmo | L2CLASSIC.CLUB x3 Classic VARNISH GAYMING №3 | 12/09/16 | [>>6514247](https://2ch.hk/mmo/res/6514247.html) | | Varnish; устав клана [>>6514302](https://2ch.hk/mmo/res/6514247.html#6514302) и "Игра не смотри на варнишепетуха" [>>6514474](https://2ch.hk/mmo/res/6514247.html#6514474) |
 | /mmo | Battles for Glory / Битвы за славу / BsFG / БФУГ | 12/09/16 | [>>6514209](https://2ch.hk/mmo/res/6514209.html) | | Перекот из [>>6512046](https://2ch.hk/mmo/res/6512046.html) |
 | /mmo | E-global x7 Gracia Final | 10/09/16 | [>>6513726](https://2ch.hk/mmo/res/6513726.html) | | YOBA |
+| /vg | Lineage2 Classic | 09/09/16 | [>>19019581](https://m2ch.cf/vg/res/19019581.html) | | /l2c, перекат из [>>18904694](https://m2ch.cf/vg/res/18904694.html) |
 | /mmo | l2toxic.com | 06/09/16 | [>>6513166](https://2ch.hk/mmo/res/6513166.html) | | |
 | /mmo | L2CLASSIC.CLUB x3 Classic VARNISH GAYMING №2 | 02/09/16 | [>>6512497](https://2ch.hk/mmo/res/6512497.html) | | Varnish |
+| /vg | Lineage Classic тред за номером 10 meme edition | 01/09/16 | [>>18904694](https://m2ch.cf/vg/res/18904694.html) | | /l2c, перекат из [>>18800983](https://m2ch.cf/vg/res/18800983.html) |
 | /mmo | Тред мода/переделки оригинальной лайнейдж | 30/08/16 | [>>6512046](https://2ch.hk/mmo/res/6512046.html) | | |
 | /mmo | L2Aeron | 29/08/16 | [>>6511867](https://2ch.hk/mmo/res/6511867.html) | | |
 | /mmo | L2CLASSIC.CLUB x3 Classic VARNISH GAYMING | 26/08/16 | [>>6511223](https://2ch.hk/mmo/res/6511223.html) | | Varnish; kak je ebowit [>>6512279](https://2ch.hk/mmo/res/6511223.html#6512279) |
+| /vg | Оффициальный, имени святых Лайтфула и ПьераВудмана трижды краснознаменный Lineage Classic тред за номером 9 | 25/08/16 | [>>18800983](https://m2ch.cf/vg/res/18800983.html) | | /l2c, перекат из [>>18711460](https://m2ch.cf/vg/res/18711460.html) |
 | /mmo | Lineage 2 classic на х3 фришке П.Е.Д.И.К.И edition | 24/08/16 | [>>6510992](https://2ch.hk/mmo/res/6510992.html) | | pnpl La2Hard |
 | /mmo | Asterios x7 | 20/08/16 | [>>6510720](https://2ch.hk/mmo/res/6510720.html) | | |
+| /vg | Официальный Lineage II Classic тред #8 | 20/08/16 | [>>18711460](https://m2ch.cf/vg/res/18711460.html) | | /l2c, перекат из [>>18623144](https://m2ch.cf/vg/res/18623144.html) |
 | /mmo | Я просто оставлю это здесь | 16/08/16 | [>>6510457](https://2ch.hk/mmo/res/6510457.html) | | La2Hard |
+| /vg | Официальный Lineage II Classic тред #7 | 14/08/16 | [>>18623144](https://m2ch.cf/vg/res/18623144.html) | | /l2c, перекат из [>>18623144](https://m2ch.cf/vg/res/18623144.html) |
 | /mmo | Линейдж набега на высокие рейты тред | 13/08/16 | [>>6510314](https://2ch.hk/mmo/res/6510314.html) | | Тред поиска сервера |
+| /vg | Официальный Lineage II Classic тред #5 | 09/08/16 | [>>18517775](https://m2ch.cf/vg/res/18517775.html) | | /l2c, перекат из [>>18451753](https://m2ch.cf/vg/res/18451753.html) |
 | /mmo | Lineagetwo.ru [Autism Edition] interlude x7 | 08/08/16 | [>>6510065](https://2ch.hk/mmo/res/6510065.html) | | Autism |
 | /mmo | Lineage 2 - ХОРОШИЕ фришки | 06/08/16 | [>>6509973](https://2ch.hk/mmo/res/6509973.html) | | Тред поиска сервера |
 | /vg | Официальный Lineage II Classic тред #5 | 05/08/16 | [>>18451753](https://m2ch.cf/vg/res/18451753.html) | | /l2c, перекат из [>>18410544](https://m2ch.cf/vg/res/18410544.html) |
@@ -376,31 +383,36 @@
 | /mmo | l2 | 27/07/16 | [>>6509290](https://2ch.hk/mmo/res/6509290.html) | | Тред поиска сервера |
 | /mmo | Classic 1.5 - Talking Island x3 Lineage II | 25/07/16 | [>>6509113](https://2ch.hk/mmo/res/6509113.html) | | |
 | /mmo | LINEAGE 2 HF X50 | 21/07/16 | [>>6508886](https://2ch.hk/mmo/res/6508886.html) | | l2destinyws |
+| /vg | Оффициальный™ Lineage ][ Classic тред #2 | 19/07/16 | [>>18202854](https://m2ch.cf/vg/res/18202854.html) | | /l2c, дубль из /mmo, [>>6508333](https://2ch.hk/mmo/res/6508333.html) |
 | /vg | Оффициальный™ Lineage ][ general тред #2 | 18/07/16 | [>>18200069](https://2ch.hk/vg/arch/2016-07-22/res/18200069.html) | | Общий тред, выгнали в /mmo, причина: [>>381583](https://2ch.hk/d/arch/2016-08-06/res/381583.html) |
 | /d | В vg треде по Lineage 2 classic моча не работает нихуя | 14/07/16 | [>>381583](https://2ch.hk/d/arch/2016-08-06/res/381583.html) | | |
-| /mmo | Lineage II Classic thread | 11/07/16 | [>>6508333](https://2ch.hk/mmo/res/6508333.html) | [Архивач](http://arhivach.ng/thread/251498/) | /l2c, перекат из [>>6502367](https://2ch.hk/mmo/res/6502367.html) |
+| /mmo | Lineage II Classic thread | 11/07/16 | [>>6508333](https://2ch.hk/mmo/res/6508333.html) | [Архивач](http://arhivach.ng/thread/251498/) | /l2c, перекат из [>>6502367](https://2ch.hk/mmo/res/6502367.html), переехали в /vg |
 | /mmo | `http://lineagetwo.ru/` | 09/07/16 | [>>6508150](https://2ch.hk/mmo/res/6508150.html) | | |
 | /mmo | Lineage 2 | 04/07/16 | [>>6507443](https://2ch.hk/mmo/res/6507443.html) | | Тред поиска напарника |
 | /mmo | Штабильная долгоиграющая Линейка | 03/07/16 | [>>6507365](https://2ch.hk/mmo/res/6507365.html) | | l2dawn |
-| /vg | Lineage II Interlude | 02/07/16 | [>>17961759](https://2ch.hk/vg/arch/2016-07-14/res/17961759.html) | | YOBA + KUKAN TAIN, перекат из [>>17821484](https://m2ch.cf/vg/res/17821484.html) |
+| /vg | Lineage II Interlude | 02/07/16 | [>>17961759](https://2ch.hk/vg/arch/2016-07-14/res/17961759.html) | [m2ch](https://m2ch.cf/vg/res/17961759.html) | YOBA + Манямирок, перекат из [>>17821484](https://m2ch.cf/vg/res/17821484.html) |
 | /mmo | Lineage лоу-рейт. | 28/06/16 | [>>6507123](https://2ch.hk/mmo/res/6507123.html) | | Тред поиска сервера |
 | /mmo | Lineageclassic.ru GF x7 | 26/06/16 | [>>6507016](https://2ch.hk/mmo/res/6507016.html) | | |
 | /mmo | scryde.ru x10 | 24/06/16 | [>>6506902](https://2ch.hk/mmo/res/6506902.html) | | |
-| /vg | Lineage II Interlude | 22/06/16 | [>>17821484](https://m2ch.cf/vg/res/17821484.html) | | YOBA + KUKAN TAIN, перекат из [>>17606819](https://m2ch.cf/vg/res/17606819.html) |
+| /vg | Lineage II Interlude | 22/06/16 | [>>17821484](https://m2ch.cf/vg/res/17821484.html) | | YOBA + Манямирок, перекат из [>>17709458](https://m2ch.cf/vg/res/17709458.html) |
 | /mmo | Lineage2 ГФШ х1200 | 20/06/16 | [>>6506669](https://2ch.hk/mmo/res/6506669.html) | | НАБЕГ ЗА КАВКАЗ (fail) |
+| /vg | Lineage II Interlude | 15/06/16 | [>>17709458](https://m2ch.cf/vg/res/17709458.html) | | YOBA + Манямирок, перекат из [>>17606819](https://m2ch.cf/vg/res/17606819.html) |
 | /mmo | Interlude.su №2 | 14/06/16 | [>>6506176](https://2ch.hk/mmo/res/6506176.html) | | Перекат из [>>6505492](https://2ch.hk/mmo/res/6505492.html) |
+| /vg | Оффициальный™ Lineage ][ Classic тред #1 | 12/06/16 | [>>18098909](https://m2ch.cf/vg/res/18098909.html) | | /l2c |
 | /vg | Lineage2 c4classic.ru c4 x3 Тринадцатый Ламповый Единый | 11/06/16 | [>>17653933](https://2ch.hk/vg/arch/2016-06-24/res/17653933.html) | | pnpl, дубль тред из /mmo, [>>6505625](https://2ch.hk/mmo/res/6505625.html) |
 | /mmo | Lineage Classic C4 [x3] Трнадцатый Ламповый Единый | 11/06/16 | [>>6505625](https://2ch.hk/mmo/res/6505625.html) | [Архивач](http://arhivach.ng/thread/179756/) | pnpl c4classic #13 (последний) |
 | /mmo | Линейдж х100 с анонами | 11/06/16 | [>>6505492](https://2ch.hk/mmo/res/6505492.html) | | Перекат из [>>6505366](https://2ch.hk/mmo/res/6505366.html) |
 | /mmo | линага на неделю | 10/06/16 | [>>6505366](https://2ch.hk/mmo/res/6505366.html) | | |
-| /vg | Lineage ][ Interlude | 08/06/16 | [>>17606819](https://m2ch.cf/vg/res/17606819.html) | | YOBA, Перекат из [>>](...) |
+| /vg | Lineage ][ Interlude | 08/06/16 | [>>17606819](https://m2ch.cf/vg/res/17606819.html) | | YOBA, перекат из [>>17433339](https://m2ch.cf/vg/res/17433339.html) |
 | /mmo | Очередного аутизма тред. | 06/06/16 | [>>6505006](https://2ch.hk/mmo/res/6505006.html) | | Чей-то дневничок |
-| /vg | PENTAWAR - Старт 28 мая в 20.00 | 27/04/16 | [>>17367213](https://2ch.hk/vg/arch/2016-06-05/res/17367213.html) | | Дубль тред из /mmo, [>>6504577](https://2ch.hk/mmo/res/6504577.html) |
+| /vg | Lineage ][ Interlude - тред | 30/05/16 | [>>17433339](https://m2ch.cf/vg/res/17433339.html) | | YOBA, перекат из [>>17145964](https://m2ch.cf/vg/res/17145964.html) |
+| /vg | PENTAWAR - Старт 28 мая в 20.00 | 27/05/16 | [>>17367213](https://2ch.hk/vg/arch/2016-06-05/res/17367213.html) | | Дубль тред из /mmo, [>>6504577](https://2ch.hk/mmo/res/6504577.html) |
 | /mmo | PENTAWAR - Старт 28 мая в 20.00 | 27/05/16 | [>>6504577](https://2ch.hk/mmo/res/6504577.html) | | |
+| /vg | Lineage ][ Interlude - тред | 17/05/16 | [>>17145964](https://m2ch.cf/vg/res/17145964.html) | | YOBA, перекат из [>>16861876](https://2ch.hk/vg/arch/2016-05-21/res/16861876.html) |
 | /mmo | interlude x7 | 16/05/16 | [>>6504136](https://2ch.hk/mmo/res/6504136.html) | | YOBA: перекат из /vg, [>>16861876](https://2ch.hk/vg/arch/2016-05-21/res/16861876.html) |
 | /mmo | Lineage Interlude x5 Старт 7 мая! | 07/05/16 | [>>6503639](https://2ch.hk/mmo/res/6503639.html) | | |
-| /vg | Interlude x7 YОВА #1 | 04/05/16 | [>>16861876](https://2ch.hk/vg/arch/2016-05-21/res/16861876.html) | | YOBA |
-| /vg | Lineage ][ - тред 10 | 21/04/16 | [>>16559854](https://2ch.hk/vg/arch/2016-05-18/res/16559854.html) | | KUKAN TAIN |
+| /vg | Interlude x7 YОВА #1 | 04/05/16 | [>>16861876](https://2ch.hk/vg/arch/2016-05-21/res/16861876.html) | [m2ch](https://m2ch.cf/vg/res/16861876.html) | YOBA |
+| /vg | Lineage ][ - тред 10 | 21/04/16 | [>>16559854](https://2ch.hk/vg/arch/2016-05-18/res/16559854.html) | [m2ch](https://m2ch.cf/vg/res/16559854.html) | Манямирок, перекат из [>>15728805](https://m2ch.cf/vg/res/15728805.html), перекатились в [>>17433339](https://m2ch.cf/vg/res/17433339.html) |
 | /mmo | [РуоФФ] Lineage 2 Classic | 17/04/16 | [>>6502367](https://2ch.hk/mmo/res/6502367.html) | | Переехал из /vg, [>>16390482](https://2ch.hk/vg/arch/2016-04-13/res/16390482.html) |
 | /mmo | lineageclassic.ru | 17/04/16 | [>>6502362](https://2ch.hk/mmo/res/6502362.html) | | |
 | /mmo | Я НЕ ПОНЯЛ, ПОЧЕМУ ЕЩЕ НЕТ ТХРЕАДА? | 15/04/16 | [>>6502197](https://2ch.hk/mmo/res/6502197.html) | | Дубль-тред |
@@ -416,29 +428,39 @@
 | /mmo |  | 16/03/16 | [>>6497766](https://2ch.hk/mmo/res/6497766.html) | | l2newday.com |
 | /mmo | RPG CLUB/SLOWPOKE EDITION | 15/03/16 | [>>6497146](https://2ch.hk/mmo/res/6497146.html) | | |
 | /mmo | L2 NOOB TREAD | 14/03/16 | [>>6497021](https://2ch.hk/mmo/res/6497021.html) | | Тред обсуждения игры |
+| /vg | Lineage ][ - тред (9½) | 14/03/16 | [>>15728805](https://m2ch.cf/vg/res/15728805.html) | | Манямирок, перекат из [>>14994717](https://m2ch.cf/vg/res/14994717.html) |
 | /mmo | Lineage 2 HF rpg-club.com | 14/03/16 | [>>6496597](https://2ch.hk/mmo/res/6496597.html) | | |
 | /mmo | НАБЕГ ЗА КАВКАЗ (V.4.1) | 12/03/16 | [>>6495861](https://2ch.hk/mmo/res/6495861.html) | | НАБЕГ ЗА КАВКАЗ |
 | /mmo | НАБЕГ ЗА КАВКАЗ (V.4) | 07/03/16 | [>>6493694](https://2ch.hk/mmo/res/6493694.html) | | НАБЕГ ЗА КАВКАЗ |
+| /vg | ЛА2 ДЛЯ НУФАГА | 04/03/16 | [>>15527794](https://2ch.hk/vg/arch/2016-03-04/res/15527794.html) | | Тред обсуждения игры |
 | /mmo | Открытие ДЕФО х30. Лучший сервер для анона | 04/03/16 | [>>6491286](https://2ch.hk/mmo/res/6491286.html) | | |
 | /mmo | Реквест KAVKAZ Lineage2 2012 | 02/03/16 | [>>6490577](https://2ch.hk/mmo/res/6490577.html) | | НАБЕГ ЗА КАВКАЗ |
 | /mmo |  | 02/03/16 | [>>6490223](https://2ch.hk/mmo/res/6490223.html) | | Тред поиска сервера |
 | /mmo |  | 01/03/16 | [>>6489224](https://2ch.hk/mmo/res/6489224.html) | | |
 | /mmo | Lineage Classic C4 [x3] Одинадцатый Ламповый Единый | 01/03/16 | [>>6489185](https://2ch.hk/mmo/res/6489185.html) | [Архивач](http://arhivach.ng/thread/152510/) | pnpl c4classic #11 |
 | /mmo | Lineage Classic C4 [x3] Десятый Ламповый Единый | 24/02/16 | [>>6485724](https://2ch.hk/mmo/res/6485724.html) | [Архивач](http://arhivach.ng/thread/151037/) | pnpl c4classic #10 |
+| /vg | Сап /vg/. Хочу вкатиться на ГоДопарашу | 21/02/16 | [>>15285493](https://m2ch.cf/vg/res/15285493.html) | | Тред поиска сервера |
 | /mmo | L2DAWN.COM | 21/02/16 | [>>6483655](https://2ch.hk/mmo/res/6483655.html) | | |
 | /mmo | LINEAGE 2 HF | 20/02/16 | [>>6482485](https://2ch.hk/mmo/res/6482485.html) | | |
 | /mmo | ОП-хуй - пиздолис который никогда не играл в ЛА2 | 19/02/16 | [>>6482133](https://2ch.hk/mmo/res/6482133.html) | | Тред обсуждения игры |
 | /mmo | Lineage Classic C4 [x3] Девятый Ламповый Единый | 18/02/16 | [>>6481401](https://2ch.hk/mmo/res/6481401.html) | [Архивач](http://arhivach.ng/thread/148893/) | pnpl c4classic #9 |
+| /vg | Lineage 2 Classic РуОфф | 12/02/16 | [>>15085722](https://m2ch.cf/vg/res/15085722.html) | | |
 | /mmo | Lineage Classic C4 [x3] Восьмой Ламповый Единый | 11/02/16 | [>>6476674](https://2ch.hk/mmo/res/6476674.html) | [Архивач](http://arhivach.ng/thread/146956/) | pnpl c4classic #8 |
+| /vg | Lineage ][ - тред (9) | 07/02/16 | [>>14994717](https://m2ch.cf/vg/res/14994717.html) | | Манямирок, перекат из [>>14699000](https://m2ch.cf/vg/res/14699000.html) |
 | /mmo | Анон, хочется поолимпить в Lineage (GF - HFp5) | 07/02/16 | [>>6474864](https://2ch.hk/mmo/res/6474864.html) | | Тред поиска сервера |
 | /mmo | Lineage Classic C4 [x3] Седьмой Ламповый Единый | 05/02/16 | [>>6473519](https://2ch.hk/mmo/res/6473519.html) | [Архивач](http://arhivach.ng/thread/145128/) | pnpl c4classic #7 |
-| /mmo | lineageclassic.ru x1 GF | 03/02/16 | [>>6472377](https://2ch.hk/mmo/res/6472377.html) | | Кукантайн |
+| /mmo | lineageclassic.ru x1 GF | 03/02/16 | [>>6472377](https://2ch.hk/mmo/res/6472377.html) | | KUKAN TAIN |
 | /mmo | Asterios x7 старт 19 февраля 18.00 | 01/02/16 | [>>6471274](https://2ch.hk/mmo/res/6471274.html) | | |
 | /mmo | Lineage Classic C4 [x3] Шестой Ламповый Единый | 28/01/16 | [>>6468283](https://2ch.hk/mmo/res/6468283.html) | [Архивач](http://arhivach.ng/thread/145127/) | pnpl c4classic #6 |
 | /mmo | dreamgame.ru IL x3 | 26/01/16 | [>>6466677](https://2ch.hk/mmo/res/6466677.html) | | |
+| /vg | Lineage ][ - тред (8) | 25/01/16 | [>>14699000](https://m2ch.cf/vg/res/14699000.html) | | Манямирок, перекат из [>>14508880](https://m2ch.cf/vg/res/14508880.html) |
+| /vg | Lineage ][ - тред (7) | 15/01/16 | [>>14508880](https://m2ch.cf/vg/res/14508880.html) | | Манямирок, перекат из [>>14067786](https://m2ch.cf/vg/res/14067786.html) |
 | /mmo | Lineage Classic C4 [x3] Пятый Ламповый Единый | 14/01/16 | [>>6460129](https://2ch.hk/mmo/res/6460129.html) | [Архивач](http://arhivach.ng/thread/142963/) | pnpl c4classic #5 |
 | /mmo | Зарезервирую тредик одного себя. | 07/01/16 | [>>6456366](https://web.archive.org/web/20160203033149/https://2ch.hk/mmo/res/6456366.html) | | Дневничок src000/yobaboba |
+| /vg | Ищу куда вкатиться с л2. | 04/01/16 | [>>14298723](https://m2ch.cf/vg/res/14298723.html) | | Тред поиска сервера |
 | /mmo | Помощь бомжу Lineage 2 ruoff | 04/01/16 | [>>6454382](https://web.archive.org/web/20160203124044/https://2ch.hk/mmo/res/6454382.html) | | |
+| /vg | Lineage ][ - тред (6) | 22/12/15 | [>>14067786](https://m2ch.cf/vg/res/14067786.html) | | Манямирок, перекат ПРОЕБАН В АРХИВЕ |
+| /vg | Lineage 2 Classic Europe [official thread] | 16/12/15 | [>>13961732](https://m2ch.cf/vg/res/13961732.html) | | |
 | /mmo | c4classic.ru часть третья | 10/12/15 | [>>6431221](https://web.archive.org/web/20160203123921/https://2ch.hk/mmo/res/6431221.html) | | pnpl c4classic #4 |
 | /mmo | RPG-club.com x7 [уже MLG-тред] #3 | 01/12/15 | [>>6420448](https://2ch.hk/mmo/res/6420448.html) | | |
 | /mmo | АСТЕРИОС ИКС СЕМЬ, МАТЬ ЕГО, ФЕНИКС! | 30/11/15 | [>>6418979](https://web.archive.org/web/20151203132324/https://2ch.hk/mmo/res/6418979.html) | | |
@@ -449,13 +471,18 @@
 | /mmo | Lineage2classic.com x3 (нет) | 21/11/15 | [>>6409091](https://web.archive.org/web/20160203124040/https://2ch.hk/mmo/res/6409091.html) | | |
 | /mmo | l2 rpg-club x7 | 21/11/15 | [>>6408688](https://web.archive.org/web/20151203132516/https://2ch.hk/mmo/res/6408688.html) | | |
 | /mmo | Lineage 2 Classic EU Предзаказ | 18/11/15 | [>>6406780](https://web.archive.org/web/20160102233848/https://2ch.hk/mmo/res/6406780.html) | | Дубль из /vg |
+| /vg | Lineage II -тред (4) | 18/11/15 | [>>13367108](https://m2ch.cf/vg/res/13367108.html) | | Манямирок, перекат из [>>13206944](https://m2ch.cf/vg/res/13206944.html) |
 | /mmo | Lineage 2 Classic. Добро пожаловать. Снова. | 16/11/15 | [>>6405165](https://web.archive.org/web/20151203004906/https://2ch.hk/mmo/res/6405165.html) | | Официалка l2 classic |
 | /mmo | х7 FantasyLife Лучший мир Interlude x7 | 15/11/15 | [>>6404525](https://web.archive.org/web/20151203132610/https://2ch.hk/mmo/res/6404525.html) | | |
 | /mmo | c4classic.ru часть третья | 14/11/15 | [>>6403371](https://web.archive.org/web/20160102233659mp_/https://2ch.hk/mmo/res/6403371.html) | | pnpl c4classic #3 |
+| /vg | Lineage II -тред (3) | 11/11/15 | [>>13206944](https://m2ch.cf/vg/res/13206944.html) | | Манямирок, перекат из [>>12970682](https://m2ch.cf/vg/res/12970682.html) |
 | /mmo | RPG-club.com x7 | 10/11/15 | [>>6400191](https://web.archive.org/web/20151203005012mp_/https://2ch.hk/mmo/res/6400191.html) | | |
+| /vg | Lineage II -тред | 04/11/15 | [>>12970682](https://m2ch.cf/vg/res/12970682.html) | | Манямирок, перекат из [>>12970682](https://m2ch.cf/vg/res/12970682.html) |
 | /mmo | Lineage 2 Classic. Добро пожаловать. Снова. | 01/11/15 | [>>6396284](https://web.archive.org/web/20151101232456/https://2ch.hk/mmo/res/6396284.html) | | Официалка l2 classic; Патомушта здесь УЛЬТРА КЛАССЕКАХАДКОР, ЁБАНА! |
 | /mmo | c4classic.ru | 26/10/15 | [>>6394468](https://web.archive.org/web/20151101155755/https://2ch.hk/mmo/res/6394468.html) | | pnpl c4classic #2 |
+| /vg | Lineage 2 руофф тред | 24/10/15 | [>>12698429](https://m2ch.cf/vg/res/12698429.html) | | |
 | /mmo | la.kiev.ua - ИЛ х10 тред. | 23/10/15 | [>>6392953](https://web.archive.org/web/20160103193924/https://2ch.hk/mmo/res/6392953.html) | | Перекат из [>>6261185](https://m2ch.cf/mmo/res/6261185.html) |
+| /vg | Lineage II -тред | 22/10/15 | [>>12970682](https://m2ch.cf/vg/res/12970682.html) | | Манямирок, №1 от xcont сотоварищи |
 | /mmo | Про lineage 2 в общем | 19/10/15 | [>>6367023](https://m2ch.cf/mmo/res/6367023.html) | | |
 | /mmo | Lineage 2 Classic. Добро пожаловать. Снова. | 16/10/15 | [>>6348570](https://web.archive.org/web/20151101155810/https://2ch.hk/mmo/res/6348570.html) | [m2ch](https://m2ch.cf/mmo/res/6348570.html) | Официалка l2 classic |
 | /mmo | Lineage II `www.c4classic.ru` | 11/10/15 | [>>6312552](https://web.archive.org/web/20151101155759/https://2ch.hk/mmo/res/6312552.html) | | pnpl c4classic #1 |
@@ -501,7 +528,8 @@
 | /mmo | ...в л2 сейчас. Куда вкатиться? | 24/07/15 | [>>5854661](https://m2ch.cf/mmo/res/5854661.html) | | Тред поиска сервера |
 | /mmo | Lineage 2 Interlude x7, Kurwa6 Edition | 22/07/15 | [>>5842233](https://m2ch.cf/mmo/res/5842233.html) | | Кукантайн |
 | /mmo | l2.playdefo.com x30 | 20/07/15 | [>>5823069](https://m2ch.cf/mmo/res/5823069.html) | | mept&cococo |
-| /mmo | Lineage 2 thread! | 17/07/15 | [>>5810137](https://m2ch.cf/mmo/res/5810137.html) | | Тред поиска сервера |
+| /mmo | Lineage 2 thread! | 17/07/15 | [>>5810137](https://m2ch.cf/mmo/res/5810137.html) | | Тред поиска сервера, дубль треда в /vg |
+| /vg | Lineage 2 thread! | 17/07/15 | [>>11660057](https://m2ch.cf/vg/res/11660057.html) | | Тред поиска сервера |
 | /mmo | l2.playdefo.com x30 | 07/07/15 | [>>5748842](https://m2ch.cf/mmo/res/5748842.html) | | mept&cococo |
 | /mmo | LA2 | 03/07/15 | [>>5728770](https://m2ch.cf/mmo/res/5728770.html) | | Большой тред поиска сервера |
 | /mmo | Lineage 2 Interlude x7 намба файв | 02/07/15 | [>>5723082](https://m2ch.cf/mmo/res/5723082.html) | | Куканы и BRANDAO с ggwp |

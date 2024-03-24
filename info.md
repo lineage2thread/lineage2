@@ -45,6 +45,7 @@
 > [`Различный софт, файлы и прочее`](https://sites.google.com/site/l2clientdev/home)
 
 ### Гайды от анонов:
+> [`Newbie Guide Helping Guide Extended 2024 - гайд для старта на С4 х1`](elmorelab_teon_farm_c4.md)
 > [`Мудрость Грибофарма 2022 - гайд для старта на C1`](elmorelab_teon_farm.md)
 
 |[↩️](header.md)|

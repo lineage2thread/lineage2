@@ -7,7 +7,7 @@
 | Номер | Дата | Ссылка на тред | Архив | Комментарий |
 |:---:|:---:|:---:|:---:|:---:|
 | #90 | 09/11/24 | [>>49092635](https://2ch.hk/vg/res/49092635.html) | | |
-| #89 | 25/10/24 | [>>49092635](https://2ch.hk/vg/res/49092635.html) | [Архивач](https://arhivach.xyz/thread/1091437/) | |
+| #89 | 25/10/24 | [>>49016454](https://2ch.hk/vg/res/49016454.html) | [Архивач](https://arhivach.xyz/thread/1091437/) | |
 | #88 | 03/09/24 | [>>48821695](https://2ch.hk/vg/res/48821695.html) | [Архивач](https://arhivach.xyz/thread/1091436/) | |
 | #87 | 12/08/24 | [>>48732993](https://2ch.hk/vg/res/48732993.html) | [Архивач](https://arhivach.top/thread/1062748/) | |
 | #86 | 29/07/24 | [>>48684087](https://2ch.hk/vg/res/48684087.html) | [Архивач](https://arhivach.top/thread/1049619/) | |

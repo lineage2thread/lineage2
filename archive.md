@@ -6,7 +6,12 @@
 
 | Номер | Дата | Ссылка на тред | Архив | Комментарий |
 |:---:|:---:|:---:|:---:|:---:|
-| #98 | 25/06/25 | [>>49961169](https://2ch.hk/vg/res/49961169.html) | | |
+| #103 | 24/09/25 | [>>50256767](https://2ch.su/vg/res/50256767.html) | | |
+| #102 | 25/08/25 | [>>50150951](https://2ch.su/vg/res/50150951.html) | [Архивач](https://arhivach.vc/thread/1236384/) | |
+| #101 | 05/08/25 | [>>50080221](https://2ch.su/vg/res/50080221.html) | [Архивач](https://arhivach.vc/thread/1224032/) | |
+| #100 | 20/07/25 | [>>50034369](https://2ch.su/vg/res/50034369.html) | [Архивач](https://arhivach.vc/thread/1215247/) | |
+| #99 | 11/07/25 | [>>50008581](https://2ch.su/vg/res/50008581.html) | [Архивач](https://arhivach.vc/thread/1204746/) | |
+| #98 | 25/06/25 | [>>49961169](https://2ch.hk/vg/res/49961169.html) | [Архивач](https://arhivach.vc/thread/1204362/) | |
 | #97 | 06/06/25 | [>>49904395](https://2ch.hk/vg/res/49904395.html) | [Архивач](https://arhivach.vc/thread/1198928/) | |
 | #96 | 13/05/25 | [>>49821275](https://2ch.hk/vg/res/49821275.html) | [Архивач](https://arhivach.vc/thread/1196644/) | |
 | #95 | 07/04/25 | [>>49701652](https://2ch.hk/vg/res/49701652.html) | [Архивач](https://arhivach.vc/thread/1178832/) | |

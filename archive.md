@@ -6,7 +6,11 @@
 
 | Номер | Дата | Ссылка на тред | Архив | Комментарий |
 |:---:|:---:|:---:|:---:|:---:|
-| #129 | 09/08/26 | [>>51252465](https://2ch.org/vg/res/51252465.html) | [Архивач]() | |
+| #133 | 21/09/26 | [>>51354785](https://2ch.org/vg/res/51354785.html) | [Архивач]() | |
+| #132 | 12/09/26 | [>>51326920](https://2ch.org/vg/res/51326920.html) | [Архивач](https://arhivach.vc/thread/1428781/) | |
+| #131 | 05/09/26 | [>>51313702](https://2ch.org/vg/res/51313702.html) | [Архивач](https://arhivach.vc/thread/1423729/) | |
+| #130 | 29/08/26 | [>>51299444](https://2ch.org/vg/res/51299444.html) | [Архивач](https://arhivach.vc/thread/1421854/) | |
+| #129 | 09/08/26 | [>>51252465](https://2ch.org/vg/res/51252465.html) | [Архивач](https://arhivach.vc/thread/1414330/) | |
 | #128 | 31/07/26 | [>>51234192](https://2ch.org/vg/res/51234192.html) | [Архивач](https://arhivach.vc/thread/1399560/) | |
 | #127 | 21/07/26 | [>>51211767](https://2ch.org/vg/res/51211767.html) | [Архивач](https://arhivach.vc/thread/1396874/) | |
 | #126 | 09/07/26 | [>>51182679](https://2ch.org/vg/res/51182679.html) | [Архивач](https://arhivach.vc/thread/1389536/) | |
